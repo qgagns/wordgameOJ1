@@ -413,16 +413,15 @@
             z-index: 5;
             display: flex;
             flex-direction: column;
-            justify-content: center;
-            text-align: center;
+            justify-content: left;
+            text-align: left;
             width: 100%;
             padding-left: 32px;  /* 좌측 말린 롤 여백 */
-            padding-right: 85px; /* 우측 왁스 인장 안전 여백 */
             pointer-events: none;
         }
         /* 두루마리 상부 태그 */
         .scroll-tag-text {
-            font-size: 13px;
+            font-size: 11px;
             font-weight: 900;
             margin-bottom: 2px;
             letter-spacing: 0.3px;
@@ -445,7 +444,7 @@
             width: 88px;
             height: 114px; /* 리본 꼬리가 자연스럽게 늘어지는 높이 */
             position: absolute; /* 🌟 두루마리 위에 안착 */
-            right: 6px;         /* 🌟 오른쪽 벽에서 화면 안쪽으로 쏙 들어옴 */            
+            right: 4px;         /* 🌟 오른쪽 벽에서 화면 안쪽으로 쏙 들어옴 */            
             background: none;
             border: none;
             padding: 0;
@@ -477,6 +476,16 @@
             pointer-events: none;
             filter: drop-shadow(0 5px 8px rgba(0,0,0,0.4));
             filter: brightness(1.3);
+        }
+        /* 🛡️ [투명 터치 방패] 인장 우측 끝까지 투명하게 덮어 뒤편 두루마리 터치를 100% 차단! */
+        .seal-ribbon-btn::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            bottom: -10px;
+            left: 0px;
+            right: -15px; /* 👈 인장 오른쪽 화면 끝까지 방패막을 쳐서 두루마리 터치 원천 봉쇄 */
+            z-index: 1;
         }
 
         /* 원형 왁스 안쪽 텍스트 레이어 */
@@ -4351,7 +4360,7 @@
                 }
 
                 smartTagRow.innerHTML = `<span>🧭 추천 탐험지</span>`;
-                smartMainText.innerText = `${activeMap.name} - ${curSecName}으로 출발`;
+                smartMainText.innerText = `「${activeMap.name}」으로 출발`;
             }
         }
 
