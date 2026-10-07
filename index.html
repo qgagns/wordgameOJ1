@@ -3866,16 +3866,26 @@
     }
 
     function renderTitleAndRecordsTab() {
-        const recTime = document.getElementById("recFastestTime");
+const recTime = document.getElementById("recFastestTime");
         if (!recTime) return;
 
-        recTime.innerText = gameRecords.fastestBossTime ? `${gameRecords.fastestBossTime}초 ⚡` : "기록 없음";
-        document.getElementById("recMaxStreak").innerText = `${gameRecords.maxStreak}연속`;
-        document.getElementById("recNoDamage").innerText = gameRecords.bossNoDamage ? "👑 달성 완료!" : "미달성";
-        document.getElementById("recBossClearCount").innerText = `${gameRecords.bossClearCount}회`;
-        document.getElementById("recTotalWrong").innerText = `${gameRecords.totalWrong}회`;
-        document.getElementById("recTimeOutCount").innerText = `${gameRecords.timeOutCount}회`;
+        // 🛡️ 초기화 상태에서도 뼈대 데이터 100% 안전 보장
+        gameRecords = safeStorageGet('spirit_records_data', gameRecords || {});
+        if (!gameRecords) gameRecords = {};
+        if (!Array.isArray(gameRecords.unlocked)) gameRecords.unlocked = ["first_bond"];
+        if (!gameRecords.equippedTitle) gameRecords.equippedTitle = "🌱 첫 걸음의 탐색자";
 
+        // 값이 없거나 9999초(더미)인 경우 "기록 없음"으로 표기
+        recTime.innerText = (gameRecords.fastestBossTime && gameRecords.fastestBossTime < 9999) 
+            ? `${gameRecords.fastestBossTime}초 ⚡` 
+            : "기록 없음";
+
+        // 비어있는 값은 안전하게 0으로 표시
+        document.getElementById("recMaxStreak").innerText = `${gameRecords.maxStreak || 0}연속`;
+        document.getElementById("recNoDamage").innerText = gameRecords.bossNoDamage ? "👑 달성 완료!" : "미달성";
+        document.getElementById("recBossClearCount").innerText = `${gameRecords.bossClearCount || 0}회`;
+        document.getElementById("recTotalWrong").innerText = `${gameRecords.totalWrong || 0}회`;
+        document.getElementById("recTimeOutCount").innerText = `${gameRecords.timeOutCount || 0}회`;
         const container = document.getElementById("achieveListContainer");
         if (!container) return;
         container.innerHTML = "";
