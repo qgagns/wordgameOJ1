@@ -91,8 +91,6 @@ moderate	[동] 완화하다, 조정하다; [형] 온건한, 적당한
 substantial	[형] 상당한, 실질적인
 crucial, indispensable, pivotal, vital	[형] 중대한, 결정적인, 중추적인, 필수적인
 	
-	
-	
 [결핍과 침식의 심연]	
 aggravate, undermine	[동] 악화시키다, 약화시키다, 훼손하다
 collapse, demolish, ruin	[동] 무너지다, 파괴하다, 무너뜨리다
@@ -166,7 +164,6 @@ bitterness	[명] 쓴맛
 anoxic	[형] 산소 결핍의
 hypoxia	[명] 저산소증
 deoxygenation	[명] 탈산소화
-	
 
 [혜안의 천문탑]	
 perceive	[동] 인지하다, 인식하다
@@ -248,7 +245,6 @@ satire	[명] 풍자
 satirize	[동] 풍자하다
 prose	[명] 산문
 visionary	[형] 선구적인; [명] 예지력 있는 사람
-	
 	
 [격동과 질서의 광장]	
 institution	[명] 제도, 기관
@@ -343,6 +339,161 @@ interface	[명] 인터페이스, 접점
 transmit	[동] 전달하다, 전파하다
 transmission	[명] 전이, 전달, 전파
 
+[교모의 별빛 도서관]
+ambiguous: [형] 모호한
+analysis: [명] 분석
+analyze: [동] 분석하다
+anthropologist: [명] 인류학자
+anthropomorphism: [명] 의인화
+appreciate: [동] 감상할 줄 알다
+archive: [명] 기록문서, 보관 자료
+astronomer: [명] 천문학자
+at first glance: [부] 첫눈에
+cannot afford toR: [동] ~할 여유가 없다
+conscious: [형] 의식적인
+computation: [명] 계산
+compute: [동] 계산하다
+cram: [동] 벼락 공부를 하다
+crucially: [부] 결정적으로
+cynical: [형] 냉소적인
+depict: [동] 묘사하다
+determined: [형] 결연한, 결단을 내린
+essence: [명] 본질, 정수
+essentialism: [명] 본질주의
+estimate: [동] 추정하다
+fascinating: [형] 매력적인
+given: [전] ~을 고려하면; [접] ~을 고려하면; [형] 주어진, 특정한
+grudging: [형] 투덜대는, 마지못해 하는
+helplessness: [명] 무력함
+identity: [명] 정체성
+ignorance: [명] 무지, 무식
+imitate: [동] 모방하다
+imposing: [형] 강요적인; 인상적인, 눈길을 사로잡는
+in the sense that ~: [접] ~라는 점에서
+incentive: [명] 인센티브, 동기
+insecurity: [명] 불안
+interpret: [동] 해석하다
+invisible: [형] 눈에 보이지 않는, 비가시적인
+latent: [형] 잠재적인, 잠재하는
+linguistic: [형] 언어적
+luminiferous ether: [명] 발광 에테르
+mechanistic: [형] 기계적인
+monitor: [동] 관찰하다, 지켜보다
+neuropsychologist: [명] 신경심리학자
+nevertheless: [부] 그럼에도 불구하고
+perceive: [동] 인지하다, 인식하다
+persuade: [동] 설득하다
+potentially: [부] 잠재적으로
+prefer: [동] 선호하다
+probable: [형] 가능한, 개연성 있는
+profound: [형] 깊은, 심오한
+prose: [명] 산문
+psychic: [형] 정신적인, 영적인
+remarkably: [부] 매우, 두드러지게
+resolve: [동] 해결하다
+self-esteem: [명] 자존감
+sensitive to ~: [형] ~에 민감한, 감수성이 예리한
+Shakespearean: [형] 셰익스피어의, 셰익스피어풍의
+significant: [형] 중요한
+skilled at ~: [형] ~에 숙련된, 숙달된
+statement: [명] 진술
+strategy: [명] 전략
+theorize: [동] 이론을 세우다
+threatening: [형] 위협하는, 위협적인
+unfamiliarity: [명] 낯섦, 익숙하지 않음
+unintended: [형] 의도치 않은
+unlikely: [형] ~할 것 같지 않은
+virtual: [형] 가상의
+vocal cords: [명] 성대
+worrisome: [형] 걱정스러운
+come up with ~: [동] ~을 생각해내다, 제시하다
 
+
+[교모의 거친 황야]
+A rather than B: [숙] B라기보다 A, B가 아니라 A
+a wide range of ~: [형] 광범위한 ~
+absorb: [동] 흡수하다
+accessible: [형] 접근[입장/이용] 가능한
+accommodate: [동] 수용하다
+accomplish: [동] 완수하다, 성취하다
+acquire: [동] 얻다, 습득하다
+affordable: [형] 살 만한 가격의, 저렴한
+against the clock: [숙] 시간을 다투어, 시간에 쫓겨
+agent: [명] 행위자
+all the while: [부] 그러는 동안에, 그동안
+allied: [형] 동맹한, 연합한
+alternative: [명] 대안
+anoxic: [형] 산소 결핍의
+arise: [동] 발생하다
+artifact: [명] 인공물
+assign: [동] 부여하다
+beneficial: [형] 유익한, 이로운
+collective: [형] 집합적인
+come off as ~: [동] ~처럼 보이다, ~라는 인상을 주다
+come under threat: [동] 위협을 받다
+compel: [동] 강요하다, 강제하다
+component: [명] 요소
+consequence: [명] 결과
+contribute to ~: [동] ~에 기여하다
+contribution: [명] 기여, 공헌
+corresponding: [형] 상응하는
+displace: [동] 쫓아내다
+dissolve: [동] 용해하다
+dynasty: [명] 왕조
+effective: [형] 효과적인
+efficient: [형] 효율적인
+encounter: [동] 마주치다, 조우하다; [명] 마주침, 조우, 접촉
+enormous: [형] 엄청난
+enthusiastically: [부] 열정적으로, 극구
+establish: [동] 확립하다
+ethnic: [형] 인종의, 민족의
+evolutionary: [형] 진화상의
+extensive: [형] 광범위한
+external: [형] 외적인, 외부의
+fertilize: [동] 비옥하게 하다
+flush: [명] (변기의) 물 내림; 홍조; [동] 물을 내리다
+functional: [형] 기능적인
+genetically: [부] 유전적으로
+habitat: [명] 서식지
+heritage site: [명] 문화 유적
+horizontal: [형] 수평적인
+inanimate: [형] 무생물의
+inevitably: [부] 필연적으로
+insufficient: [형] 불충분한
+internal: [형] 내적인, 내부의
+livelihood: [명] 생계 (수단)
+manufacture: [동] 생산하다, 제조하다
+manufacturer: [명] 생산자
+medium: [명] 매개체, 매체, 수단
+navigate: [동] 다루다, 항해하다
+nonprofit: [형] 비영리의, 비영리적인
+nutrient: [명] 영양분
+organism: [명] 유기체, 생물
+overshadowed: [형] 가려진
+passive: [형] 수동적인
+pedestrian: [명] 보행자
+phytoplankton: [명] 식물성 플랑크톤
+polar: [형] 극지의, 극의
+populate: [동] 서식하다, 거주하다
+population: [명] 개체군, 인구집단; 인구, 개체수
+predator: [명] 포식자
+predominantly: [부] 현저히; 주로, 대부분, 대체로
+preindustrial: [형] 산업화 이전의
+presence: [명] 있음, 존재; 참석, 출석
+preservation: [명] 보존, 보호
+procedure: [명] 절차
+reconstruction: [명] 재구성, 재건, 재현
+related to ~: [형] ~와 관련된
+relighting: [명] 재점화
+retreat: [동] 후퇴[철수]하다
+set ~ off: [동] (폭탄 등을) 터뜨리다
+structure: [명] 구조
+struggle: [명] 투쟁, 분투; [동] 분투하다, 애쓰다
+substance: [명] 물질
+vanish: [동] 사라지다
+vehicle: [명] 수단, 매개체; 차량
+vertical: [형] 수직적인
+vibrate: [동] 진동하다
+vibration: [명] 진동
 
 `;
