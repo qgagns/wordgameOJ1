@@ -42,6 +42,164 @@ const GAME_CONFIG = {
 
 const WORLD_MAPS_TEXT = `
 
+[교모의 별빛 도서관]
+ambiguous: [형] 모호한
+analysis: [명] 분석
+analyze: [동] 분석하다
+anthropologist: [명] 인류학자
+anthropomorphism: [명] 의인화
+appreciate: [동] 감상할 줄 알다
+archive: [명] 기록문서, 보관 자료
+astronomer: [명] 천문학자
+at first glance: [부] 첫눈에
+cannot afford toR: [동] ~할 여유가 없다
+conscious: [형] 의식적인
+computation: [명] 계산
+compute: [동] 계산하다
+cram: [동] 벼락 공부를 하다
+crucially: [부] 결정적으로
+cynical: [형] 냉소적인
+depict: [동] 묘사하다
+determined: [형] 결연한, 결단을 내린
+essence: [명] 본질, 정수
+essentialism: [명] 본질주의
+estimate: [동] 추정하다
+fascinating: [형] 매력적인
+given: [전] ~을 고려하면; [접] ~을 고려하면; [형] 주어진, 특정한
+grudging: [형] 투덜대는, 마지못해 하는
+helplessness: [명] 무력함
+identity: [명] 정체성
+ignorance: [명] 무지, 무식
+imitate: [동] 모방하다
+imposing: [형] 강요적인; 인상적인, 눈길을 사로잡는
+in the sense that ~: [접] ~라는 점에서
+incentive: [명] 인센티브, 동기
+insecurity: [명] 불안
+interpret: [동] 해석하다
+invisible: [형] 눈에 보이지 않는, 비가시적인
+latent: [형] 잠재적인, 잠재하는
+linguistic: [형] 언어적
+luminiferous ether: [명] 발광 에테르
+mechanistic: [형] 기계적인
+monitor: [동] 관찰하다, 지켜보다
+neuropsychologist: [명] 신경심리학자
+nevertheless: [부] 그럼에도 불구하고
+perceive: [동] 인지하다, 인식하다
+persuade: [동] 설득하다
+potentially: [부] 잠재적으로
+prefer: [동] 선호하다
+probable: [형] 가능한, 개연성 있는
+profound: [형] 깊은, 심오한
+prose: [명] 산문
+psychic: [형] 정신적인, 영적인
+remarkably: [부] 매우, 두드러지게
+resolve: [동] 해결하다
+self-esteem: [명] 자존감
+sensitive to ~: [형] ~에 민감한, 감수성이 예리한
+Shakespearean: [형] 셰익스피어의, 셰익스피어풍의
+significant: [형] 중요한
+skilled at ~: [형] ~에 숙련된, 숙달된
+statement: [명] 진술
+strategy: [명] 전략
+theorize: [동] 이론을 세우다
+threatening: [형] 위협하는, 위협적인
+unfamiliarity: [명] 낯섦, 익숙하지 않음
+unintended: [형] 의도치 않은
+unlikely: [형] ~할 것 같지 않은
+virtual: [형] 가상의
+vocal cords: [명] 성대
+worrisome: [형] 걱정스러운
+come up with ~: [동] ~을 생각해내다, 제시하다
+
+
+[교모의 거친 황야]
+A rather than B: [숙] B라기보다 A, B가 아니라 A
+a wide range of ~: [형] 광범위한 ~
+absorb: [동] 흡수하다
+accessible: [형] 접근[입장/이용] 가능한
+accommodate: [동] 수용하다
+accomplish: [동] 완수하다, 성취하다
+acquire: [동] 얻다, 습득하다
+affordable: [형] 살 만한 가격의, 저렴한
+against the clock: [숙] 시간을 다투어, 시간에 쫓겨
+agent: [명] 행위자
+all the while: [부] 그러는 동안에, 그동안
+allied: [형] 동맹한, 연합한
+alternative: [명] 대안
+anoxic: [형] 산소 결핍의
+arise: [동] 발생하다
+artifact: [명] 인공물
+assign: [동] 부여하다
+beneficial: [형] 유익한, 이로운
+collective: [형] 집합적인
+come off as ~: [동] ~처럼 보이다, ~라는 인상을 주다
+come under threat: [동] 위협을 받다
+compel: [동] 강요하다, 강제하다
+component: [명] 요소
+consequence: [명] 결과
+contribute to ~: [동] ~에 기여하다
+contribution: [명] 기여, 공헌
+corresponding: [형] 상응하는
+displace: [동] 쫓아내다
+dissolve: [동] 용해하다
+dynasty: [명] 왕조
+effective: [형] 효과적인
+efficient: [형] 효율적인
+encounter: [동] 마주치다, 조우하다; [명] 마주침, 조우, 접촉
+enormous: [형] 엄청난
+enthusiastically: [부] 열정적으로, 극구
+establish: [동] 확립하다
+ethnic: [형] 인종의, 민족의
+evolutionary: [형] 진화상의
+extensive: [형] 광범위한
+external: [형] 외적인, 외부의
+fertilize: [동] 비옥하게 하다
+flush: [명] (변기의) 물 내림; 홍조; [동] 물을 내리다
+functional: [형] 기능적인
+genetically: [부] 유전적으로
+habitat: [명] 서식지
+heritage site: [명] 문화 유적
+horizontal: [형] 수평적인
+inanimate: [형] 무생물의
+inevitably: [부] 필연적으로
+insufficient: [형] 불충분한
+internal: [형] 내적인, 내부의
+livelihood: [명] 생계 (수단)
+manufacture: [동] 생산하다, 제조하다
+manufacturer: [명] 생산자
+medium: [명] 매개체, 매체, 수단
+navigate: [동] 다루다, 항해하다
+nonprofit: [형] 비영리의, 비영리적인
+nutrient: [명] 영양분
+organism: [명] 유기체, 생물
+overshadowed: [형] 가려진
+passive: [형] 수동적인
+pedestrian: [명] 보행자
+phytoplankton: [명] 식물성 플랑크톤
+polar: [형] 극지의, 극의
+populate: [동] 서식하다, 거주하다
+population: [명] 개체군, 인구집단; 인구, 개체수
+predator: [명] 포식자
+predominantly: [부] 현저히; 주로, 대부분, 대체로
+preindustrial: [형] 산업화 이전의
+presence: [명] 있음, 존재; 참석, 출석
+preservation: [명] 보존, 보호
+procedure: [명] 절차
+reconstruction: [명] 재구성, 재건, 재현
+related to ~: [형] ~와 관련된
+relighting: [명] 재점화
+retreat: [동] 후퇴[철수]하다
+set ~ off: [동] (폭탄 등을) 터뜨리다
+structure: [명] 구조
+struggle: [명] 투쟁, 분투; [동] 분투하다, 애쓰다
+substance: [명] 물질
+vanish: [동] 사라지다
+vehicle: [명] 수단, 매개체; 차량
+vertical: [형] 수직적인
+vibrate: [동] 진동하다
+vibration: [명] 진동
+
+
 [풍요와 도약의 고원]
 boost	[동] 증대시키다, 북돋우다
 escalation, elevation	[명] 상승
@@ -365,161 +523,146 @@ interface	[명] 인터페이스, 접점
 transmit	[동] 전달하다, 전파하다
 transmission	[명] 전이, 전달, 전파
 
-[교모의 별빛 도서관]
-ambiguous: [형] 모호한
-analysis: [명] 분석
-analyze: [동] 분석하다
-anthropologist: [명] 인류학자
-anthropomorphism: [명] 의인화
-appreciate: [동] 감상할 줄 알다
-archive: [명] 기록문서, 보관 자료
-astronomer: [명] 천문학자
-at first glance: [부] 첫눈에
-cannot afford toR: [동] ~할 여유가 없다
-conscious: [형] 의식적인
-computation: [명] 계산
-compute: [동] 계산하다
-cram: [동] 벼락 공부를 하다
-crucially: [부] 결정적으로
-cynical: [형] 냉소적인
-depict: [동] 묘사하다
-determined: [형] 결연한, 결단을 내린
-essence: [명] 본질, 정수
-essentialism: [명] 본질주의
-estimate: [동] 추정하다
-fascinating: [형] 매력적인
-given: [전] ~을 고려하면; [접] ~을 고려하면; [형] 주어진, 특정한
-grudging: [형] 투덜대는, 마지못해 하는
-helplessness: [명] 무력함
-identity: [명] 정체성
-ignorance: [명] 무지, 무식
-imitate: [동] 모방하다
-imposing: [형] 강요적인; 인상적인, 눈길을 사로잡는
-in the sense that ~: [접] ~라는 점에서
-incentive: [명] 인센티브, 동기
-insecurity: [명] 불안
-interpret: [동] 해석하다
-invisible: [형] 눈에 보이지 않는, 비가시적인
-latent: [형] 잠재적인, 잠재하는
-linguistic: [형] 언어적
-luminiferous ether: [명] 발광 에테르
-mechanistic: [형] 기계적인
-monitor: [동] 관찰하다, 지켜보다
-neuropsychologist: [명] 신경심리학자
-nevertheless: [부] 그럼에도 불구하고
-perceive: [동] 인지하다, 인식하다
-persuade: [동] 설득하다
-potentially: [부] 잠재적으로
-prefer: [동] 선호하다
-probable: [형] 가능한, 개연성 있는
-profound: [형] 깊은, 심오한
-prose: [명] 산문
-psychic: [형] 정신적인, 영적인
-remarkably: [부] 매우, 두드러지게
-resolve: [동] 해결하다
-self-esteem: [명] 자존감
-sensitive to ~: [형] ~에 민감한, 감수성이 예리한
-Shakespearean: [형] 셰익스피어의, 셰익스피어풍의
-significant: [형] 중요한
-skilled at ~: [형] ~에 숙련된, 숙달된
-statement: [명] 진술
-strategy: [명] 전략
-theorize: [동] 이론을 세우다
-threatening: [형] 위협하는, 위협적인
-unfamiliarity: [명] 낯섦, 익숙하지 않음
-unintended: [형] 의도치 않은
-unlikely: [형] ~할 것 같지 않은
-virtual: [형] 가상의
-vocal cords: [명] 성대
-worrisome: [형] 걱정스러운
-come up with ~: [동] ~을 생각해내다, 제시하다
 
+[실모4,5의 바다 (1)]
+assume	[동] 추정하다, 가정하다; (책임을) 떠맡다
+attention	[명] 주의, 주목, 관심
+bias	[명] 편향, 편견
+clarity	[명] 명확성, 명료함
+conceptual	[형] 개념적인
+confuse	[동] 혼동하다
+distinguish	[동] 구별하다, 분간하다
+hypothetical	[형] 가설의, 가상적인
+impulse	[명] 충동
+instinct	[명] 본능
+intent	[명] 의도, 의향
+interpretation	[명] 해석, 이해
+memorization	[명] 암기
+motive	[명] 동기
+optimism	[명] 낙관주의, 낙관론
+pessimistic	[형] 비관적인
+predict	[동] 예측하다
+self-evaluation	[명] 자기 평가
+trait	[명] 특성, 특징
+carbon sink	[명] 탄소 흡수원
+experimentation	[명] 실험
+genetic	[형] 유전적인, 유전학의
+high-frequency	[형] 고주파의
+hunter-gatherer	[명] 수렵 채집인
+marine ecosystem	[명] 해양 생태계
+sensory	[형] 감각의
+adjust	[동] 조절하다, 조정하다
+advancement	[명] 발전, 진보
+elevate	[동] 높이다, 향상시키다
+evolve	[동] 진화하다, 발전하다
+groundbreaking	[형] 획기적인
+launch	[동] 출시하다, 시작하다
+revolutionize	[동] 대변혁을 일으키다
+sophisticated	[형] 정교한, 세련된
+specialized	[형] 전문화된 (specialize의 과거분사)
+aggressive	[형] 공격적인
+block	[동] 차단하다, 막다; [명] 블록, 구역
+boundary	[명] 경계, 한계
+burst	[동] 터지다, 파열하다
+combat	[명] 전투
+criticize	[동] 비판하다, 비평하다
+difficulty	[명] 어려움, 곤경
+in danger of	[숙] ~의 위험에 처한
+restriction	[명] 제한, 규제
+shatter	[동] 산산이 부수다
+theft	[명] 절도, 도둑질
+threaten	[동] 위협하다
+violent	[형] 폭력적인, 격렬한
+worsen	[동] 악화시키다
+compete	[동] 경쟁하다
+compliance	[명] 순응, 따름
+conformity	[명] 순응, 일치
+employee	[명] 직원, 고용인
+in charge of	[숙] ~을 맡고 있는, 담당하는
+management	[명] 관리, 경영
+negotiation	[명] 협상, 절충
+professional	[명] 전문가; [형] 전문적인
+promotion	[명] 승진, 홍보
+responsibility	[명] 책임
+suburban	[형] 교외의
+advantage	[명] 이점, 장점
+availability	[명] 이용 가능성, 유효성
+function	[동] 기능하다; [명] 기능
+functionality	[명] 기능성, 목적
+operational	[형] 운영상의, 작동상의
+utility	[명] 유용성, 효용
+utilize	[동] 활용하다, 이용하다
 
-[교모의 거친 황야]
-A rather than B: [숙] B라기보다 A, B가 아니라 A
-a wide range of ~: [형] 광범위한 ~
-absorb: [동] 흡수하다
-accessible: [형] 접근[입장/이용] 가능한
-accommodate: [동] 수용하다
-accomplish: [동] 완수하다, 성취하다
-acquire: [동] 얻다, 습득하다
-affordable: [형] 살 만한 가격의, 저렴한
-against the clock: [숙] 시간을 다투어, 시간에 쫓겨
-agent: [명] 행위자
-all the while: [부] 그러는 동안에, 그동안
-allied: [형] 동맹한, 연합한
-alternative: [명] 대안
-anoxic: [형] 산소 결핍의
-arise: [동] 발생하다
-artifact: [명] 인공물
-assign: [동] 부여하다
-beneficial: [형] 유익한, 이로운
-collective: [형] 집합적인
-come off as ~: [동] ~처럼 보이다, ~라는 인상을 주다
-come under threat: [동] 위협을 받다
-compel: [동] 강요하다, 강제하다
-component: [명] 요소
-consequence: [명] 결과
-contribute to ~: [동] ~에 기여하다
-contribution: [명] 기여, 공헌
-corresponding: [형] 상응하는
-displace: [동] 쫓아내다
-dissolve: [동] 용해하다
-dynasty: [명] 왕조
-effective: [형] 효과적인
-efficient: [형] 효율적인
-encounter: [동] 마주치다, 조우하다; [명] 마주침, 조우, 접촉
-enormous: [형] 엄청난
-enthusiastically: [부] 열정적으로, 극구
-establish: [동] 확립하다
-ethnic: [형] 인종의, 민족의
-evolutionary: [형] 진화상의
-extensive: [형] 광범위한
-external: [형] 외적인, 외부의
-fertilize: [동] 비옥하게 하다
-flush: [명] (변기의) 물 내림; 홍조; [동] 물을 내리다
-functional: [형] 기능적인
-genetically: [부] 유전적으로
-habitat: [명] 서식지
-heritage site: [명] 문화 유적
-horizontal: [형] 수평적인
-inanimate: [형] 무생물의
-inevitably: [부] 필연적으로
-insufficient: [형] 불충분한
-internal: [형] 내적인, 내부의
-livelihood: [명] 생계 (수단)
-manufacture: [동] 생산하다, 제조하다
-manufacturer: [명] 생산자
-medium: [명] 매개체, 매체, 수단
-navigate: [동] 다루다, 항해하다
-nonprofit: [형] 비영리의, 비영리적인
-nutrient: [명] 영양분
-organism: [명] 유기체, 생물
-overshadowed: [형] 가려진
-passive: [형] 수동적인
-pedestrian: [명] 보행자
-phytoplankton: [명] 식물성 플랑크톤
-polar: [형] 극지의, 극의
-populate: [동] 서식하다, 거주하다
-population: [명] 개체군, 인구집단; 인구, 개체수
-predator: [명] 포식자
-predominantly: [부] 현저히; 주로, 대부분, 대체로
-preindustrial: [형] 산업화 이전의
-presence: [명] 있음, 존재; 참석, 출석
-preservation: [명] 보존, 보호
-procedure: [명] 절차
-reconstruction: [명] 재구성, 재건, 재현
-related to ~: [형] ~와 관련된
-relighting: [명] 재점화
-retreat: [동] 후퇴[철수]하다
-set ~ off: [동] (폭탄 등을) 터뜨리다
-structure: [명] 구조
-struggle: [명] 투쟁, 분투; [동] 분투하다, 애쓰다
-substance: [명] 물질
-vanish: [동] 사라지다
-vehicle: [명] 수단, 매개체; 차량
-vertical: [형] 수직적인
-vibrate: [동] 진동하다
-vibration: [명] 진동
+[실모4,5의 바다 (2)]
+appeal	[명] 매력; 호소; [동] 매력적이다; 호소하다
+argument	[명] 논쟁, 주장
+engagement	[명] 참여, 몰입; 약속
+gathering	[명] 모임, 집회
+guide	[동] 안내하다, 이끌다; [명] 안내자
+humanize	[동] 인간화하다, 인격화하다
+integration	[명] 통합
+interaction	[명] 상호작용
+persuasion	[명] 설득
+point out	[숙] 지적하다
+celebrate	[동] 찬양하다, 축하하다
+composure	[명] 침착, 평정
+courageous	[형] 용감한
+escape	[동] 탈출하다, 벗어나다
+favor	[동] 선호하다, 편애하다; [명] 호의
+loneliness	[명] 외로움, 고독
+misbehavior	[명] 나쁜 품행, 비행
+procrastination	[명] 미루는 버릇, 연기
+reluctant	[형] 꺼리는, 마지못해 하는
+unappreciated	[형] 인정받지 못하는
+unawarely	[부] 눈치채지 못하게, 무의식적으로
+ancient	[형] 고대의
+consistent	[형] 일관된, 지속적인
+continuous	[형] 지속적인, 끊임없는
+endless	[형] 끝없는, 무한한
+existing	[형] 기존의, 현존하는
+initially	[부] 처음에, 초기에
+long-lasting	[형] 오래 지속되는
+temporary	[형] 일시적인
+complex	[형] 복잡한; [명] 복합체
+detailed	[형] 상세한
+empty	[동] 비우다; [형] 텅 빈
+enormously	[부] 엄청나게, 거대하게
+familiar	[형] 익숙한, 친숙한
+familiarity	[명] 친숙함, 익숙함
+gigantic	[형] 거대한
+incomplete	[형] 불완전한, 미완성의
+indistinguishable	[형] 구분이 안 되는
+inherent	[형] 내재적인, 고유한
+inherently	[부] 본질적으로, 선천적으로
+negligible	[형] 하찮은, 무시해도 될 정도의
+non-existent	[형] 존재하지 않는
+numerous	[형] 수많은
+significantly	[부] 상당히, 크게
+stability	[명] 안정성
+swift	[형] 신속한, 빠른
+unaffected	[형] 영향을 받지 않는
+vast	[형] 광대한, 거대한
+apply	[동] 적용하다; 지원하다
+awaken	[동] 일깨우다, 깨우다
+document	[명] 문서, 서류; [동] 기록하다
+emit	[동] 방출하다, 내뿜다
+ensure	[동] 보장하다, 확실하게 하다
+expend	[동] (시간·노력 등을) 쏟다, 들이다
+locate	[동] 찾아내다, 위치시키다
+maintain	[동] 유지하다
+necessitate	[동] 필요로 하다, 수반하다
+project	[동] 투영하다; 계획하다; [명] 과제, 계획
+differ from	[숙] ~와 다르다
+essentialist	[형] 본질주의적인; [명] 본질주의자
+falsely	[부] 잘못하여, 거짓으로
+fundamentally	[부] 근본적으로
+intensify	[동] 강화하다, 심화하다
+journey	[명] 여정, 여행
+poorly	[부] 저조하게, 열악하게
+represent	[동] 나타내다, 대표하다
+rightful	[형] 적법한, 정당한
+stem from	[숙] ~에서 비롯되다
+trigger	[동] 촉발하다; [명] 방아쇠
+
 
 `;
