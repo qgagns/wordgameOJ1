@@ -4235,9 +4235,11 @@
             fbHeart.innerText = isFav ? "💖" : "🤍";
             fbHeart.title = isFav ? "친해지고 싶은 정령 등록됨" : "친해지고 싶은 정령으로 찜하기";
         }
-        // 열려있는 단어장 목록의 모든 해당 단어 하트 갱신
-        document.querySelectorAll(`.fav-btn-${eng}`).forEach(btn => {
-            btn.innerText = isFav ? "💖" : "🤍";
+        // 🌟 띄어쓰기/특수문자가 있는 숙어 단어도 에러 없이 100% 안전 동기화!
+        document.querySelectorAll('button[data-fav-word]').forEach(btn => {
+            if (btn.dataset.favWord === eng) {
+                btn.innerText = isFav ? "💖" : "🤍";
+            }
         });
     }
 
@@ -5844,19 +5846,20 @@ const recTime = document.getElementById("recFastestTime");
 
             // 정답시 점수 계산
             let newCount = currentCountBefore;
-            if (q && q.isMorph && q.isMorphComplete) {
-                // 🌟 [한 큐에 계약 완료] 3단 변신을 모두 통과했으므로 즉시 영원의 계약(3점) 체결!
-                newCount = 3;
-            } else if (isInstantResonance) {
-                newCount = 3;
-                hist.hadInstant = true;
-            } else if (isQuickTuning) {
-                newCount = Math.min(3, currentCountBefore + 2);
-                hist.hadQuick = true;
-            } else {
-                newCount = Math.min(3, currentCountBefore + 1);
+            if (!isCounselingMode) {
+                if (q && q.isMorph && q.isMorphComplete) {
+                    newCount = 3;
+                } else if (isInstantResonance) {
+                    newCount = 3;
+                    hist.hadInstant = true;
+                } else if (isQuickTuning) {
+                    newCount = Math.min(3, currentCountBefore + 2);
+                    hist.hadQuick = true;
+                } else {
+                    newCount = Math.min(3, currentCountBefore + 1);
+                }
+                wordMastery[key] = newCount;
             }
-            wordMastery[key] = newCount;
 
             // 🌟 [영원의 계약 순간 판별] 공명이든 조율이든 이번 문제로 3점(계약) 도달 시 계약 일러스트 가동!
             const isContractAchieved = (currentCountBefore < 3 && newCount === 3);
@@ -6020,6 +6023,10 @@ const recTime = document.getElementById("recFastestTime");
                 fbTitle.className = "fb-hero-badge fb-theme-success";
                 fbTitle.innerText = `✨교감 성공! (${elapsedSec}초)`;
                 fbResonanceNotice.style.display = "block";
+                // 🌟 교감실 훈련일 경우 전용 멘트
+                if (isCounselingMode && !q.isCounsel) {
+                    fbResonanceNotice.innerHTML = `정령과 즐거운 시간을 보냈네. 다음에 탐험하다 만날 땐 꼭 이름을 잘 불러주라고.<br><b style="color:#b45309;">(※ 교감실에서의 모의 퀴즈는 계약 진도에 반영되지 않음)</b>`;
+                }
             }
 
             // 3회 계약 체결 시 칭호 및 유예 기간 등록
@@ -7774,9 +7781,10 @@ function handleMidBossVictory() {
                         <span class="word-sub-kor">${item.kor}</span>
                     </div>
                     <div style="display:flex; align-items:center; gap:6px;">
-                        <button class="fav-btn-${item.eng}" style="background:none; border:none; font-size:16px; cursor:pointer; padding:0; line-height:1;" onclick="toggleWordFavorite('${item.eng}', event)" title="친해지고 싶은 정령 찜하기">
+                        <button data-fav-word="${item.eng.replace(/"/g, '&quot;')}" style="background:none; border:none; font-size:16px; cursor:pointer; padding:0; line-height:1;" onclick="toggleWordFavorite(this.dataset.favWord, event)" title="친해지고 싶은 정령 찜하기">
                             ${isFav ? '💖' : '🤍'}
                         </button>
+
                         <span class="word-mini-status" style="background:${mInfo.bg}; color:${mInfo.color}; border: 1px solid ${mInfo.border || '#cbd5e1'}; font-weight:900;">
                             ${mInfo.text}
                         </span>
@@ -8780,7 +8788,7 @@ function handleMidBossVictory() {
             });
 
             if (targetWords.length === 0) {
-                showGameAlert("교감실 비어있음", "아직 하트(💖)로 찜한 정령이 없군. 그만큼 자신이 있다는 거겠지? 그게 아니라면, 어서 영지 단어장이나 교감 성공/실패창에서 하트(💖)를 눌러 등록해봐.", "확인", "💖 NO FAVORITES");
+                showGameAlert("교감실 비어있음", "아직 찜💖한 정령이 없군. 그만큼 자신이 있다는 거겠지? 그게 아니라면, 어서 영지 단어장이나 교감 성공/실패창에서 하트를 눌러 등록해봐.", "확인", "💖 NO FAVORITES");
                 return;
             }
             if (titleEl) titleEl.innerText = "💖 친해지고 싶은 정령 명단";
@@ -8803,7 +8811,7 @@ function handleMidBossVictory() {
                         <span class="word-main-eng">${w.eng}</span>
                         <span class="word-sub-kor">${w.kor}</span>
                     </div>
-                    <button class="fav-btn-${w.eng}" style="background:none; border:none; font-size:18px; cursor:pointer;" onclick="toggleWordFavorite('${w.eng}', event); updateShrineWordlistCount();">
+                    <button data-fav-word="${w.eng.replace(/"/g, '&quot;')}" style="background:none; border:none; font-size:18px; cursor:pointer;" onclick="toggleWordFavorite(this.dataset.favWord, event); updateShrineWordlistCount();">
                         ${isFav ? '💖' : '🤍'}
                     </button>
                 `;
