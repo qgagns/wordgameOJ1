@@ -48,7 +48,7 @@ analysis: [명] 분석
 analyze: [동] 분석하다
 anthropologist: [명] 인류학자
 anthropomorphism: [명] 의인화
-appreciate: [동] 감상할 줄 알다
+appreciate: [동] 감상하다
 archive: [명] 기록문서, 보관 자료
 astronomer: [명] 천문학자
 at first glance: [부] 첫눈에
