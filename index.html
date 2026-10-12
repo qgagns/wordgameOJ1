@@ -5454,9 +5454,19 @@ const recTime = document.getElementById("recFastestTime");
         // 문법 유형별 맞춤 라벨 판별 (동사: 과거/분사, 명사: 복수형, 형용사: 비교/최상급)
         const meaningText = q.korMeaning || q.kor || "";
         let formLabel = "과거형";
-        if (meaningText.includes('[명]')) formLabel = "복수형";
-        else if (meaningText.includes('[형]') || meaningText.includes('[부]')) formLabel = (q.morphPhase === 1) ? "비교급" : "최상급";
-        else formLabel = (q.morphPhase === 1) ? "과거형" : "과거분사형";
+        
+        // [명], (명사) 등 다양한 명사 표기 감지
+        if (meaningText.match(/\[명\]|\[명사\]|\(명\)|\(명사\)/)) {
+            formLabel = "복수형";
+        } 
+        // [형], [부], (형용사), [형/부] 등 다양한 형용사/부사 표기 감지
+        else if (meaningText.match(/\[형\]|\[부\]|\[형용사\]|\[부사\]|\[형\/부\]|\(형\)|\(부\)/)) {
+            formLabel = (q.morphPhase === 1) ? "비교급" : "최상급";
+        } 
+        // 그 외는 모두 동사로 처리
+        else {
+            formLabel = (q.morphPhase === 1) ? "과거형" : "과거분사형";
+        }
 
         // 상단 안내 태그 갱신
         const mTag = document.getElementById("masteryTag");
