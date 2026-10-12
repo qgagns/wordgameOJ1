@@ -22,6 +22,16 @@
             font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
             letter-spacing: -0.3px;
             -webkit-tap-highlight-color: transparent;
+            /* 🛡️ [컨닝 방어] 텍스트 드래그 및 모바일 꾹 누르기 복사 완벽 차단! */
+            user-select: none;
+            -webkit-user-select: none;
+            -webkit-touch-callout: none;
+        }
+        
+        /* 단, 학생이 학번/이름을 입력하는 로그인/수료증 칸은 타이핑해야 하므로 드래그 허용! */
+        input[type="text"], input[type="password"] {
+            user-select: auto;
+            -webkit-user-select: auto;
         }
 
         /* 🌟 [핵심 1] html 태그 자체를 모바일 화면에 100% 꽉 채움! */
@@ -1846,7 +1856,7 @@
 
     </style>
 </head>
-<body>
+<body oncontextmenu="return false;" ondragstart="return false;">
 
 <div class="game-container">
     <div class="parchment-inner">
