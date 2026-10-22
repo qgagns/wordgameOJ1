@@ -54,6 +54,58 @@ const GAME_CONFIG = {
 
 const WORLD_MAPS_TEXT = `
 
+[spell_SH_1: 2학기 수행의 바다]
+#철자까지 기억해야하는 수행 단어 정령들.
+disability	:	[명] 장애
+accessibility	:	[명] 접근성
+alternative	:	[형] 대체 가능한, 대안이 되는
+ensure	:	[동] 반드시 ~하게 하다, 보장하다
+necessarily	:	[부] 어쩔 수 없이, 필연적으로
+temporarily	:	[부] 일시적으로
+inclusive	:	[형] 포괄적인, 차별 없는
+justification	:	[명] 정당화
+encounter	:	[동] 마주하다, 접하다
+competing	:	[형] 경쟁하는, 서로 대립하는
+evaluate	:	[동] 평가하다
+homeostasis	:	[명] 항상성, 균형
+rebalance	:	[동] 균형을 다시 맞추다
+conservation	:	[명] 보존, 보호
+establishment	:	[명] 설립
+contribute	:	[동] 기여하다, 이바지하다
+inspire	:	[동] 영감을 주다, 고무하다
+testament	:	[명] 증거, 입증
+enduring	:	[형] 오래 지속되는
+relevance	:	[명] 관련성, 적절성
+significance	:	[명] 의미, 중요성
+convey	:	[동] 전달하다, 전하다
+transcend	:	[동] 초월하다, 넘어서다
+empathize	:	[동] 공감하다
+retain	:	[동] 유지하다, 간직하다
+reinforce	:	[동] 강화하다
+numerous	:	[형] 수많은
+recall	:	[동] 기억하다, 회상하다
+interconnected	:	[형] 서로 연결된
+association	:	[명] 연관, 연결
+consciously	:	[부] 의식적으로
+adjust	:	[동] 조정하다
+circumstance	:	[명] 상황, 환경
+yield	:	[동] 산출하다, 결과를 내다
+promising	:	[형] 유망한, 가능성이 있는
+discomfort	:	[명] 불편함
+disadvantage	:	[명] 불리함, 약점
+outcome	:	[명] 결과, 성과
+depression	:	[명] 우울증
+meaningful	:	[형] 의미 있는
+interaction	:	[명] 상호작용
+corporate	:	[형] 기업의, 회사의
+boundary	:	[명] 경계, 한계
+clarity	:	[명] 명확성, 맑음
+deforestation	:	[명] 삼림 벌채
+accomplish	:	[동] 완수하다, 달성하다
+approximately	:	[부] 대략
+convert	:	[동] 바꾸다, 전환하다
+
+
 [CE2_L4: 4과의 숲]
 #교과서 4과 단어 정령들. 보듬어줘라.
 open ~ up to …	:	[동] ~을 …에게 열어주다
@@ -134,57 +186,6 @@ region	:	[명] 지역, 지방
 search	:	[명] 검색; [동] 수색하다, 검색하다
 setting	:	[명] (기계를 조절하는) 설정
 format	:	[명] (컴퓨터 등에 사용되는) 형식, 포맷
-
-[spell_SH_1: 2학기 수행의 바다]
-#철자까지 기억해야하는 수행 단어 정령들.
-disability	:	[명] 장애
-accessibility	:	[명] 접근성
-alternative	:	[형] 대체 가능한, 대안이 되는
-ensure	:	[동] 반드시 ~하게 하다, 보장하다
-necessarily	:	[부] 어쩔 수 없이, 필연적으로
-temporarily	:	[부] 일시적으로
-inclusive	:	[형] 포괄적인, 차별 없는
-justification	:	[명] 정당화
-encounter	:	[동] 마주하다, 접하다
-competing	:	[형] 경쟁하는, 서로 대립하는
-evaluate	:	[동] 평가하다
-homeostasis	:	[명] 항상성, 균형
-rebalance	:	[동] 균형을 다시 맞추다
-conservation	:	[명] 보존, 보호
-establishment	:	[명] 설립
-contribute	:	[동] 기여하다, 이바지하다
-inspire	:	[동] 영감을 주다, 고무하다
-testament	:	[명] 증거, 입증
-enduring	:	[형] 오래 지속되는
-relevance	:	[명] 관련성, 적절성
-significance	:	[명] 의미, 중요성
-convey	:	[동] 전달하다, 전하다
-transcend	:	[동] 초월하다, 넘어서다
-empathize	:	[동] 공감하다
-retain	:	[동] 유지하다, 간직하다
-reinforce	:	[동] 강화하다
-numerous	:	[형] 수많은
-recall	:	[동] 기억하다, 회상하다
-interconnected	:	[형] 서로 연결된
-association	:	[명] 연관, 연결
-consciously	:	[부] 의식적으로
-adjust	:	[동] 조정하다
-circumstance	:	[명] 상황, 환경
-yield	:	[동] 산출하다, 결과를 내다
-promising	:	[형] 유망한, 가능성이 있는
-discomfort	:	[명] 불편함
-disadvantage	:	[명] 불리함, 약점
-outcome	:	[명] 결과, 성과
-depression	:	[명] 우울증
-meaningful	:	[형] 의미 있는
-interaction	:	[명] 상호작용
-corporate	:	[형] 기업의, 회사의
-boundary	:	[명] 경계, 한계
-clarity	:	[명] 명확성, 맑음
-deforestation	:	[명] 삼림 벌채
-accomplish	:	[동] 완수하다, 달성하다
-approximately	:	[부] 대략
-convert	:	[동] 바꾸다, 전환하다
 
 
 
