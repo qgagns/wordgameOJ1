@@ -104,6 +104,59 @@ deforestation	:	[명] 삼림 벌채
 accomplish	:	[동] 완수하다, 달성하다
 approximately	:	[부] 대략
 convert	:	[동] 바꾸다, 전환하다
+presence	:	[명] 존재, 있음
+progressively	:	[부] 점점, 점진적으로
+accordingly	:	[부] 따라서
+commercial	:	[형] 상업적인
+unpredictable	:	[형] 예측 불가능한
+spectator	:	[명] 관중
+variability	:	[명] 변동성, 다양성
+frustrating	:	[형] 좌절감을 주는
+overcome	:	[동] 극복하다
+systematic	:	[형] 체계적인
+element	:	[명] 요소
+financial	:	[형] 재정적인
+certainty	:	[명] 확실성, 확신
+bond	:	[명] 유대, 관계
+masterpiece	:	[명] 걸작
+dedication	:	[명] 헌신
+bother	:	[동] 신경 쓰이게 하다, 괴롭히다
+embarrassed	:	[형] 당황한, 부끄러운
+confident	:	[형] 자신감 있는, 확신하는
+current	:	[형] 현재의, 지금의
+resident	:	[명] 거주자
+injustice	:	[명] 불평등, 부당함
+exclusion	:	[명] 배제
+intend	:	[동] 의도하다
+degrade	:	[동] 저하시키다
+paradox	:	[명] 역설
+deliberate	:	[형] 의도적인
+assert	:	[동] 주장하다
+foundation	:	[명] 토대
+eager	:	[형] 열렬한, 간절히 바라는, 열심인
+immigrant	:	[명] 이민자
+subtle	:	[형] 미묘한
+conduct	:	[동] 수행하다, 실행하다
+assume	:	[동] 추정하다, 가정하다
+contemporary	:	[형] 현대의, 동시대의
+undergo	:	[동] 겪다, 경험하다
+crucial	:	[형] 결정적인, 매우 중요한
+skeptical	:	[형] 회의적인
+sustainable	:	[형] 지속가능한
+implication	:	[명] 영향, 함의
+transparency	:	[명] 투명성
+ethical	:	[형] 윤리적인
+reveal	:	[동] 드러내다
+independent	:	[형] 독립된, 독립적인
+stabilize	:	[동] 안정시키다
+frequent	:	[형] 잦은, 빈번한
+permanent	:	[형] 영구적인, 오래가는
+convince	:	[동] 설득하다
+matter	:	[동] 중요하다
+identical	:	[형] 동일한
+hesitate	:	[동] 주저하다
+convenience	:	[명] 편의
+
 
 
 [CE2_L4: 4과의 숲]
