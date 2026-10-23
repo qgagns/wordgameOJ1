@@ -243,163 +243,41 @@ setting	:	[명] (기계를 조절하는) 설정
 format	:	[명] (컴퓨터 등에 사용되는) 형식, 포맷
 
 
+[passage_CE_L4: 옥정고1 4과 지문]
+# 글을 보며 뜻을 떠올려보는 연습
+=== 1. 도입부 ===
+[[Imagine | imagine: [동] ~을 상상하다, 마음속에 그리다]] you have fallen down and broken your right arm. There are some things that would be difficult to do with your [[injured | injure: [동] 다치게 하다, 부상 입히다]] arm. For example, you might not be able to carry heavy boxes or ride your bike. What about [[accessing | access: [동] (컴퓨터로) ~에 접속하다]] the Internet? If you are [[right-handed | right-handed: [형] 오른손잡이인]], using a computer mouse or touchscreen with your left hand would be [[awkward | awkward: [형] (동작∙행동 등이) 어색한]] and [[take a lot of time | take time: [동] 시간이 걸리다, 시간을 가지다]].
+However, this is a [[minor | minor: [형] 작은, 사소한]] [[challenge | challenge: [명] 도전, 과제; [동] 도전하다; [동] 이의를 제기하다]] compared to what some of us [[face | face: [명] 얼굴, 면; [동] ~에 직면하다]] on the Internet. For people with certain [[disabilities | disability: [명] 장애, 불능]], many websites can be [[nearly | nearly: [부] 거의]] [[impossible | impossible: [형] 불가능한]] to use. This is the reason why web [[accessibility | accessibility: [명] 접근성, 이용성]] is important. Web [[accessibility | accessibility: [명] 접근성, 이용성]] is the [[practice | practice: [명] 연습; [명] 실천, 실행; [동] 연습하다, 실천하다]] of making sure that websites can be used by everyone, [[including | include: [동] ~을 포함하다]] people with [[disabilities | disability: [명] 장애, 불능]]. So what exactly makes a website [[accessible | accessible: [형] 접근 가능한, 이용 가능한]]?
+Here are some [[common | common: [형] 공통의; [형] 흔한]] [[features | feature: [명] 특징, 특성]] of [[accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites.
 
+=== 2. 이미지 텍스트 묘사 ===
+*Text [[Descriptions | description: [명] 설명, 묘사]] of Images*
+[[Along with | along with ~: [전] ~에 덧붙여]] text, most websites [[include | include: [동] ~을 포함하다]] other [[forms | form: [명] 형태, 형식; [동] 형성하다]] of information, such as images. Sometimes such [[visual | visual: [형] 시력의]] information is important for understanding the text. This is a problem for users with [[visual | visual: [형] 시력의]] [[disabilities | disability: [명] 장애, 불능]]. When they go on a website, they often use programs called “screen readers,” which read online text [[aloud | aloud: [부] 큰 소리로]]. However, these programs cannot “read” images.
+[[Accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites solve this problem by providing [[alternative | alternative: [형] 대안의, 대신의]] text, also [[known as | known as ~: [형] ~라고 알려진]] “alt text.” Alt text is a [[brief | brief: [형] 간략한]] [[description | description: [명] 설명, 묘사]] of non-textual information. For instance, if an image shows a group of students, its alt text would explain how many students are in the image and what they are doing. Screen readers can [[detect | detect: [동] ~을 감지하다, 알아채다]] this alt text and read it [[aloud | aloud: [부] 큰 소리로]]. This way, alt text [[ensures | ensure: [동] ~을 보장하다, 확실하게 하다]] that people with [[visual | visual: [형] 시력의]] [[disabilities | disability: [명] 장애, 불능]] can [[access | access: [동] (컴퓨터로) ~에 접속하다]] more of the information on a website.
 
+=== 3. 구술 표기와 자막 ===
+*[[Transcripts | transcript: [명] (구술된 내용을) 글로 옮긴 기록]] and [[Captions | caption: [명] (텔레비전 등의) 자막]] for Multimedia Content*
+In some cases, [[audio | audio: [형] 소리의, 음성의]] content cannot be [[accessed | access: [동] (컴퓨터로) ~에 접속하다]] or understood. Some people may have [[hearing | hearing: [명] 청각, 청력]] [[disabilities | disability: [명] 장애, 불능]], while others might be in places where they can’t listen to [[audio | audio: [형] 소리의, 음성의]], such as a quiet library. Therefore, [[accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites often [[offer | offer: [동] ~을 제공하다; [명] 제공, 제안]] other ways to [[access | access: [동] (컴퓨터로) ~에 접속하다]] information that is [[presented | present: [동] (정보 등)을 제시하다, 제공하다; [명] 현재; [명] 선물]] in [[audio | audio: [형] 소리의, 음성의]] [[form | form: [명] 형태, 형식; [동] 형성하다]].
+For example, they may provide [[transcripts | transcript: [명] (구술된 내용을) 글로 옮긴 기록]] or [[captions | caption: [명] (텔레비전 등의) 자막]] that can help users [[access | access: [동] (컴퓨터로) ~에 접속하다]] this information. [[Transcripts | transcript: [명] (구술된 내용을) 글로 옮긴 기록]] are text versions of the entire [[audio | audio: [형] 소리의, 음성의]] content, while [[captions | caption: [명] (텔레비전 등의) 자막]] are text versions of the [[audio | audio: [형] 소리의, 음성의]] that [[appear | appear: [동] 나타나다, 생기다; [동] ~해 보이다]] in a video as it plays. [[Captions | caption: [명] (텔레비전 등의) 자막]] [[include | include: [동] ~을 포함하다]] not only the text version of the [[spoken | spoken: [형] 구어의]] words but also [[descriptions | description: [명] 설명, 묘사]] of the music and other sounds in the video.
 
+=== 4. 보고 듣기 쉬운 컨텐츠 ===
+*[[Content: [명] 컨텐츠; [명] 함유물, 함량; [형] 만족하는]] That Is Easy to See and Hear*
+Having a [[visual | visual: [형] 시력의]] [[disability | disability: [명] 장애, 불능]] doesn’t [[necessarily | necessarily: [부] 필연적으로, 불가피하게, 반드시]] mean a person can’t see at all. Some people, [[including | include: [동] ~을 포함하다]] many [[elderly | elderly: [형] 나이가 지긋한, 연로한]] people, simply have [[poor | poor: [형] (환경·상황 등이) 좋지 않은; [형] 가난한]] [[eyesight | eyesight: [명] 시력]]. This makes it difficult for them to read. For this reason, [[accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites have a [[background | background: [명] 바탕, 배경]] color that [[contrasts | contrast: [동] 대조를 이루다; [명] 대조, 대비]] with the color of their text. This makes the text clear enough for most people to see.
+[[As for | as for ~: [전] ~에 대해서 말하자면]] [[audio | audio: [형] 소리의, 음성의]] content, [[accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites allow users to [[adjust | adjust: [동] ~을 조절하다, 맞추다]] the volume of [[background | background: [명] 바탕, 배경]] sound or to turn it off [[altogether | altogether: [부] 완전히, 전적으로]]. This gives users both with and without [[hearing | hearing: [명] 청각, 청력]] [[difficulties | difficulty: [명] 장애, 어려움]] more [[control | control: [명] 지배(권), 통제(권)]] over their experience while they are using the sites.
 
+=== 5. 완전한 키보드 탐색 ===
+*[[Complete | complete: [형] 전부의, 완료된; [동] 완수하다, 완료하다]] [[Navigation | navigation: [명] 탐색, 내비게이션]] Using the Keyboard*
+Some users have [[disabilities | disability: [명] 장애, 불능]] that [[limit | limit: [동] ~을 제한하다, 한정하다; [명] 제한, 한계]] the [[movement | movement: [명] 움직임, 동작; [명] (사회적인) 운동]] of their hands. They [[rely on | rely on ~: [동] ~에 의존하다, 의지하다]] their keyboards, rather than a mouse, to navigate websites. On [[accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites, users can [[access | access: [동] (컴퓨터로) ~에 접속하다]] everything on the site using only a keyboard. This means that [[links | link: [명] (웹사이트 등의) 링크; [동] 연결하다]], buttons, and [[fields | field: [명] 운동장, 논, 밭, 영역; [명] (컴퓨터 문서의) 필드, 칸]], which are spaces where information is entered, can be [[accessed | access: [동] (컴퓨터로) ~에 접속하다]] through keyboard [[navigation | navigation: [명] 탐색, 내비게이션]]. Users navigate the websites by [[making use of | make use of ~: [동] ~을 이용하다]] keys such as the space bar, the [[arrow | arrow: [명] 화살, 화살표]] keys, the enter key, and the tab key. For example, they can use the tab key to [[jump | jump: [동] 건너뛰다]] from one part of a web page to another. Both users with [[disabilities | disability: [명] 장애, 불능]] and those with [[temporarily | temporarily: [부] 일시적으로]] [[injured | injure: [동] 다치게 하다, 부상 입히다]] hands can [[benefit | benefit: [명] 이득, 이익; [동] 이익이 되다; [동] (from) 이익을 얻다]] from this [[kind | kind: [명] 종류; [형] 착한, 친절한]] of [[navigation | navigation: [명] 탐색, 내비게이션]].
 
+=== 6. 색상 이외의 지표 ===
+*[[Indicators | indicator: [명] 지표]] [[Other than | other than ~: [전] ~ 외에, ~ 말고]] Color That [[Convey | convey: [동] (정보∙생각 등)을 전달하다]] Information*
+[[Color blindness | color blindness: [명] 색맹]] is a [[common | common: [형] 공통의; [형] 흔한]] [[visual | visual: [형] 시력의]] [[disability | disability: [명] 장애, 불능]]. People with [[color blindness | color blindness: [명] 색맹]] find it difficult to [[tell | tell ~ apart: [동] ~을 구별하다]] some colors [[apart | tell ~ apart: [동] ~을 구별하다]]. This can cause problems, especially when graphs and charts only use colors to show the [[differences | difference: [명] 차이(점), 다름]] between sets of information. [[Accessible | accessible: [형] 접근 가능한, 이용 가능한]] websites use other [[indicators | indicator: [명] 지표]] [[along with | along with ~: [전] ~에 덧붙여]] the colors. For example, a line in green may also be [[dotted | dotted: [형] 점이 찍힌]], while a line in blue is [[solid | solid: [명] 고체; [형] 단단한, 굳건한; [형] 죽 이어진, 연속적인]]. This [[ensures | ensure: [동] ~을 보장하다, 확실하게 하다]] that everyone can [[tell the two lines apart | tell ~ apart: [동] ~을 구별하다]].
 
+=== 7. 마무리 ===
+The [[accessibility | accessibility: [명] 접근성, 이용성]] [[features | feature: [명] 특징, 특성]] of websites don’t just help people with [[disabilities | disability: [명] 장애, 불능]]. They can make online experiences easier for everyone, [[regardless of | regardless of ~: [전] ~에 상관없이]] abilities or situations. When websites are easy to navigate and understand, we can all [[benefit | benefit: [명] 이득, 이익; [동] 이익이 되다; [동] (from) 이익을 얻다]] from a more [[inclusive | inclusive: [형] 차별 없는, 포용적인]] online experience.
 
-[irreg_verbs: 불규칙 동사의 늪]
-# 제멋대로 모습을 바꾸는 동사 정령들이 서식하는 늪
-drive (drove, driven): [동] 운전하다, 몰다
-ride (rode, ridden): [동] 타다
-write (wrote, written): [동] 쓰다
-break (broke, broken): [동] 부수다
-choose (chose, chosen): [동] 선택하다, 고르다
-freeze (froze, frozen): [동] 얼다, 얼리다
-speak (spoke, spoken): [동] 말하다
-steal (stole, stolen): [동] 훔치다
-get (got, got): [동] 얻다; ~해지다
-forget (forgot, forgotten): [동] 잊다
-begin (began, begun): [동] 시작하다
-drink (drank, drunk): [동] 마시다
-run (ran, run): [동] 달리다
-shrink (shrank, shrunk): [동] 줄어들다
-sing (sang, sung): [동] 노래하다
-spring (sprang, sprung): [동] 튀어 오르다
-swim (swam, swum): [동] 수영하다
-take (took, taken): [동] 잡다, 가지다
-shake (shook, shaken): [동] 흔들다, 흔들리다
-mistake (mistook, mistaken): [동] 실수하다
-blow (blew, blown): [동] 불다
-fly (flew, flown): [동] 날다, 날리다
-grow (grew, grown): [동] 자라다; 키우다
-know (knew, known): [동] 알고 있다
-throw (threw, thrown): [동] 던지다
-withdraw (withdrew, withdrawn): [동] 철회하다
-swear (swore, sworn): [동] 맹세하다
-tear (tore, torn): [동] 찢다
-wear (wore, worn): [동] 입다
-show (showed, shown): [동] 보여주다
-be (was/were, been): [동] 있다/이다
-beat (beat, beaten): [동] 때리다
-become (became, become): [동] 되다
-bite (bit, bitten): [동] 물다
-come (came, come): [동] 오다
-do (did, done): [동] 하다
-eat (ate, eaten): [동] 먹다
-fall (fell, fallen): [동] 떨어지다, 넘어지다
-forbid (forbade, forbidden): [동] 금지하다
-give (gave, given): [동] 주다
-forgive (forgave, forgiven): [동] 용서하다
-go (went, gone): [동] 가다
-hide (hid, hidden): [동] 숨다, 숨기다
-lie (lay, lain): [동] 눕다
-see (saw, seen): [동] 보다
-bleed (bled, bled): [동] 피를 흘리다
-feed (fed, fed): [동] 먹이다
-lead (led, led): [동] 이끌다
-meet (met, met): [동] 만나다
-read (read, read): [동] 읽다
-shoot (shot, shot): [동] 쏘다, 발사하다
-sleep (slept, slept): [동] 자다
-speed (sped, sped): [동] 속도를 내다
-hear (heard, heard): [동] 듣다
-dig (dug, dug): [동] 파다
-hang (hung, hung): [동] 매달다, 걸다
-stick (stuck, stuck): [동] 찌르다; 붙이다
-strike (struck, struck): [동] 치다, 때리다
-wake (woke, woken): [동] 깨우다
-shine (shone, shone): [동] 빛나다, 광을 내다
-win (won, won): [동] 이기다; 얻다
-build (built, built): [동] 세우다, 짓다
-lend (lent, lent): [동] 빌려주다
-lose (lost, lost): [동] 잃다; 지다
-send (sent, sent): [동] 보내다
-spend (spent, spent): [동] (돈, 시간 등을)사용하다, 쓰다
-deal (dealt, dealt): [동] 다루다; 거래하다
-mean (meant, meant): [동] 의미하다
-bend (bent, bent): [동] 구부리다
-feel (felt, felt): [동] 느끼다
-hold (held, held): [동] 잡다, 쥐다
-keep (kept, kept): [동] 유지하다; 기르다
-leave (left, left): [동] 떠나다; 남겨두다
-bring (brought, brought): [동] 가져오다
-buy (bought, bought): [동] 사다
-catch (caught, caught): [동] 잡다
-fight (fought, fought): [동] 싸우다
-seek (sought, sought): [동] 찾다, 추구하다
-teach (taught, taught): [동] 가르치다
-think (thought, thought): [동] 생각하다
-find (found, found): [동] 찾다, 발견하다
-pay (paid, paid): [동] 지불하다
-say (said, said): [동] 말하다
-stand (stood, stood): [동] 서다
-understand (understood, understood): [동] 이해하다
-sell (sold, sold): [동] 팔다
-tell (told, told): [동] 말하다
-have (had, had): [동] 가지고 있다, 소유하고 있다
-light (lit, lit): [동] (불을)켜다, 밝히다
-make (made, made): [동] 만들다
-sit (sat, sat): [동] 앉다
-slide (slid, slid): [동] 미끄러지다
-burst (burst, burst): [동] 터뜨리다
-cost (cost, cost): [동] 비용이~가 들다
-cut (cut, cut): [동] 자르다
-hit (hit, hit): [동] 치다
-hurt (hurt, hurt): [동] 다치게 하다; 아프다
-put (put, put): [동] 두다, 놓다
-set (set, set): [동] 놓다; 마련하다
-shut (shut, shut): [동] 닫다, 잠그다
-spread (spread, spread): [동] 펴다, 펼치다
-
-[irreg_nouns: 불규칙 명사의 언덕]
-# 제멋대로 모습을 바꾸는 명사 정령들이 서식하는 언덕
-man (men): [명] 남자, 사람
-woman (women): [명] 여자
-child (children): [명] 아이, 어린이
-person (people): [명] 사람
-foot (feet): [명] 발
-tooth (teeth): [명] 이, 치아
-goose (geese): [명] 거위
-mouse (mice): [명] 쥐
-ox (oxen): [명] 황소
-louse (lice): [명] 이(곤충)
-sheep (sheep): [명] 양
-deer (deer): [명] 사슴
-fish (fish): [명] 물고기, 생선
-species (species): [명] 종(생물 분류 단위)
-series (series): [명] 연속, 시리즈
-aircraft (aircraft): [명] 항공기
-medium (media): [명] 매체, 대중매체
-curriculum (curricula): [명] 교육과정, 커리큘럼
-criterion (criteria): [명] 기준, 표준
-phenomenon (phenomena): [명] 현상
-crisis (crises): [명] 위기
-basis (bases): [명] 근거, 기초
-analysis (analyses): [명] 분석
-hypothesis (hypotheses): [명] 가설
-oasis (oases): [명] 오아시스
-stimulus (stimuli): [명] 자극, 자극제
-fungus (fungi): [명] 균류, 곰팡이
-cactus (cacti): [명] 선인장
-
-[irreg_ads: 불규칙 형용사/부사의 굴]
-# 제멋대로 모습을 바꾸는 형용사/부사 정령들이 서식하는 굴
-good (better, best): [형] 좋은
-well (better, best): [부] 잘, 좋게
-bad (worse, worst): [형] 나쁜
-ill (worse, worst): [형] 아픈, 나쁜
-badly (worse, worst): [부] 심하게, 나쁘게
-many (more, most): [형] 많은 (셀 수 있는 명사 수식)
-much (more, most): [형/부] 많은, 많이 (셀 수 없는 명사 수식)
-little (less, least): [형/부] 적은, 적게 (양/정도)
-far (거리) (farther, farthest): [형/부] 먼, 더 먼, 가장 먼
-far (정도) (further, furthest): [형/부] 나아간, 더 나아간, 가장 깊은
-late (시간) (later, latest): [형/부] 늦은, 더 늦은, 가장 최근의
-late (순서) (latter, last): [형] (둘 중) 나중의, 후자의, 마지막의
-old (나이) (older, oldest): [형] 나이 든, 더 나이 든, 가장 나이 든
-old (서열) (elder, eldest): [형] 나이 든, 손위의, 가장 맏이의
+=== 8. 컬쳐노트 ===
+*Culture Notes - Making the Web More [[Culturally | culturally: [부] 문화적으로]] [[Accessible | accessible: [형] 접근 가능한, 이용 가능한]]*
+Reading and writing systems are different across cultures. People from Western cultures read and write from left to right, while those from some Middle Eastern cultures read and write from right to left. People from some Eastern cultures, like that of Japan, read and write from top to bottom. Some [[global | global: [형] 세계적인]] websites [[take | take ~ into consideration: [동] ~을 고려하다]] these differences [[into consideration | take ~ into consideration: [동] ~을 고려하다]] and [[adjust | adjust: [동] ~을 조절하다, 맞추다]] their websites for people in different [[regions | region: [명] 지역, 지방]]. In countries where text is read from right to left, the website’s [[search | search: [명] 검색; [동] 수색하다, 검색하다]] button is on the left and the logo is on the right. If you visit the same websites in a different language [[setting | setting: [명] (기계를 조절하는) 설정]], you will see a different [[format | format: [명] (컴퓨터 등에 사용되는) 형식, 포맷]].
 
 `;
