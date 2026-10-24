@@ -243,7 +243,7 @@ setting	:	[명] (기계를 조절하는) 설정
 format	:	[명] (컴퓨터 등에 사용되는) 형식, 포맷
 
 
-[passage_CE_L4: 옥정고1 4과 지문]
+[passage_CE_L4: 4과 지문]
 # 글을 보며 뜻을 떠올려보는 연습
 === 1. 도입부 ===
 [[Imagine | imagine: [동] 상상하다, 마음속에 그리다]] you have fallen down and broken your right arm. There are some things that would be difficult to do with your [[injured | injure: [동] 다치게 하다, 부상 입히다]] arm. For example, you might not be able to carry heavy boxes or ride your bike. What about [[accessing | access: [동] (컴퓨터로) ~에 접속하다]] the Internet? If you are [[right-handed | right-handed: [형] 오른손잡이인]], using a computer mouse or touchscreen with your left hand would be [[awkward | awkward: [형] (동작∙행동 등이) 어색한]] and [[take a lot of time | take time: [동] 시간이 걸리다, 시간을 가지다]].
