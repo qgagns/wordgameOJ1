@@ -179,7 +179,6 @@ accessibility	:	[명] 접근성, 이용성
 accessible	:	[형] 접근 가능한, 이용 가능한
 common	:	[형] 공통의; [형] 흔한
 description	:	[명] 설명, 묘사
-along with ~	:	[전] ~에 덧붙여
 include	:	[동] 포함하다
 form	:	[명] 형태, 형식; [동] 형성하다
 visual	:	[형] 시각적인, 시력의
@@ -246,7 +245,6 @@ access: [명] 접근, 출입, 이용; [명] 접근하다, 이용하다, 접속�
 afford toR: [동] ~할 여유가 있다
 area: [명] 지역, 영역
 attractiveness: [명] 매력
-benefit from ~: [숙] ~로부터 이익을 얻다
 by contrast: [부] 대조적으로
 community: [명] 공동체, 지역 사회
 cost: [명] 비용
@@ -483,7 +481,6 @@ inaccessible: [형] 접근할 수 없는
 independent (of ~): [숙] (~와) 무관한, 독립적인
 individual: [명] 개(개)인; [형] 개별적인, 개개의
 like: [명] 좋아요, 좋아하는 것; [전] ~같은, ~처럼
-likely: [형] (toR) 가능성 있는, 할 것 같은; [부] 아마도
 long-term: [형] 장기적인
 make sense of ~: [동] ~을 이해하다
 memory: [명] 기억, 기억력
@@ -512,7 +509,7 @@ chew: [동] 씹다
 close: [형] 자세한, 면밀한; [형][부] 가까운, 가까이
 come from ~: [동] ~에서 오다
 consider: [동] 여기다; [동] 고려하다, 생각하다
-correct ~ to ...: [동] ~을 ...으로 고치다
+correct: [형] 옳은, 맞는; [동] 고치다, 수정하다
 countless: [형] 무수한, 셀 수 없이 많은
 everyday: [형] 일상적인
 expose ~ to ...: [동] ~을 ...에 노출시키다
@@ -661,7 +658,7 @@ coach: [동] 코치하다, 지도하다
 encouragement: [명] 격려, 촉진
 eventually: [부] 결국, 마침내
 fine-tune: [동] 미세 조정하다
-focus on ~: [동] ~에 집중하다, 초점을 맞추다
+focus: [동] (on)(~에) 집중하다, 초점을 맞추다; [명] 초점, 집중
 gentle: [형] 부드러운, 온화한
 peer: [명] 또래, 동료
 praise: [명] 칭찬; [동] 칭찬하다
@@ -679,7 +676,7 @@ encounter: [동] 마주치다, 접하다
 evaluate: [동] 평가하다
 evidence: [명] 증거
 factual: [형] 사실에 근거한
-figure out: [동] 알아내다, 이해하다
+figure out: [동] (out) 알아내다, 이해하다
 justification: [명] 정당화
 justify: [동] 정당화하다
 open mind: [명] 열린 마음
@@ -825,13 +822,11 @@ concentrate: [동] 집중시키다, 모으다
 confuse: [동] 혼란스럽게 하다
 distract: [동] 집중을 방해하다
 field of vision: [명] 시야
-focus: [동] 집중하다; [명] 초점, 집중
 hesitant: [형] 망설이는, 주저하는
 isolate: [동] 분리하다, 고립시키다
 keep track of ~: [동] ~을 파악하다, 추적하다
 observation: [명] 관찰
 organise: [동] 정리하다, 조직하다
-take into consideration: [동] ~을 고려하다
 unwieldy: [형] 다루기 힘든, 불편한
 viewfinder: [명] 뷰파인더 (관찰 도구)
 whole: [명] 전체
@@ -863,7 +858,7 @@ counterpart: [명] 대응하는 사람, 상대방
 diverse: [형] 여러 가지의, 다양한
 habit: [명] 습관
 learner: [명] 학습자
-likely toR: [형] (toR) 가능성 있는, 할 것 같은; [부] 아마도
+likely: [형] (toR) 가능성 있는, 할 것 같은; [부] 아마도
 location: [명] 장소, 위치
 numerous: [형] 수많은
 rather than ~: [전] ~이라기보다는, ~이 아니라
@@ -925,7 +920,6 @@ professional: [명] 전문직 종사자
 purchasing: [형] 구매의
 quality: [명] 질, 품질; [명] 특성, 성질; [형] 질좋은
 reduce: [동] 줄이다, 감소시키다
-rely on: [동] ~에 의존하다
 set boundaries: [동] 경계를 설정하다
 struggle: [동] 어려움을 겪다, 애쓰다
 technique: [명] 기술, 기법
@@ -954,7 +948,7 @@ reel off: [동] 줄줄이 말하다, 줄줄 읊다
 retrieve: [동] 검색하다, 되찾다
 store: [동] 보관하다, 저장하다; [명] 가게, 창고
 visualize: [동] 시각화하다; [동] 마음속으로 그리다
-along with: [전] ~와 함께
+along with ~: [전] ~에 덧붙여, ~와 함께
 bend: [동] 구부리다, 굽히다
 encode: [동] 부호화하다, 저장하다, 기억하다
 gesture: [동] 몸짓하다, 제스처를 취하다
@@ -993,7 +987,6 @@ appropriate: [형] 적절한
 [mg_oj1_11: 모고 단어 11]
 # 모고 단어들을 적당히 쪼갰다. 쫄지말고 들어가!
 assess: [동] 평가하다
-correct: [동] 수정하다
 dangerous: [형] 위험한
 detector: [명] 감지기
 determination: [명] 결심, 판단
