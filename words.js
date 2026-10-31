@@ -1134,4 +1134,216 @@ Some [[global | global: [형] 세계적인]] websites [[take | take ~ into consi
 In countries where text is read from right to left, the website’s [[search | search: [명] 검색; [동] 수색하다, 검색하다]] button is on the left and the logo is on the right. 
 If you visit the same websites in a different language [[setting | setting: [명] (기계를 조절하는) 설정]], you will see a different [[format | format: [명] (컴퓨터 등에 사용되는) 형식, 포맷]].
 
+
+[passage_mg_h1_25.10: 고1 25.10모]
+# 글을 보며 뜻을 떠올려보는 연습
+=== 고1 25.10모 - 21 ===
+[[Currently | currently]], [[urban | urban]] [[regeneration | regeneration]] [[projects | project]] in [[degraded | degrade]] [[areas | area]] have been [[promoted | promote]] as [[improving | improve]] the [[wellbeing | wellbeing]] of [[residents | resident]] and [[solving | solve]] [[environmental | environmental]] [[injustice | injustice]] problems.
+However, such [[environmental | environmental]] [[improvements | improvement]] in [[ethnic | ethnic]] [[communities | community]] and/or [[low‑income | low-income]] [[households | household]] can [[create | create]] an [[urban | urban]] green [[space | space]] [[paradox | paradox]].
+The [[creation | creation]] of new, [[high‑quality | high-quality]] green [[spaces | space]] can [[increase | increase]] [[attractiveness | attractiveness]], making these [[neighbourhood | neighbourhood]] more [[desirable | desirable]].
+[[By contrast | by contrast]], the [[cost | cost]] of [[housing | housing]] can [[rise | rise]], and [[residents | resident]] may not be [[able to afford | afford toR]] the [[rent | rent]].
+This [[results in | result in ~]] the [[exclusion | exclusion]] or [[displacement | displacement]] of the [[poor | poor]] [[neighbourhood’s | neighbourhood]] [[residents | resident]], who were [[intended | intend]] to [[benefit from | benefit]] the [[ecosystem | ecosystem]] services [[provided | provide]] by the new green [[space | space]].
+[[In turn | in turn]], the [[residents | resident]] may only be [[able to afford | afford toR]] to live in a [[similar | similar (to ~)]] [[degraded | degrade]] [[neighbourhood | neighbourhood]] [[to | similar (to ~)]] the one they left, with [[low | low]] [[access | access]] to green [[infrastructure | infrastructure]].
+
+=== 고1 25.10모 - 23 ===
+Rome was [[said to | said toR]] have been a [[melting pot | melting pot]] [[from the very start | from the start]].
+The [[historian | historian]] Livy [[claimed | claim]] the city's [[original | original]] [[population | population]] was [[comprised of | comprised of ~]] [[immigrants | immigrant]] [[flooding | flood]] in from all [[directions | direction]], [[attracted | attract]] by Romulus's [[deliberate | deliberate]] [[policy | policy]] of [[nondiscrimination | nondiscrimination]].
+It was this [[initial | initial]] [[openness | openness]], Livy [[asserts | assert]], that [[laid | lay (down)]] the [[foundations | foundation]] for the [[later | later]] [[strength | strength]] and [[success | success]] of the city.
+Romans [[described | describe]] their city as [[multicultural | multicultural]] in the [[generations | generation]] after its [[foundation | foundation]].
+[[Tradition | tradition]] [[held that | hold that ~]] only [[a minority of | a minority of ~]] the city's [[legendary | legendary]] kings were [[Roman-born | Roman-born]], with the others all [[arriving | arrive]] as [[immigrants | immigrant]] before being [[chosen for | chosen for ~]] the [[throne | throne]] for their [[virtues | virtue]] and [[merits | merit]].
+As the [[empire | empire]] [[expanded | expand]] [[across | across]] three [[continents | continent]], Rome [[eagerly | eagerly]] [[adopted | adopt]] new [[cultural | cultural]] [[influences | influence]] and [[absorbed | absorb]] [[incoming | incoming]] groups ― [[perhaps | perhaps]] [[a little | a little]] too [[eagerly | eagerly]] for some, who, [[like | like]] the [[poet | poet]] Juvenal, [[complained | complain]] about the [[rapid | rapid]] [[rate | rate]] of [[cultural | cultural]] change.
+
+=== 고1 25.10모 - 26 ===
+Dalip Singh Saund was an [[Indian-born | Indian-born]] American [[politician | politician]].
+After [[graduating | graduate]] from the University of Punjab in India, he moved to the U.S. to [[attend | attend]] [[graduate school | graduate school]].
+He [[earned | earn]] his [[doctoral degree | doctoral degree]] at the University of California in 1924 but could not get a job [[because of | because of ~]] his [[nationality | nationality]].
+The next year, he began [[farming | farm]] in Imperial Valley, but he was not [[able to | able toR]] buy land [[without | without]] U.S. [[citizenship | citizenship]].
+Dalip [[developed | develop]] an [[interest | interest]] in [[politics | politics]] and he often [[spoke out on | speak out on ~]] Indian and [[political | political]] [[topics | topic]].
+He went to Washington, D.C. and [[promoted | promote]] a [[bill | bill]] that would [[allow | allow ~ toR]] Indians [[to | allow ~ toR]] become U.S. [[citizens | citizen]].
+The [[bill | bill]] was [[passed | pass]] in 1946, and three years [[later | later]] Dalip [[received | receive]] U.S. [[citizenship | citizenship]].
+He [[later | later]] became the first Asian to be [[elected to | elect ~ to ...]] the U.S. [[Congress | congress]].
+
+=== 고1 25.10모 - 29 ===
+Human [[beings | being]] have [[evolved | evolve]] to [[make the most of | make the most of ~]] the [[resources | resource]] [[available | available]] to them in ways that are [[subtle | subtle]] and [[complicated | complicated]].
+When we change our [[diets | diet]], [[especially | especially]] when we do so quickly, we are [[effectively | effectively]] [[conducting | conduct]] huge [[experiments | experiment]] in [[nutrition | nutrition]].
+We [[ought to | ought toR]] have more [[humility | humility]].
+[[Nutritional science | nutritional science]] is still [[young | young]] and there is so much we do not know.
+If we have eaten certain foods in certain ways for [[millennia | millennium / millennia]], we should [[assume | assume]] until it is [[proven | prove]] [[otherwise | otherwise]] that there is [[probably | probably]] a good [[reason | reason]] why.
+[[Traditional | traditional]] foods that don't [[fit | fit]] [[neatly | neatly]] on the [[contemporary | contemporary]] [[dietary | dietary]] food plate should [[generally | generally]] be [[chosen | choose ~ over ...]] [[over | choose ~ over ...]] [[highly | highly]] [[processed | process]] ones that do.
+We should [[assume | assume]] that traditionally made [[fatty | fatty]] blood [[sausages | sausage]] are [[preferable to | preferable (to ~)]] [[lean | lean]], factory-made salamis; that [[spoonfuls | spoonful]] of [[honey | honey]] are [[superior to | superior to ~]] [[sprinkles | sprinkle]] of [[sweeteners | sweetener]].
+[[Witnessing | witness]] how [[poorly | poorly]] [[traditional | traditional]] [[societies | society]] are [[faring | fare]] as they [[undergo | undergo]] a [[nutrition | nutrition]] [[transition | transition]] should make those who have already completed it [[question | question]] whether their [[diets | diet]] have moved too [[far | far]].
+
+=== 고1 25.10모 - 30 ===
+While [[convenience | convenience]] and [[technology | technology]] are [[crucial | crucial]], they are not the only [[factors | factor]] [[driving | drive]] Gen Z's [[financial | financial]] [[decisions | decision]].
+This [[generation | generation]] is [[incredibly | incredibly]] [[values-driven | values-driven]], and they want to [[bank with | bank with ~]] [[institutions | institution]] that [[match | match]] their [[personal | personal]] [[beliefs | belief]] and [[values | value]].
+[[Transparency | transparency]] is [[vital | vital]].
+Gen Z is [[skeptical of | skeptical of ~]] large [[corporations | corporation]] and [[institutions | institution]] that [[lack | lack]] [[accountability | accountability]].
+They have grown up in a world where information is [[freely | freely]] [[available | available]], and they expect [[complete | complete]] [[transparency | transparency]] from the brands they [[support | support]].
+Banks, [[for example | for instance]], must [[clearly | clearly]] [[communicate | communicate]] [[fees | fee]], [[terms and conditions | terms and conditions]], [[as well as | ... as well as ~]] how they [[handle | handle]] [[customers' | customer]] data.
+Moreover, [[ethical | ethical]] banking [[practices | practice]] are more important than ever.
+Gen Z [[cares about | care about ~]] the [[environment | environment]], [[social justice | social justice]], and the [[ethical | ethical]] [[implications | implication]] of their [[financial | financial]] [[decisions | decision]].
+They are interested in [[sustainable | sustainable]] investing, [[supporting | support]] businesses that [[match | match]] their [[values | value]], and ensuring that their money is not being used to [[fund | fund]] [[harmful | harmful]] [[practices | practice]].
+Banks that [[offer | offer]] [[socially | socially]] [[responsible | responsible (for ~)]] [[investment | investment]] [[opportunities | opportunity]] and are [[committed to | committed to ~]] [[environmental | environmental]] [[sustainability | sustainability]] will [[attract | attract one's attention]] Gen Z's [[attention | attract one's attention]].
+
+=== 고1 25.10모 - 35 ===
+[[Social media | social media]] [[serves as | serve as ~]] an important [[context | context]] to [[facilitate | facilitate]] [[autobiographical | autobiographical]] remembering.
+[[Personal | personal]] events [[posted | post]] on [[social media | social media]] [[platforms | platform]] are better [[remembered | remember]] and less [[forgotten | forget]] than those not [[posted | post]], [[independent of | independent (of ~)]] the [[characteristics | characteristic]] of the events.
+This may be because [[sharing | share]] [[memories | memory]] [[online | online]] allows [[individuals | individual]] to [[rehearse | rehearse]] and [[make sense of | make sense of ~]] what happened, [[thus | thus]] [[facilitating | facilitate]] [[long-term | long-term]] [[memory | memory]] [[retention | retention]].
+[[Online | online]] [[feedback | feedback]] [[such as | such as ~]] [[comments | comment]] and [[likes | like]] [[as well as | ... as well as ~]] [[technological | technological]] [[features | feature]] [[such as | such as ~]] [[algorithms | algorithm]] and [[periodic | periodic]] [[reminders | reminder]] can [[further | further]] [[serve as | serve as ~]] [[memory | memory]] [[cues | cue]] for the [[posted | post]] event [[details | detail]].
+[[As a result | as a result]], event [[details | detail]] [[shared | share]] on [[social media | social media]] are [[likely | likely]] [[stabilized | stabilize]] and [[remembered | remember]] [[over time | over time]], [[whereas | whereas]] those not [[shared | share]] may become [[inaccessible | inaccessible]] or [[forgotten | forget]].
+
+=== 고1 25.10모 - 36 ===
+[[Multisensory | multisensory]] experiences are a [[central | central]] part of our [[everyday | everyday]] lives, yet we often [[take | take ~ for granted]] them [[for granted | take ~ for granted]], [[especially | especially]] when our [[senses | sense]] [[function | function]] [[normally | normally]] or are [[corrected | correct]] to [[normal | normal]] with [[aids | aid]] [[like | like]] [[glasses | glasses]].
+However, [[closer | close]] [[inspection | inspection]] to any, even the most [[ordinary | ordinary]] experiences, [[reveals | reveal]] the [[remarkable | remarkable]] [[multisensory | multisensory]] world in which we live.
+[[Consider | consider]] the experience of eating a [[regular | regular]] meal.
+At first, it may [[seem like | seem like ~]] an [[ordinary | ordinary]] experience, but it is actually a [[fusion | fusion]] of the [[senses | sense]].
+We first eat with our eyes, but we are also [[exposed to | expose ~ to ...]] [[countless | countless]] [[sensory | sensory]] [[signals | signal]] that [[influence | influence]] our eating experience [[such as | such as ~]] food [[textures | texture]], [[tastes | taste]], and [[smells | smell]].
+And it does not stop there.
+Even the [[sounds | sound]] that [[come | come from ~]] both [[from | come from ~]] the [[atmospheres | atmosphere]] in which we eat and our [[interactions | interaction]] with the food ([[such as | such as ~]] [[chewing | chew]]) and the [[tools | tool]] we [[use | use]] to eat [[influence | influence]] our eating experience.
+
+=== 고1 25.10모 - 39 ===
+Those who [[purchase | purchase]] the [[goods | goods]] of a company are called [[customers | customer]].
+[[Individuals | individual]] who [[purchase | purchase]] [[goods | goods]] for [[personal | personal]] [[use | use]] are called [[consumers | consumer]]: [[beings | being]] who [[consume | consume]].
+Therefore, companies have [[invented | invent]] [[multiple | multiple]] ways to [[ensure | ensure]] that their [[customers | customer]] [[consume | consume]] the [[produced | produce]] items in larger and larger [[quantities | quantity]] and more and more [[frequently | frequently]].
+Those who sell food have an [[easy | easy]] time, for food is [[literally | literally]] [[consumed | consume]], so there is always a need to [[purchase | purchase]] new food.
+But with more [[permanent | permanent]] things, companies must [[invent | invent]] reasons for their [[customers | customer]] to continue to [[consume | consume]] them.
+One [[approach | approach]] is to make the [[stuff | stuff]] that people already have [[outdated | outdated]] by [[convincing | convince]] them that it is [[no longer | no longer]] [[fashionable | fashionable]].
+The [[entire | entire]] [[fashion | fashion]] [[industry | industry]] is built to [[convince | convince]] people that [[fashion | fashion]] [[matters | matter]], so they must [[purchase | purchase]] new [[clothing | clothing]], even though the old is still [[perfectly | perfectly]] functionable.
+[[Fashion | fashion]] today [[extends | extend]] to [[far | far]] more things than clothes: [[automobiles | automobile]], [[mobile phones | mobile phone]], computers ― the list is [[extended | extend]] [[indefinitely | indefinitely]], [[limited | limit]] only by the [[limits | limit]] of the [[creative | creative]] minds of the [[marketing | marketing]] [[divisions | division]] of companies.
+
+=== 고1 25.10모 - 40 ===
+Kivetz, Urminsky, and Zheng [[partnered with | partner with ~]] a cafe to test the [[motivating | motivating]] effect of [[illusory | illusory]] [[progress | progress]] in an [[experiment | experiment]].
+[[Customers | customer]] [[received | receive]] a [[reward | reward]] card that [[offered | offer]] one free coffee after they'd bought ten.
+While half of the [[customers | customer]] [[received | receive]] a card with ten [[open | open]] [[slots | slot]], the other half got a card with twelve [[open | open]] [[slots | slot]].
+Yet the twelve-slot card had two [[preexisting | preexisting]] "bonus" [[stamps | stamp]], so, [[strictly speaking | strictly speaking]], these were [[identical | identical]] [[reward | reward]] programs.
+Every [[customer | customer]] who got a card needed to make ten coffee [[purchases | purchase]] (and [[collect | collect]] ten [[stamps | stamp]]) to get their free coffee.
+But the [[appeal | appeal]] of the free [[stamps | stamp]] was high.
+People who thought they'd gotten a [[head start | head start]] came back to the cafe more often, [[filling in | fill ~ in]] their [[reward | reward]] card more quickly than the others.
+When the card [[came with | come with ~]] two [[out of | out of ~]] twelve [[slots | slot]] already filled, [[it felt to | it feels like ~]] [[customers | customer]] [[like | it feels like ~]] they were already 16 percent [[finished with | finished with ~]] the goal before they'd even started.
+Believing they were closer to the [[reward | reward]], they were more [[motivated | motivate]] to [[reach | reach]] the [[finish line | finish line]].
+
+=== 고1 25.10모 - 43~45 ===
+When [[billionaire | billionaire]] James Walker was once asked by a [[journalist | journalist]], "Is there anyone richer than you?", he [[replied | reply]], "Yes, there is one young man I'll never [[forget | forget]]."
+He told the story of when he first met David at a New York airport.
+Years ago, James was [[broke | broke]] and [[stuck | stuck]] at the airport, [[killing time | kill time]] reading newspaper [[headlines | headline]] at the [[newsstand | newsstand]].
+One [[headline | headline]] [[caught his eye | catch one’s eye]], but he had no money to buy the paper.
+Just then, David, working at the [[newsstand | newsstand]] noticed James.
+He asked, "Would you [[like | like]] to buy this, sir?"
+But, James [[hesitated | hesitate]], saying he had no money.
+David smiled and said, "Me, too. But I have enough for this. Take it as a gift."
+Three months [[later | later]], James, still [[broke | broke]], met him at the [[newsstand | newsstand]] once more.
+Again, David [[gave | give]] him a newspaper without expecting anything [[in return | in return]].
+Years passed and James became a [[wealthy | wealthy]] [[businessman | businessman]], but he never [[forgot | forget]] the young man he had met at the airport.
+He found David running a small bookstore and visited him there.
+He [[introduced | introduce ~ to …]] himself, saying, "David, you helped me twice when you had almost nothing. I want to [[give | give]] you anything you wish."
+He looked at him and said, "You can't truly [[compensate | compensate]] me."
+James asked, "Why not?"
+David [[replied | reply]], "Because I [[gave | give]] to you when I had almost nothing.
+You're offering me something [[now that | now (that) ~]] you have everything.
+That's just [[generosity | generosity]] at [[convenience | convenience]]. So, I can't [[accept | accept]] your [[offer | offer]]."
+James [[realized | realize]] that money doesn't make someone rich.
+Remembering that [[moment | moment]], he said to the [[journalist | journalist]], "It's the [[willingness | willingness]] to [[give | give]] even when you have very little that makes you [[wealthy | wealthy]].
+And so, David is the richest person I have ever met."
+
+
+[passage_mg_h1_26.6: 고1 26.6모]
+# 글을 보며 뜻을 떠올려보는 연습
+=== 고1 26.6모 – 21 ===
+A [[classical | classical]] ideal of truth and knowledge is the [[concept | concept]] of a market for ideas: as thinking [[individuals | individual]], we [[encounter | encounter]] [[competing | competing]] ideas, we [[evaluate | evaluate]] them for their best [[fit | fit]] to reality, and then let the best and brightest facts [[form | form]] the [[basis | basis]] of our [[beliefs | belief]].
+That would be the scientist's way, in theory [[at least | at least]].
+But in [[practice | practice]], most of the time we are in a market for [[justifications | justification]].
+We shop for words not because they contain ideas, but because they contain stories about ideas.
+Often we are not [[seeking | seek]] [[statements | statement]] as facts to help us [[figure out | figure out]] what we should believe.
+Usually we already know what we believe.
+What we [[seek | seek]] are [[statements | statement]] to [[justify | justify]] those [[beliefs | belief]] ― the lawyer's way.
+Language might be good for this [[function | function]] but we can [[use | use]] it to do better.
+By treating language with greater respect, we can [[achieve | achieve]] more than simple [[self-defense | self-defense]].
+
+=== 고1 26.6모 – 24 ===
+Let’s look at what is [[occurring | occur]] in your brain when [[scrolling | scroll]] on [[social media | social media]], a quick dopamine [[activity | activity]].
+You open your [[social media | social media]] apps and [[immediately | immediately]] you notice you feel really good, your dopamine levels [[increase | increase]] [[incredibly | incredibly]] fast and [[pleasure | pleasure]] is experienced in your brain.
+The [[challenge | challenge]] this [[creates | create]] is as with everything in our [[universe | universe]]: as the laws of [[physics | physics]] explain, ‘what goes up, must come down’.
+Your brain and body are always [[seeking | seek]] something called ‘[[homeostasis | homeostasis]]’, which simply means [[balance | balance]].
+[[With this in mind | with this in mind]], when dopamine levels [[increase | increase]] [[incredibly | incredibly]] fast when [[scrolling | scroll]] [[social media | social media]], the brain then thinks, ‘Wow, how are my dopamine levels so high?’
+[[In order to | in order toR]] [[achieve | achieve]] [[homeostasis | homeostasis]], or [[balance | balance]], the dopamine then has to quickly [[drop | drop]] an [[equal | equal]] amount below your [[baseline | baseline]] level in order to [[rebalance | rebalance]], making you feel even worse than before you started [[scrolling | scroll]].
+
+=== 고1 26.6모 – 29 ===
+[[Literature | literature]], in its [[essence | essence]], is a [[testament | testament]] to the [[enduring | enduring]] power of human [[creativity | creativity]] and [[expression | expression]].
+It [[transcends | transcend]] time and [[space | space]], [[connecting | connect]] us with the thoughts and [[emotions | emotion]] of people from [[all walks of life | all walks of life]], [[across | across]] centuries and cultures.
+[[Despite | despite]] the [[rise | rise]] of new technologies and the [[ever-changing | ever-changing]] [[landscape | landscape]] of media, [[literature | literature]] has [[retained | retain]] its [[relevance | relevance]] and [[significance | significance]] as a [[timeless | timeless]] art [[form | form]].
+One [[reason | reason]] for [[literature's | literature]] [[enduring | enduring]] power is its [[ability | ability: [명] 능력] to [[capture | capture]] and [[convey | convey]] the [[complexities | complexity]] of the human experience.
+Through the written word, authors have the unique [[ability | ability: [명] 능력]] to [[explore | explore]] the [[depths | depth]] of human [[emotion | emotion]], the [[nuances | nuance]] of relationships, and the [[challenges | challenge]] and [[triumphs | triumph]] of the human spirit.
+[[Literature | literature]] allows us to see ourselves [[reflected | reflect]] in the pages of a book, to [[empathize | empathize]] with characters different from ourselves, and to gain a deeper understanding of the human [[condition | condition]].
+
+=== 고1 26.6모 – 32 ===
+Do you always study in the same [[spot | spot]]? Don’t.
+If you study in different places, that helps [[create | create]] [[variety | variety]], and that rich experience can [[reinforce | reinforce]] what you are learning.
+When several college students told us they did school work in different places [[rather than | rather than ~]] in some favorite nook, that [[habit | habit]] [[reflected | reflect]] the research on learning.
+[[Numerous | numerous]] [[experiments | experiment]] have found that if [[learners | learner]] simply study in [[at least | at least]] two different places, they are more [[likely to | likely]] [[recall]] the material.
+In one of the first such [[trials | trial]], two different groups studied a list of words.
+Some students returned to the same room twice while their [[counterparts | counterpart]] spent the same amount of time divided between two locations.
+When asked to [[recall | recall]] as many words on the list as possible, those who had moved around did [[far | far]] better.
+[[Variety | variety]] [[creates | create]] rich [[association | association]], even when those [[connections | connection]] [[form | form]] in the [[background | background]], totally outside of what we are [[consciously | consciously]] thinking.
+
+=== 고1 26.6모 – 34 ===
+A [[particularly | particularly: [부] 특히]] [[powerful | powerful]] way in which human [[beings | being]] [[adapt | adapt]] and [[adjust | adjust]] to their [[circumstances | circumstance]] is by changing [[behaviors | behavior / behaviour]] [[in light of | in light of ~]] the [[consequences | consequence]] that they yield.
+[[For instance | for instance]], a child who gets [[praised | praise]] by her teacher for doing an exercise [[correctly | correctly]] is [[likely | likely]] to continue doing the exercise in that way.
+A dancer who feels that a [[particular | particular]] [[conditioning | conditioning]] exercise is not giving any results is [[likely | likely]] to give that exercise up [[in favor of | in favor of ~]] another one that seems more [[promising | promising]].
+In general, we [[tend to | tend toR: [동] ~하는 경향이 있다]] do things that bring us some [[kind | kind]] of [[benefit | benefit]] or act in ways that help us avoid some [[kind | kind]] of problem, [[discomfort | discomfort]], or [[disadvantage | disadvantage]].
+We also [[tend to | tend toR: [동] ~하는 경향이 있다]] do fewer things (or stop doing things) that [[lead to | lead to]] problems, [[discomfort | discomfort]], or [[disadvantages | disadvantage]], and we [[tend to | tend toR: [동] ~하는 경향이 있다]] avoid acting in ways that do not bring any [[benefit | benefit]] or [[reward | reward]].
+
+=== 고1 26.6모 – 35 ===
+It is [[evident | evident]] through various case studies that [[adopting | adopt]] [[digital | digital]] [[minimalism | minimalism]] can [[lead to | lead to]] improved mental health outcomes.
+[[For instance | for instance]], a study [[conducted | conduct]] by researchers at Stanford University found that [[participants | participant]] who [[limited | limit]] their [[use | use]] of [[social media | social media]] and [[digital | digital]] [[devices | device]] reported lower levels of stress, [[anxiety | anxiety]], and [[depression | depression]].
+By reducing the [[constant | constant]] stream of information and [[notifications | notification]], [[individuals | individual]] were [[able to | able toR]] [[focus | focus]] more on [[meaningful | meaningful]] [[interactions | interaction]] and activities that [[promoted | promote]] [[well-being | wellbeing]].
+In another case, a [[corporate | corporate]] [[professional | professional]] [[struggling | struggle]] with [[burnout | burnout]] and [[insomnia | insomnia]] [[implemented | implement]] [[digital | digital]] [[minimalism | minimalism]] [[techniques | technique]], [[such as | such as ~]] [[setting boundaries | set boundaries]] for phone usage and [[practicing | practice]] [[mindfulness | mindfulness]].
+[[As a result | as a result]], he experienced improved sleep [[quality | quality]], [[reduced | reduce]] stress levels, and a [[newfound | newfound]] sense of calm and [[clarity | clarity]].
+
+=== 고1 26.6모 – 39 ===
+[[Approximately | approximately]] 15-20% of [[global | global]] greenhouse gas [[emissions | emission]] are caused by [[degradation | degradation]] and [[deforestation | deforestation]].
+Trees [[play a | play a role in]] huge [[role in | play a role in]] the carbon cycle.
+They [[convert | convert]] the CO2 in the air to oxygen through the [[process | process]] of [[photosynthesis | photosynthesis]], and [[consequently | consequently]], they are viewed as a natural [[regulator | regulator]] of carbon dioxide.
+The existence of a larger amount of trees will [[no doubt | no doubt]] [[lead to | lead to]] the [[reduced | reduce]] [[presence | presence]] of carbon dioxide in the [[atmosphere | atmosphere]] and the increased existence of oxygen.
+Unfortunately, [[deforestation | deforestation]] is [[preventing | prevent (~ from ...)]] this [[process | process]] [[from | prevent (~ from ...)]] being fully [[accomplished | accomplish]].
+And with half of the Earth's forests gone, the amount of carbon dioxide is [[progressively | progressively]] [[rising | rise]].
+With more carbon dioxide in the [[atmosphere | atmosphere]], more of the sun's [[radiation | radiation]] is being [[reflected | reflect]] back to Earth instead of being [[released | release]] into [[space | space]], and this is causing the planet's average temperature to [[rise | rise]].
+[[Accordingly | accordingly]], [[deforestation | deforestation]] is a [[major | major]] [[issue | issue: [동] 문제, 이수; [명] 발행하다]] [[when it comes to | when it comes to ~]] global warming.
+
+=== 고1 26.6모 – 41~42 ===
+[[Commercial | commercial]] businesses [[aim for | aim for]] [[predictability | predictability]] and [[certainty | certainty]], [[especially | especially]] [[when it comes to | when it comes to ~]] product [[quality | quality]].
+But [[predictability | predictability]] and [[certainty | certainty]] are not always [[valued | valued]] in the sporting world, [[especially | especially]] [[when it comes to | when it comes to ~]] the delivery of professional sport competitions.
+From a [[spectator’s | spectator]] [[perspective | perspective]] the sport experience is better experienced when [[unpredictable | unpredictable]].
+Sport events actually [[depend on | depend on]] that [[unpredictability | unpredictable]] [[in order to | in order toR]] [[attract | attract]] people to the game.
+When the results of games cannot be predicted, [[attendances | attendance]] at sporting [[contests | contest]] are [[likely to | likely]] be higher, as are the [[profits | profit]] of leagues.
+However, the [[lack | lack]] of [[predictability | predictability]] also [[leads to | lead to]] [[significant | significant]] [[variability | variability]] in the [[quality | quality]] of sporting [[performances | performance]].
+Many [[factors | factor]] can [[contribute to | contribute (to ~)]] the [[variability | variability]] of the sport product, including the weather, player injuries, the venue, the [[quality | quality]] of the [[opponents | opponent]], the [[closeness | closeness]] of the scores and even the size of the crowd.
+A cricket match can be [[exhilarating | exhilarating]], boring or even [[frustrating | frustrating]], but fans still have to pay the same price.
+Sport [[marketers | marketer]] may [[attempt | attempt]] to [[overcome | overcome]] this by ‘[[improving | improve]]’ the product in [[systematic | systematic]] ways, [[such as | such as ~]] including a star player, [[offering | offer]] [[premium | premium]] seating or providing other [[forms | form]] of entertainment and inviting [[facilities | facility]].
+The [[uncertain | uncertain]] nature of sport [[contests | contest]] is just one element of a total experience, although it is an important element for [[financial | financial]] [[success | success]].
+
+=== 고1 26.6모 – 43~45 ===
+Emma was a [[talented | talented]] [[vocalist | vocalist]] but [[struggled | struggle]] to gain [[recognition | recognition]].
+Lisa, who went to the same high school with her, had quickly become famous with powerful [[performances | performance]].
+Emma felt [[jealous | jealous]] watching Lisa’s [[success | success]].
+One day, Emma decided to enter a [[major | major]] vocal [[competition | competition]] in the [[capital | capital]] city.
+She spent months preparing her [[masterpiece | masterpiece]] of a [[performance | performance]], hoping this would finally be her [[opportunity | opportunity]] to shine.
+When the [[competition | competition]] day arrived, Emma felt [[nervous | nervous]].
+Walking into the concert hall, Emma saw a large [[audience | audience]] cheering for Lisa.
+She [[couldn’t help but | can't help but]] [[compare | compare]] herself to Lisa.
+On her turn, Emma performed [[with all her heart | with all one's heart]], [[pouring | pour]] her months of preparation into every note.
+The [[judges | judge: [명] 심판, 판사; [동] 판단하다, 심판하다]] then [[evaluated | evaluate]] each [[vocalist’s | vocalist]] [[performance | performance]] carefully.
+Finally, the results were [[announced | announce]].
+[[To her surprise | to one's surprise]], Emma got first place, not Lisa.
+[[Moments | moment]] [[later | later]], Lisa came over to [[congratulate | congratulate]] Emma with a warm smile.
+She said, “Your hard work and [[dedication | dedication]] really [[paid off | pay off]].
+I’m so happy for you.” She didn’t seem [[bothered | bother]] by the results.
+“I’m proud that your singing brings joy to people,” said Lisa.
+Emma felt [[grateful | grateful]] for Lisa’s kindness.
+Lisa added, “I’ve always been [[moved by | moved by ~]] your effort and have been supporting you [[all along | all along]].”
+These words made Emma feel [[embarrassed | embarrassed]] at her jealousy.
+At the same time, she got [[inspired | inspire]] to find a better path forward.
+They hugged warmly, their [[bond | bond]] [[strengthened | strengthen]].
+From that day on, they [[supported | support]] each other and even sang on the same stage together.
+Emma became more [[confident | confident]] and, finally, got a chance to have her [[solo | solo]] concert.
+
 `;
