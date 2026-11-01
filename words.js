@@ -56,7 +56,7 @@ const GAME_CONFIG = {
 
 const WORLD_MAPS_TEXT = `
 
-[spell_SH_1: 2학기 수행의 바다]
+[spell_SH_1: 2학기 수행]
 #철자까지 기억해야하는 수행 단어 정령들.
 disability	:	[명] 장애, 불능
 accessibility	:	[명] 접근성, 이용성
@@ -161,7 +161,7 @@ convenience	:	[명] 편의, 편리함
 
 
 
-[CE2_L4: 4과의 숲]
+[CE2_L4: 4과 단어]
 #교과서 4과 단어 정령들. 보듬어줘라.
 open ~ up to …	:	[동] ~을 …에게 열어주다
 imagine	:	[동] 상상하다, 마음속에 그리다
@@ -1135,7 +1135,7 @@ In countries where text is read from right to left, the website’s [[search | s
 If you visit the same websites in a different language [[setting | setting: [명] (기계를 조절하는) 설정]], you will see a different [[format | format: [명] (컴퓨터 등에 사용되는) 형식, 포맷]].
 
 
-[passage_mg_h1_25.10: 고1 25.10모]
+[passage_mg_h1_25.10: 25.10모 지문]
 # 글을 보며 뜻을 떠올려보는 연습
 === 고1 25.10모 - 21 ===
 [[Currently | currently]], [[urban | urban]] [[regeneration | regeneration]] [[projects | project]] in [[degraded | degrade]] [[areas | area]] have been [[promoted | promote]] as [[improving | improve]] the [[wellbeing | wellbeing]] of [[residents | resident]] and [[solving | solve]] [[environmental | environmental]] [[injustice | injustice]] problems.
@@ -1246,7 +1246,7 @@ Remembering that [[moment | moment]], he said to the [[journalist | journalist]]
 And so, David is the richest person I have ever met."
 
 
-[passage_mg_h1_26.6: 고1 26.6모]
+[passage_mg_h1_26.6: 26.6모 지문]
 # 글을 보며 뜻을 떠올려보는 연습
 === 고1 26.6모 – 21 ===
 A [[classical | classical]] ideal of truth and knowledge is the [[concept | concept]] of a market for ideas: as thinking [[individuals | individual]], we [[encounter | encounter]] [[competing | competing]] ideas, we [[evaluate | evaluate]] them for their best [[fit | fit]] to reality, and then let the best and brightest facts [[form | form]] the [[basis | basis]] of our [[beliefs | belief]].
