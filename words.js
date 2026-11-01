@@ -140,7 +140,7 @@ immigrant	:	[명] 이민자
 subtle	:	[형] 미묘한
 conduct	:	[동] 수행하다, 실행하다
 assume	:	[동] 추정하다, 가정하다
-contemporary	:	[형] 현대의, 동시대의
+contemporary	:	[형] 현대의; [형] 당대의, 동시대의
 undergo	:	[동] 겪다, 경험하다
 crucial	:	[형] 결정적인, 매우 중요한
 skeptical	:	[형] 회의적인
@@ -301,12 +301,12 @@ continent: [명] 대륙
 cultural: [형] 문화의, 문화적인
 deliberate: [형] 의도적인, 고의적인; [형] 신중한
 describe: [동] 묘사하다, 설명하다
-direction: [명] 방향
+direction: [명] 방향; 지도, 감독
 eagerly: [부] 열렬히, 열심히
 empire: [명] 제국
 expand: [동] 확장되다
 flood: [명] 홍수; [동] 몰려들다, 밀려들다
-foundation: [명] 토대, 기반; [명] 설립
+foundation: [명] 토대, 기반; [명] 설립; [명] 재단
 from the start: [부] 처음부터
 generation: [명] 세대; [명] 생성, 발생
 historian: [명] 역사학자
@@ -326,7 +326,7 @@ merit: [명] 장점, 공로
 multicultural: [형] 다문화적인
 nondiscrimination: [명] 무차별, 비차별
 openness: [명] 개방성, 개방적 태도
-original: [형] 원래의
+original: [형] 원래의; [형] 독창적인
 perhaps: [부] 아마도
 poet: [명] 시인
 policy: [명] 정책
@@ -371,7 +371,7 @@ available: [형] 이용 가능한, 이용할 수 있는
 choose ~ over ...: [동] ...보다 ~을 선택하다
 complicated: [형] 복잡한
 conduct: [동] 수행/시행하다; [동] 전도하다; [동] 지휘하다
-contemporary: [형] 현대의
+contemporary: [형] 현대의; [형] 당대의, 동시대의
 diet: [명] 식단
 dietary: [형] 식이 요법의
 effectively: [부] 효과적으로; [부] 사실상, 실질적으로
@@ -381,7 +381,7 @@ experiment: [명] 실험; [동] 실험하다
 far: [형][부] 먼, 멀리; [부] 훨씬
 fare: [동] 살아가다
 fatty: [형] 지방이 많은
-fit: [동] (in/to/into ~) 알맞다, 적합하다
+fit: [동] (in/to/into ~) 알맞다, 적합하다; [형] 건강한
 generally: [부] 일반적으로
 highly: [부] 매우, 상당히
 honey: [명] 꿀
