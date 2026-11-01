@@ -58,11 +58,11 @@ const WORLD_MAPS_TEXT = `
 
 [spell_SH_1: 2학기 수행의 바다]
 #철자까지 기억해야하는 수행 단어 정령들.
-disability	:	[명] 장애
-accessibility	:	[명] 접근성
+disability	:	[명] 장애, 불능
+accessibility	:	[명] 접근성, 이용성
 alternative	:	[형] 대체 가능한, 대안이 되는
 ensure	:	[동] 반드시 ~하게 하다, 보장하다
-necessarily	:	[부] 어쩔 수 없이, 필연적으로
+necessarily	:	[부] 어쩔 수 없이, 필연적으로, 반드시
 temporarily	:	[부] 일시적으로
 inclusive	:	[형] 포괄적인, 차별 없는
 justification	:	[명] 정당화
@@ -72,92 +72,92 @@ evaluate	:	[동] 평가하다
 homeostasis	:	[명] 항상성, 균형
 rebalance	:	[동] 균형을 다시 맞추다
 conservation	:	[명] 보존, 보호
-establishment	:	[명] 설립
+establishment	:	[명] 설립, 확립
 contribute	:	[동] 기여하다, 이바지하다
-inspire	:	[동] 영감을 주다, 고무하다
-testament	:	[명] 증거, 입증
-enduring	:	[형] 오래 지속되는
+inspire	:	[동] 고무하다, 자극하다, 영감을 주다
+testament	:	[명] 증거, 입증, 증명
+enduring	:	[형] 오래 지속되는, 지속적인, 영속하는
 relevance	:	[명] 관련성, 적절성
-significance	:	[명] 의미, 중요성
+significance	:	[명] 의미, 의의, 중요성
 convey	:	[동] 전달하다, 전하다
 transcend	:	[동] 초월하다, 넘어서다
 empathize	:	[동] 공감하다
 retain	:	[동] 유지하다, 간직하다
 reinforce	:	[동] 강화하다
 numerous	:	[형] 수많은
-recall	:	[동] 기억하다, 회상하다
-interconnected	:	[형] 서로 연결된
-association	:	[명] 연관, 연결
+recall	:	[동] 기억해내다, 회상하다; [동] 회수하다, 리콜하다
+interconnected	:	[형] 서로 연결된, 상호연결된
+association	:	[명] 연관, 연결, 연상
 consciously	:	[부] 의식적으로
-adjust	:	[동] 조정하다
+adjust	:	[동] 조정하다, 조절하다, 맞추다
 circumstance	:	[명] 상황, 환경
 yield	:	[동] 산출하다, 결과를 내다
-promising	:	[형] 유망한, 가능성이 있는
+promising	:	[형] 유망한, 가능성 있는
 discomfort	:	[명] 불편함
 disadvantage	:	[명] 불리함, 약점
 outcome	:	[명] 결과, 성과
-depression	:	[명] 우울증
+depression	:	[명] 우울증, 우울감
 meaningful	:	[형] 의미 있는
 interaction	:	[명] 상호작용
 corporate	:	[형] 기업의, 회사의
 boundary	:	[명] 경계, 한계
-clarity	:	[명] 명확성, 맑음
+clarity	:	[명] 명료함, 명확성
 deforestation	:	[명] 삼림 벌채
-accomplish	:	[동] 완수하다, 달성하다
-approximately	:	[부] 대략
+accomplish	:	[동] 완수하다, 달성하다, 성취하다
+approximately	:	[부] 대략, 약
 convert	:	[동] 바꾸다, 전환하다
 presence	:	[명] 존재, 있음
 progressively	:	[부] 점점, 점진적으로
-accordingly	:	[부] 따라서
+accordingly	:	[부] 따라서, 그에 맞게
 commercial	:	[형] 상업적인
-unpredictable	:	[형] 예측 불가능한
+unpredictable	:	[형] 예측할 수 없는
 spectator	:	[명] 관중
-variability	:	[명] 변동성, 다양성
+variability	:	[명] 변동성, 다양성, 가변성
 frustrating	:	[형] 좌절감을 주는
 overcome	:	[동] 극복하다
 systematic	:	[형] 체계적인
 element	:	[명] 요소
-financial	:	[형] 재정적인
+financial	:	[형] 재정적인, 금융적인
 certainty	:	[명] 확실성, 확신
-bond	:	[명] 유대, 관계
-masterpiece	:	[명] 걸작
-dedication	:	[명] 헌신
+bond	:	[명] 유대, 관계, 결속, 결합
+masterpiece	:	[명] 걸작, 명작
+dedication	:	[명] 헌신, 전념
 bother	:	[동] 신경 쓰이게 하다, 괴롭히다
 embarrassed	:	[형] 당황한, 부끄러운
 confident	:	[형] 자신감 있는, 확신하는
 current	:	[형] 현재의, 지금의
 resident	:	[명] 거주자
 injustice	:	[명] 불평등, 부당함
-exclusion	:	[명] 배제
+exclusion	:	[명] 제외, 배제
 intend	:	[동] 의도하다
-degrade	:	[동] 저하시키다
+degrade	:	[동] 저하시키다, 저해하다
 paradox	:	[명] 역설
-deliberate	:	[형] 의도적인
+deliberate	:	[형] 의도적인, 고의적인; [형] 신중한
 assert	:	[동] 주장하다
-foundation	:	[명] 토대
+foundation	:	[명] 토대, 기반; [명] 설립; [명] 재단
 eager	:	[형] 열렬한, 간절히 바라는, 열심인
 immigrant	:	[명] 이민자
 subtle	:	[형] 미묘한
-conduct	:	[동] 수행하다, 실행하다
+conduct	:	[동] 수행/시행하다; [동] 전도하다; [동] 지휘하다
 assume	:	[동] 추정하다, 가정하다
 contemporary	:	[형] 현대의; [형] 당대의, 동시대의
 undergo	:	[동] 겪다, 경험하다
-crucial	:	[형] 결정적인, 매우 중요한
+crucial	:	[형] 결정적인, 핵심적인
 skeptical	:	[형] 회의적인
-sustainable	:	[형] 지속가능한
+sustainable	:	[형] 지속 가능한
 implication	:	[명] 영향, 함의
 transparency	:	[명] 투명성
 ethical	:	[형] 윤리적인
-reveal	:	[동] 드러내다
+reveal	:	[동] 보여 주다, 드러내다
 independent	:	[형] 독립된, 독립적인
 stabilize	:	[동] 안정시키다
 frequent	:	[형] 잦은, 빈번한
 permanent	:	[형] 영구적인, 오래가는
-convince	:	[동] 설득하다
+convince	:	[동] 설득하다, 확신시키다
 matter	:	[동] 중요하다
 identical	:	[형] 동일한
 hesitate	:	[동] 주저하다
-convenience	:	[명] 편의
+convenience	:	[명] 편의, 편리함
 
 
 
@@ -183,11 +183,11 @@ include	:	[동] 포함하다
 form	:	[명] 형태, 형식; [동] 형성하다
 visual	:	[형] 시각적인, 시력의
 aloud	:	[부] 큰 소리로
-alternative	:	[형] 대안의, 대신의
+alternative	:	[형] 대체 가능한, 대안이 되는
 known as ~	:	[형] ~라고 알려진
 brief	:	[형] 간략한
 detect	:	[동] 감지하다, 알아채다
-ensure	:	[동] 보장하다, 확실하게 하다
+ensure	:	[동] 반드시 ~하게 하다, 보장하다
 transcript	:	[명] (구술된 내용을) 글로 옮긴 기록
 caption	:	[명] (텔레비전 등의) 자막
 audio	:	[형] 소리의, 음성의
@@ -196,14 +196,14 @@ offer	:	[동] 제공하다, 제안하다; [명] 제공, 제안
 present	:	[동] (정보 등)을 제시하다, 제공하다; [명] 현재; [명] 선물
 appear	:	[동] 나타나다, 생기다; [동] ~해 보이다
 spoken	:	[형] 구어의
-necessarily	:	[부] 필연적으로, 불가피하게, 반드시
+necessarily	:	[부] 어쩔 수 없이, 필연적으로, 반드시
 elderly	:	[형] 나이가 지긋한, 연로한
 poor	:	[형] (환경·상황 등이) 좋지 않은; [형] 가난한
 eyesight	:	[명] 시력
 background	:	[명] 바탕, 배경
 contrast	:	[동] 대조를 이루다; [명] 대조, 대비
 as for ~	:	[전] ~에 대해서 말하자면
-adjust	:	[동] 조절하다, 맞추다
+adjust	:	[동] 조정하다, 조절하다, 맞추다
 altogether	:	[부] 완전히, 전적으로
 difficulty	:	[명] 장애, 어려움
 control	:	[명] 지배(권), 통제(권)
@@ -222,14 +222,14 @@ benefit	:	[명] 이득, 이익; [동] 이익이 되다; [동] (from) 이익을 �
 kind	:	[명] 종류; [형] 착한, 친절한
 indicator	:	[명] 지표
 other than ~	:	[전] ~ 외에, ~ 말고
-convey	:	[동] (정보∙생각 등)을 전달하다
+convey	:	[동] 전달하다, 전하다
 color blindness	:	[명] 색맹
 tell ~ apart	:	[동] 구별하다
 difference	:	[명] 차이(점), 다름
 dotted	:	[형] 점이 찍힌
 solid	:	[명] 고체; [형] 단단한, 굳건한; [형] 죽 이어진, 연속적인
 regardless of ~	:	[전] ~에 상관없이
-inclusive	:	[형] 차별 없는, 포용적인
+inclusive	:	[형] 포괄적인, 차별 없는
 culturally	:	[부] 문화적으로
 global	:	[형] 세계적인
 take ~ into consideration	:	[동] 고려하다, 고려사항에 넣다
@@ -251,7 +251,7 @@ cost: [명] 비용
 create: [동] ~을 창조하다, ~을 만들다
 creation: [명] 창조, 조성; [명] 창조물
 currently: [부] 현재, 최근에
-degrade: [동] ~의 질을 떨어뜨리다, 저해하다
+degrade: [동] 저하시키다, 저해하다
 desirable: [형] 가치 있는, 바람직한
 displacement: [명] 퇴거
 ecosystem: [명] 생태계
@@ -266,8 +266,8 @@ improvement: [명] 개선
 in turn: [부] 결국
 increase: [명] 증가, 상승; [동] 증가하다, 늘다
 infrastructure: [명] 사회 기반 시설
-injustice: [명] 불평등
-intend: [동] ~을 의도하다
+injustice: [명] 불평등, 부당함
+intend: [동] 의도하다
 low: [형] 낮은
 low-income: [형] 저소득의
 neighbourhood: [명] 지역
@@ -414,7 +414,7 @@ superior to ~: [형] ~보다 우수한, 더 나은
 sweetener: [명] 감미료
 traditional: [형] 전통적인
 transition: [명] 전환, 이행
-undergo: [동] 겪다
+undergo: [동] 겪다, 경험하다
 witness: [동] 목격하다; [명] 증인, 목격자
 young: [형] 어린, 신생의; [명] 새끼
 accountability: [명] 책임
@@ -425,7 +425,7 @@ care about ~: [동] ~에 관심을 가지다, ~에 신경을 쓰다
 clearly: [부] 분명히, 명확히
 committed to ~: [형] ~에 전념하는, 헌신하는
 communicate: [동] 전달하다, 소통하다
-convenience: [명] 편리함, 편의
+convenience: [명] 편의, 편리함
 corporation: [명] 기업
 crucial: [형] 결정적인, 핵심적인
 customer: [명] 고객, 손님
@@ -439,7 +439,7 @@ financial: [형] 재정적인, 금융적인
 freely: [부] 자유롭게
 fund: [동] ~에 자금을 대다; [명] 자금, 펀드
 handle: [동] 처리하다; [명] 손잡이
-implication: [명] 함의
+implication: [명] 영향, 함의
 incredibly: [부] 믿을 수 없을 정도로, 엄청나게
 institution: [명] 제도, 기관
 investment: [명] 투자
@@ -517,14 +517,14 @@ function: [동] 기능하다, 작동하다; [명] 기능, 작동; [명] 함수
 fusion: [명] 융합
 glasses: [명] 안경
 inspection: [명] 검사, 조사
-interaction: [명] 상호 작용
+interaction: [명] 상호작용
 multisensory: [형] 다중 감각의
 normal: [명] 정상, [형] 정상인
 normally: [부] 정상적으로
 ordinary: [형] 평범한, 일반적인
 regular: [형] 보통의, 평상시의
 remarkable: [형] 놀랄 만한, 주목할 만한
-reveal: [동] 보여 주다
+reveal: [동] 보여 주다, 드러내다
 seem like ~: [동] ~처럼 보이다
 sense: [명] 감각; [동] 느끼다, 감지하다
 sensory: [형] 감각의
@@ -544,7 +544,7 @@ being: [명] 존재
 clothing: [명] 의류
 consume: [동] 소비하다; [동] 먹다, 섭취하다
 consumer: [명] 소비자
-convince: [동] 확신시키다, 설득하다
+convince: [동] 설득하다, 확신시키다
 creative: [형] 창의적인
 division: [명] 부서; [명] 나눔, 나누기
 easy: [형] 편한, 어려움 없는
@@ -565,7 +565,7 @@ multiple: [형] 다수의, 다양한
 no longer: [부] 더 이상 ~ 아닌
 outdated: [형] 구식의
 perfectly: [부] 완벽하게
-permanent: [형] 영구적인
+permanent: [형] 영구적인, 오래가는
 produce: [동] 만들어내다, 생성하다; [명] 농작물
 purchase: [명] 구매; [동] 구매하다
 quantity: [명] 수량
@@ -669,10 +669,10 @@ achieve: [동] 성취하다, 달성하다
 back up: [동] 뒷받침하다
 basis: [형] 기본적인, 근본적인; [명] 기초, 기본
 classical: [형] 고전적인, 전통적인
-competing: [형] 경쟁하는
+competing: [형] 경쟁하는, 서로 대립하는
 concept: [명] 개념
 effective: [형] 효과적인
-encounter: [동] 마주치다, 접하다
+encounter: [동] 마주하다, 접하다
 evaluate: [동] 평가하다
 evidence: [명] 증거
 factual: [형] 사실에 근거한
@@ -702,7 +702,7 @@ likewise: [부] 마찬가지로
 limited: [형] 제한된
 narrow down: [동] 좁히다
 on the contrary: [부] 반대로, 오히려
-outcome: [명] 결과
+outcome: [명] 결과, 성과
 pay attention to ~: [동] ~에 주의를 기울이다
 pop up: [동] 갑자기 떠오르다, 나타나다
 potentially: [부] 잠재적으로
@@ -734,7 +734,7 @@ balance: [명] 균형; [동] 균형을 맞추다
 baseline: [명] 기준선, 기본 수준
 drop: [동] 떨어지다, 하락하다; [명] 추락, 떨어짐; [동] (off) 맡기다, 갖다놓다
 equal: [형] 동등한, 같은
-homeostasis: [명] 항상성
+homeostasis: [명] 항상성, 균형
 immediate: [형] 즉각적인, 바로 주변의
 in order toR: [부] ~하기 위해
 occur: [동] 일어나다, 발생하다
@@ -757,7 +757,7 @@ article: [명] 기사, 글
 call for: [동] ~을 요구하다, 촉구하다
 campaign: [명] 캠페인, 운동; [동] 운동을 벌이다, 캠페인에 참여하다
 career: [명] 직업, 경력
-conservation: [명] 보호, 보존
+conservation: [명] 보존, 보호
 conservationist: [명] 환경 보호론자
 contribute (to ~): [동] 기여하다, 공헌하다; [동] 원인이 되다
 establishment: [명] 설립, 확립
@@ -802,22 +802,22 @@ depth: [명] 깊이, 깊은 곳
 despite: [전] ~에도 불구하고
 emotion: [명] 감정
 empathize: [동] 공감하다
-enduring: [형] 지속적인, 영속하는
+enduring: [형] 오래 지속되는, 지속적인, 영속하는
 essence: [명] 본질
 expression: [명] 표정, 표현
 landscape: [명] 양상, 풍경
 literature: [명] 문학; [명] 문헌
 nuance: [명] 미묘한 차이, 뉘앙스
 reflect: [동] 반사하다; [동] 반영하다; [동] (on) 숙고하다
-relevance: [명] 관련성
-retain: [동] 유지하다
-significance: [명] 중요성, 의의
-testament: [명] 증거, 증명
+relevance: [명] 관련성, 적절성
+retain: [동] 유지하다, 간직하다
+significance: [명] 의미, 의의, 중요성
+testament: [명] 증거, 입증, 증명
 timeless: [형] 시대를 초월한
-transcend: [동] 초월하다
+transcend: [동] 초월하다, 넘어서다
 triumph: [명] 승리, 대성공
 block out: [동] 차단하다
-boundary: [명] 경계
+boundary: [명] 경계, 한계
 concentrate: [동] 집중시키다, 모으다
 confuse: [동] 혼란스럽게 하다
 distract: [동] 집중을 방해하다
@@ -839,7 +839,7 @@ crucially: [부] 결정적으로, 중요하게는
 # 모고 단어들을 적당히 쪼갰다. 쫄지말고 들어가!
 ever-changing: [형] 끊임없이 변화하는
 imperceptibly: [부] 감지할 수 없을 정도로
-interconnected: [형] 상호 연결된
+interconnected: [형] 서로 연결된, 상호연결된
 mere: [형] 단순한
 microscopic: [형] 미세한
 network: [명] 신경망, 네트워크
@@ -850,7 +850,7 @@ rightly: [부] 올바르게
 seemingly: [부] 겉보기에
 static: [형] 정적인, 움직이지 않는
 surrounding: [형] 주위의, 주변의; [명] (-s) 환경, 주변
-association: [명] 연관성, 연상
+association: [명] 연관, 연결, 연상
 at least: [부]  적어도, 최소한
 connection: [명] 연결, 관계
 consciously: [부] 의식적으로
@@ -888,7 +888,7 @@ circumstance: [명] 상황, 환경
 conditioning: [명] 조건화, 훈련
 consequence: [명] 결과, 영향
 correctly: [부] 올바르게
-disadvantage: [명] 불이익, 단점
+disadvantage: [명] 불리함, 약점
 discomfort: [명] 불편함
 in favor of ~: [전] ~을 선호하여, ~을 지지하여
 in light of ~: [전] ~을 고려하여
@@ -901,7 +901,7 @@ anxiety: [명] 불안
 burnout: [명] 번아웃, 극도의 피로
 clarity: [명] 명료함, 명확성
 constant: [형] 일정한, 끊임없는
-corporate: [형] 기업의
+corporate: [형] 기업의, 회사의
 depression: [명] 우울증, 우울감
 device: [명] 기기, 장치
 digital: [형] 디지털의
@@ -962,11 +962,11 @@ perform: [동] 수행하다, 공연하다
 speech: [명] 말하기, 발화, 연설
 spontaneously: [부] 자발적으로, 저절로
 swing: [동] 흔들리다, 움직이다
-accomplish: [동] 이루다, 성취하다, 달성하다
+accomplish: [동] 완수하다, 달성하다, 성취하다
 accordingly: [부] 따라서, 그에 맞게
 approximately: [부] 대략, 약
 consequently: [부] 결과적으로
-convert: [동] 전환하다, 변환하다
+convert: [동] 바꾸다, 전환하다
 deforestation: [명] 삼림 벌채
 degradation: [명] 저하, 황폐화
 emission: [명] 배출, 방출
@@ -976,7 +976,7 @@ photosynthesis: [명] 광합성
 play a role in: [동] ~에서 역할을 하다
 presence: [명] 존재, 있음
 prevent (~ from ...): [동] (~가 ... 하는 걸) 막다, 예방하다
-progressively: [부] 점진적으로
+progressively: [부] 점점, 점진적으로
 radiation: [명] 복사, 방사선
 regulator: [명] 조절자, 조절 장치
 release: [동] 방출하다, 내보내다
@@ -1006,7 +1006,7 @@ unconscious: [형] 무의식적인
 aim for: [동] ~을 목표로 하다
 attempt: [명] 시도[도전]; [동] 시도하다
 attendance: [명] 출석, 참석(자 수)
-certainty: [명] 확실성
+certainty: [명] 확실성, 확신
 closeness: [명] 접근성, 근접함
 commercial: [형] 상업적인
 contest: [명] 경쟁, 대회
@@ -1026,20 +1026,20 @@ systematic: [형] 체계적인
 uncertain: [형] 불확실한
 unpredictable: [형] 예측할 수 없는
 valued: [형] 가치 있는, 소중히 여겨지는
-variability: [명] 변동성, 가변성
+variability: [명] 변동성, 다양성, 가변성
 all along: [부] 줄곧, 내내
 announce: [동] 발표하다, 알리다
 audience: [명] 청중, 관객
-bond: [명] 결합, 유대, 결속
+bond: [명] 유대, 관계, 결속, 결합
 bother: [동] 신경 쓰이게 하다, 괴롭히다
 can't help but: [동] ~하지 않을 수 없다
 capital: [명] 수도
 compare: [동] 비교하다
 competition: [명] 대회, 경쟁
-confident: [형] 자신감 있는
+confident: [형] 자신감 있는, 확신하는
 congratulate: [동] 축하하다
 dedication: [명] 헌신, 전념
-embarrassed: [형] 부끄러운, 당황한
+embarrassed: [형] 당황한, 부끄러운
 jealous: [형] 질투하는
 masterpiece: [명] 걸작, 명작
 moved by ~: [형] ~에 감동받은
