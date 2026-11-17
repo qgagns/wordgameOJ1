@@ -1055,6 +1055,142 @@ vocalist: [명] 보컬리스트, 가수
 with all one's heart: [전명] 온 마음을 다해
 
 
+[smpr_oj1_1: 실모연습 단어 1]
+# 실모연습 변형문제의 선지 속 단어 첫번째
+additional	/	[형] 추가의, 부가의
+content	/	[명] 내용, 콘텐츠
+comprehend	/	[동] 이해하다, 파악하다
+concise	/	[형] 간결한, 축약된
+exclusive	/	[형] 배타적인, 독점적인
+interactive	/	[형] 상호작용하는, 쌍방향의
+competitive	/	[형] 경쟁적인, 경쟁력 있는
+standardized	/	[형] 표준화된
+indicate	/	[동] 나타내다, 보여주다
+degraded	/	[형] 퇴화한, 황폐한, 낙후된
+intended	/	[형] 의도된, 계획된
+quality of life	/	[명] 삶의 질
+unintended	/	[형] 의도치 않은
+attractive	/	[형] 매력적인
+have no choice but to	/	[숙] ~하지 않을 수 없다
+discrimination	/	[명] 차별
+minority	/	[명] 소수, 소수 집단
+reject	/	[동] 거절하다, 거부하다
+processed	/	[형] 가공된
+preferable	/	[형] 더 좋은, 선호되는
+inferior	/	[형] 열등한, 하위의
+supportive	/	[형] 지지하는, 협조적인
+transparently	/	[부] 투명하게, 명백하게
+justice	/	[명] 정의, 공정
+oppose	/	[동] 반대하다, 겨루다
+commit	/	[동] 전념하다, 헌신하다; 저지르다
+trivial	/	[형] 사소한, 하찮은
+abnormally	/	[부] 비정상적으로
+functionable	/	[형] 기능할 수 있는, 사용 가능한
+consumption	/	[명] 소비, 소비량
+satisfied	/	[형] 만족해하는
+unnecessary	/	[형] 불필요한
+placebo effect	/	[명] 위약 효과
+treatment	/	[명] 대우, 치료
+expectancy	/	[명] 기대, 예상
+external	/	[형] 외부의
+bookstore	/	[명] 서점
+intricate	/	[형] 복잡한, 난해한
+diminishing	/	[형] 줄어드는, 감소하는
+foster	/	[동] 조성하다, 육성하다
+resist	/	[동] 저항하다, 반대하다
+routine	/	[명] 일상, 루틴
+instructional aid	/	[명] 학습 보조 자료, 교육 도구
+duration	/	[명] 지속 기간
+yield	/	[동] 내다, 산출하다; 양보하다
+positive reinforcement	/	[명] 정적 강화
+global warming	/	[명] 지구 온난화
+sporting	/	[형] 스포츠의
+unpredictability	/	[명] 예측 불가능성
+venue	/	[명] 개최지, (경기) 장소
+facilities	/	[명] 시설
+shortcut key	/	[명] 단축키
+accommodate	/	[동] 부응하다, 수용하다
+layout	/	[명] 배치, 레이아웃
+prosperity	/	[명] 번영
+cradle	/	[명] 요람, 발상지
+skeptical	/	[형] 회의적인
+dependence	/	[명] 의존(도)
+refuse	/	[동] 거절하다
+objective	/	[형] 객관적인; [명] 목표
+distort	/	[동] 왜곡하다
+dopamine	/	[명] 도파민
+roller coaster	/	[명] 롤러코스터, 급변하는 상황
+inclined	/	[형] ~하는 경향이 있는, 마음이 내키는
+
+
+[smpr_oj1_2: 실모연습 단어 2]
+#실모연습 변형문제의 선지 속 단어 두번째
+reluctant	/	[형] 꺼리는, 마지못해 하는
+apt	/	[형] ~하기 쉬운, 적절한
+diminish	/	[동] 줄어들다, 약화시키다
+foreseen	/	[형] 예견된
+predetermined	/	[형] 미리 결정된
+limitation	/	[명] 한계, 제약
+exclude	/	[동] 제외하다, 배제하다
+demerit	/	[명] 단점, 결점
+innovation	/	[명] 혁신
+competence	/	[명] 역량, 능력
+affordable	/	[형] 가격이 알맞은, 감당할 수 있는
+overlook	/	[동] 간과하다
+utensil	/	[명] 도구, 기구
+boycott	/	[동] 불매 운동을 벌이다, 거부하다
+accelerate	/	[동] 가속하다
+loyalty	/	[명] 충성심, 충실
+unreachable	/	[형] 도달할 수 없는
+reputation	/	[명] 평판, 명성
+motive	/	[명] 동기, 의도
+defend	/	[동] 방어하다, 옹호하다
+surge	/	[명] 급증, 치솟음; [동] 급증하다
+counterbalance	/	[동] 균형을 맞추다, 상쇄하다
+offset	/	[동] 상쇄하다
+amplify	/	[동] 증폭시키다
+profound	/	[형] 깊은, 심오한
+moderate	/	[형] 보통의, 중간의; 완화하다
+insightful	/	[형] 통찰력 있는
+perpetual	/	[형] 영속하는, 끊임없는
+intention	/	[명] 의도, 목적
+guidance	/	[명] 지도, 안내
+authority	/	[명] 권위, 당국
+recognize	/	[동] 인식하다, 인정하다
+separation	/	[명] 분리, 구분
+browse	/	[동] 둘러보다, 탐색하다
+advertising	/	[명] 광고(업)
+mentor	/	[명] 멘토, 조언자
+elaborate	/	[동] 상세히 설명하다; [형] 정교한
+literacy	/	[명] 읽고 쓰는 능력
+obscure	/	[동] 모호하게 하다, 가리다; [형] 모호한
+fame	/	[명] 명성
+scarcity	/	[명] 부족, 결핍
+distorted	/	[형] 왜곡된
+blend	/	[동] 섞이다, 융합하다; [명] 혼합
+collide	/	[동] 충돌하다
+fuse	/	[동] 융합되다, 결합하다
+modify	/	[동] 수정하다, 바꾸다
+double-edged	/	[형] 양날의, 상반된 매력을 지닌
+curb cut	/	[명] 연석 턱 낮춤
+astounded	/	[형] 몹시 놀란
+unbelievable	/	[형] 믿을 수 없는
+obstacle	/	[명] 장애물
+self-centered	/	[형] 자기중심적인
+open-minded	/	[형] 개방적인, 편견 없는
+curiosity	/	[명] 호기심
+sympathy	/	[명] 동정, 공감
+paradoxical	/	[형] 역설적인
+contradictory	/	[형] 모순되는
+beneficial	/	[형] 유익한, 이로운
+unfairly	/	[부] 불공정하게
+induce	/	[동] 유도하다, 설득하다
+trigger	/	[동] 촉발하다; [명] 방아쇠
+provoke	/	[동] 유발하다, 자극하다
+imprecise	/	[형] 부정확한
+feasible	/	[형] 실현 가능한
+
+
 [passage_CE_L4: 4과 지문]
 # 글을 보며 뜻을 떠올려보는 연습
 === 1. 도입부 ===
