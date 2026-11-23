@@ -1057,499 +1057,500 @@ with all one's heart: [전명] 온 마음을 다해
 
 [smpr_oj1_1: 실모연습 단어 1]
 # 실모연습 변형문제의 선지 속 단어 첫번째
-additional	/	[형] 추가의, 부가의
-content	/	[명] 내용, 콘텐츠
-comprehend	/	[동] 이해하다, 파악하다
-concise	/	[형] 간결한, 축약된
-exclusive	/	[형] 배타적인, 독점적인
-interactive	/	[형] 상호작용하는, 쌍방향의
-competitive	/	[형] 경쟁적인, 경쟁력 있는
-standardized	/	[형] 표준화된
-indicate	/	[동] 나타내다, 보여주다
-degraded	/	[형] 퇴화한, 황폐한, 낙후된
-intended	/	[형] 의도된, 계획된
-quality of life	/	[명] 삶의 질
-unintended	/	[형] 의도치 않은
-attractive	/	[형] 매력적인
-have no choice but to	/	[숙] ~하지 않을 수 없다
-discrimination	/	[명] 차별
-minority	/	[명] 소수, 소수 집단
-reject	/	[동] 거절하다, 거부하다
-processed	/	[형] 가공된
-preferable	/	[형] 더 좋은, 선호되는
-inferior	/	[형] 열등한, 하위의
-supportive	/	[형] 지지하는, 협조적인
-transparently	/	[부] 투명하게, 명백하게
-justice	/	[명] 정의, 공정
-oppose	/	[동] 반대하다, 겨루다
-commit	/	[동] 전념하다, 헌신하다; 저지르다
-trivial	/	[형] 사소한, 하찮은
-abnormally	/	[부] 비정상적으로
-functionable	/	[형] 기능할 수 있는, 사용 가능한
-consumption	/	[명] 소비, 소비량
-satisfied	/	[형] 만족해하는
-unnecessary	/	[형] 불필요한
-placebo effect	/	[명] 위약 효과
-treatment	/	[명] 대우, 치료
-expectancy	/	[명] 기대, 예상
-external	/	[형] 외부의
-bookstore	/	[명] 서점
-intricate	/	[형] 복잡한, 난해한
-diminishing	/	[형] 줄어드는, 감소하는
-foster	/	[동] 조성하다, 육성하다
-resist	/	[동] 저항하다, 반대하다
-routine	/	[명] 일상, 루틴
-instructional aid	/	[명] 학습 보조 자료, 교육 도구
-duration	/	[명] 지속 기간
-yield	/	[동] 내다, 산출하다; 양보하다
-positive reinforcement	/	[명] 정적 강화
-global warming	/	[명] 지구 온난화
-sporting	/	[형] 스포츠의
-unpredictability	/	[명] 예측 불가능성
-venue	/	[명] 개최지, (경기) 장소
-facilities	/	[명] 시설
-shortcut key	/	[명] 단축키
-accommodate	/	[동] 부응하다, 수용하다
-layout	/	[명] 배치, 레이아웃
-prosperity	/	[명] 번영
-cradle	/	[명] 요람, 발상지
-skeptical	/	[형] 회의적인
-dependence	/	[명] 의존(도)
-refuse	/	[동] 거절하다
-objective	/	[형] 객관적인; [명] 목표
-distort	/	[동] 왜곡하다
-dopamine	/	[명] 도파민
-roller coaster	/	[명] 롤러코스터, 급변하는 상황
-inclined	/	[형] ~하는 경향이 있는, 마음이 내키는
+additional	:	[형] 추가의, 부가의
+content	:	[명] 내용, 콘텐츠
+comprehend	:	[동] 이해하다, 파악하다
+concise	:	[형] 간결한, 축약된
+exclusive	:	[형] 배타적인, 독점적인
+interactive	:	[형] 상호작용하는, 쌍방향의
+competitive	:	[형] 경쟁적인, 경쟁력 있는
+standardized	:	[형] 표준화된
+indicate	:	[동] 나타내다, 보여주다
+degraded	:	[형] 퇴화한, 황폐한, 낙후된
+intended	:	[형] 의도된, 계획된
+quality of life	:	[명] 삶의 질
+unintended	:	[형] 의도치 않은
+attractive	:	[형] 매력적인
+have no choice but to	:	[숙] ~하지 않을 수 없다
+discrimination	:	[명] 차별
+minority	:	[명] 소수, 소수 집단
+reject	:	[동] 거절하다, 거부하다
+processed	:	[형] 가공된
+preferable	:	[형] 더 좋은, 선호되는
+inferior	:	[형] 열등한, 하위의
+supportive	:	[형] 지지하는, 협조적인
+transparently	:	[부] 투명하게, 명백하게
+justice	:	[명] 정의, 공정
+oppose	:	[동] 반대하다, 겨루다
+commit	:	[동] 전념하다, 헌신하다; 저지르다
+trivial	:	[형] 사소한, 하찮은
+abnormally	:	[부] 비정상적으로
+functionable	:	[형] 기능할 수 있는, 사용 가능한
+consumption	:	[명] 소비, 소비량
+satisfied	:	[형] 만족해하는
+unnecessary	:	[형] 불필요한
+placebo effect	:	[명] 위약 효과
+treatment	:	[명] 대우, 치료
+expectancy	:	[명] 기대, 예상
+external	:	[형] 외부의
+bookstore	:	[명] 서점
+intricate	:	[형] 복잡한, 난해한
+diminishing	:	[형] 줄어드는, 감소하는
+foster	:	[동] 조성하다, 육성하다
+resist	:	[동] 저항하다, 반대하다
+routine	:	[명] 일상, 루틴
+instructional aid	:	[명] 학습 보조 자료, 교육 도구
+duration	:	[명] 지속 기간
+yield	:	[동] 내다, 산출하다; 양보하다
+positive reinforcement	:	[명] 정적 강화
+global warming	:	[명] 지구 온난화
+sporting	:	[형] 스포츠의
+unpredictability	:	[명] 예측 불가능성
+venue	:	[명] 개최지, (경기) 장소
+facilities	:	[명] 시설
+shortcut key	:	[명] 단축키
+accommodate	:	[동] 부응하다, 수용하다
+layout	:	[명] 배치, 레이아웃
+prosperity	:	[명] 번영
+cradle	:	[명] 요람, 발상지
+skeptical	:	[형] 회의적인
+dependence	:	[명] 의존(도)
+refuse	:	[동] 거절하다
+objective	:	[형] 객관적인; [명] 목표
+distort	:	[동] 왜곡하다
+dopamine	:	[명] 도파민
+roller coaster	:	[명] 롤러코스터, 급변하는 상황
+inclined	:	[형] ~하는 경향이 있는, 마음이 내키는
 
 
 [smpr_oj1_2: 실모연습 단어 2]
 #실모연습 변형문제의 선지 속 단어 두번째
-reluctant	/	[형] 꺼리는, 마지못해 하는
-apt	/	[형] ~하기 쉬운, 적절한
-diminish	/	[동] 줄어들다, 약화시키다
-foreseen	/	[형] 예견된
-predetermined	/	[형] 미리 결정된
-limitation	/	[명] 한계, 제약
-exclude	/	[동] 제외하다, 배제하다
-demerit	/	[명] 단점, 결점
-innovation	/	[명] 혁신
-competence	/	[명] 역량, 능력
-affordable	/	[형] 가격이 알맞은, 감당할 수 있는
-overlook	/	[동] 간과하다
-utensil	/	[명] 도구, 기구
-boycott	/	[동] 불매 운동을 벌이다, 거부하다
-accelerate	/	[동] 가속하다
-loyalty	/	[명] 충성심, 충실
-unreachable	/	[형] 도달할 수 없는
-reputation	/	[명] 평판, 명성
-motive	/	[명] 동기, 의도
-defend	/	[동] 방어하다, 옹호하다
-surge	/	[명] 급증, 치솟음; [동] 급증하다
-counterbalance	/	[동] 균형을 맞추다, 상쇄하다
-offset	/	[동] 상쇄하다
-amplify	/	[동] 증폭시키다
-profound	/	[형] 깊은, 심오한
-moderate	/	[형] 보통의, 중간의; 완화하다
-insightful	/	[형] 통찰력 있는
-perpetual	/	[형] 영속하는, 끊임없는
-intention	/	[명] 의도, 목적
-guidance	/	[명] 지도, 안내
-authority	/	[명] 권위, 당국
-recognize	/	[동] 인식하다, 인정하다
-separation	/	[명] 분리, 구분
-browse	/	[동] 둘러보다, 탐색하다
-advertising	/	[명] 광고(업)
-mentor	/	[명] 멘토, 조언자
-elaborate	/	[동] 상세히 설명하다; [형] 정교한
-literacy	/	[명] 읽고 쓰는 능력
-obscure	/	[동] 모호하게 하다, 가리다; [형] 모호한
-fame	/	[명] 명성
-scarcity	/	[명] 부족, 결핍
-distorted	/	[형] 왜곡된
-blend	/	[동] 섞이다, 융합하다; [명] 혼합
-collide	/	[동] 충돌하다
-fuse	/	[동] 융합되다, 결합하다
-modify	/	[동] 수정하다, 바꾸다
-double-edged	/	[형] 양날의, 상반된 매력을 지닌
-curb cut	/	[명] 연석 턱 낮춤
-astounded	/	[형] 몹시 놀란
-unbelievable	/	[형] 믿을 수 없는
-obstacle	/	[명] 장애물
-self-centered	/	[형] 자기중심적인
-open-minded	/	[형] 개방적인, 편견 없는
-curiosity	/	[명] 호기심
-sympathy	/	[명] 동정, 공감
-paradoxical	/	[형] 역설적인
-contradictory	/	[형] 모순되는
-beneficial	/	[형] 유익한, 이로운
-unfairly	/	[부] 불공정하게
-induce	/	[동] 유도하다, 설득하다
-trigger	/	[동] 촉발하다; [명] 방아쇠
-provoke	/	[동] 유발하다, 자극하다
-imprecise	/	[형] 부정확한
-feasible	/	[형] 실현 가능한
+reluctant	:	[형] 꺼리는, 마지못해 하는
+apt	:	[형] ~하기 쉬운, 적절한
+diminish	:	[동] 줄어들다, 약화시키다
+foreseen	:	[형] 예견된
+predetermined	:	[형] 미리 결정된
+limitation	:	[명] 한계, 제약
+exclude	:	[동] 제외하다, 배제하다
+demerit	:	[명] 단점, 결점
+innovation	:	[명] 혁신
+competence	:	[명] 역량, 능력
+affordable	:	[형] 가격이 알맞은, 감당할 수 있는
+overlook	:	[동] 간과하다
+utensil	:	[명] 도구, 기구
+boycott	:	[동] 불매 운동을 벌이다, 거부하다
+accelerate	:	[동] 가속하다
+loyalty	:	[명] 충성심, 충실
+unreachable	:	[형] 도달할 수 없는
+reputation	:	[명] 평판, 명성
+motive	:	[명] 동기, 의도
+defend	:	[동] 방어하다, 옹호하다
+surge	:	[명] 급증, 치솟음; [동] 급증하다
+counterbalance	:	[동] 균형을 맞추다, 상쇄하다
+offset	:	[동] 상쇄하다
+amplify	:	[동] 증폭시키다
+profound	:	[형] 깊은, 심오한
+moderate	:	[형] 보통의, 중간의; 완화하다
+insightful	:	[형] 통찰력 있는
+perpetual	:	[형] 영속하는, 끊임없는
+intention	:	[명] 의도, 목적
+guidance	:	[명] 지도, 안내
+authority	:	[명] 권위, 당국
+recognize	:	[동] 인식하다, 인정하다
+separation	:	[명] 분리, 구분
+browse	:	[동] 둘러보다, 탐색하다
+advertising	:	[명] 광고(업)
+mentor	:	[명] 멘토, 조언자
+elaborate	:	[동] 상세히 설명하다; [형] 정교한
+literacy	:	[명] 읽고 쓰는 능력
+obscure	:	[동] 모호하게 하다, 가리다; [형] 모호한
+fame	:	[명] 명성
+scarcity	:	[명] 부족, 결핍
+distorted	:	[형] 왜곡된
+blend	:	[동] 섞이다, 융합하다; [명] 혼합
+collide	:	[동] 충돌하다
+fuse	:	[동] 융합되다, 결합하다
+modify	:	[동] 수정하다, 바꾸다
+double-edged	:	[형] 양날의, 상반된 매력을 지닌
+curb cut	:	[명] 연석 턱 낮춤
+astounded	:	[형] 몹시 놀란
+unbelievable	:	[형] 믿을 수 없는
+obstacle	:	[명] 장애물
+self-centered	:	[형] 자기중심적인
+open-minded	:	[형] 개방적인, 편견 없는
+curiosity	:	[명] 호기심
+sympathy	:	[명] 동정, 공감
+paradoxical	:	[형] 역설적인
+contradictory	:	[형] 모순되는
+beneficial	:	[형] 유익한, 이로운
+unfairly	:	[부] 불공정하게
+induce	:	[동] 유도하다, 설득하다
+trigger	:	[동] 촉발하다; [명] 방아쇠
+provoke	:	[동] 유발하다, 자극하다
+imprecise	:	[형] 부정확한
+feasible	:	[형] 실현 가능한
 
 
 [aio_oj1_1: AIO 선지 단어 1]
 # AIO 선지 단어를 추출 후 적당히 쪼갠 것
-furthermore	/	[부] 게다가, 더욱이
-similarly	/	[부] 마찬가지로, 유사하게
-in addition	/	[숙] 게다가, 덧붙여
-as a matter of fact	/	[숙] 사실은, 실제로
-moreover	/	[부] 게다가, 더욱이
-on the other hand	/	[부] 반면에
-hence	/	[부] 그러므로, 따라서
-in contrast	/	[숙] 그에 반해서, 대조적으로
-escape	/	[동] 피하다, 벗어나다, 탈출하다
-minimize	/	[동] 최소화하다, 축소하다
-remove	/	[동] 없애다, 제거하다
-clear	/	[동] 넘다, 통과하다, 치우다; [형] 깨끗한, 맑은; [형] 명확한, 뚜렷한
-difficultly	/	[부] 어렵게, 곤란하게
-navigate	/	[동] 탐색하다, 이동하다, 길을 찾다
-avoid	/	[동] 피하다, 회피하다
-temporary	/	[형] 일시적인, 임시의
-restrict	/	[동] 제한하다, 한정하다
-exclusive	/	[형] 배타적인, 독점적인, 제한된
-appealing	/	[형] 매력적인, 호소력 있는
-guideline	/	[명] 지침, 가이드라인
-prioritize	/	[동] 우선시하다, 우선순위를 매기다
-aesthetic	/	[형] 미적인, 심미적인
-primary	/	[형] 주된, 기본적인, 1차적인
-tough	/	[형] 힘든, 어려운, 단단한
-comfortable	/	[형] 편안한
-handicap	/	[명] 장애, 불리한 조건
-unusable	/	[형] 사용할 수 없는
-embarrassment	/	[명] 당혹감, 난처함
-inconvenience	/	[명] 불편, 애로
-highlight	/	[동] 강조하다, 부각하다
-accessibly	/	[부] 접근하기 쉽게
-inconvenient	/	[형] 불편한
-lessen	/	[동] 줄이다, 약화시키다
-demanding	/	[형] 힘든, 부담이 큰, 요구가 많은
-clumsy	/	[형] 서투른, 어색한
-trivial	/	[형] 사소한, 하찮은
-user-friendly	/	[형] 사용자 친화적인, 사용하기 쉬운
-regardless of ~	/	[전] ~에 상관없이
-discrimination	/	[명] 차별
-strategy	/	[명] 전략, 계획
-ease	/	[명] 쉬움, 용이함; [동] 완화하다
-optional	/	[형] 선택적인, 임의의
-barrier	/	[명] 장벽, 장애물
-essential	/	[형] 핵심적인, 본질적인
-simplicity	/	[명] 단순함, 간단함
-take advantage of ~	/	[숙] ~을 이용하다, 활용하다
-impaired	/	[형] 손상된, 장애가 있는
-hierarchical	/	[형] 계층적인, 위계적인
-accurately	/	[부] 정확하게
-equalize	/	[동] 균등하게 하다, 평등하게 하다
-auditory	/	[형] 청각의
-accompany	/	[동] 동반하다, 수반하다
-pose	/	[동] (문제·위협 등을) 제기하다, 야기하다
-assist	/	[동] 돕다, 지원하다
-audibly	/	[부] 들리게, 소리 내어
-display	/	[동] 보여주다, 전시하다; [명] 전시
-literal	/	[형] 글자 그대로의, 문자의
-summary	/	[명] 요약, 개요
-vocalize	/	[동] 소리 내어 말하다, 발성하다
-depiction	/	[명] 묘사, 서술
+furthermore	:	[부] 게다가, 더욱이
+similarly	:	[부] 마찬가지로, 유사하게
+in addition	:	[숙] 게다가, 덧붙여
+as a matter of fact	:	[숙] 사실은, 실제로
+moreover	:	[부] 게다가, 더욱이
+on the other hand	:	[부] 반면에
+hence	:	[부] 그러므로, 따라서
+in contrast	:	[숙] 그에 반해서, 대조적으로
+escape	:	[동] 피하다, 벗어나다, 탈출하다
+minimize	:	[동] 최소화하다, 축소하다
+remove	:	[동] 없애다, 제거하다
+clear	:	[동] 넘다, 통과하다, 치우다; [형] 깨끗한, 맑은; [형] 명확한, 뚜렷한
+difficultly	:	[부] 어렵게, 곤란하게
+navigate	:	[동] 탐색하다, 이동하다, 길을 찾다
+avoid	:	[동] 피하다, 회피하다
+temporary	:	[형] 일시적인, 임시의
+restrict	:	[동] 제한하다, 한정하다
+exclusive	:	[형] 배타적인, 독점적인, 제한된
+appealing	:	[형] 매력적인, 호소력 있는
+guideline	:	[명] 지침, 가이드라인
+prioritize	:	[동] 우선시하다, 우선순위를 매기다
+aesthetic	:	[형] 미적인, 심미적인
+primary	:	[형] 주된, 기본적인, 1차적인
+tough	:	[형] 힘든, 어려운, 단단한
+comfortable	:	[형] 편안한
+handicap	:	[명] 장애, 불리한 조건
+unusable	:	[형] 사용할 수 없는
+embarrassment	:	[명] 당혹감, 난처함
+inconvenience	:	[명] 불편, 애로
+highlight	:	[동] 강조하다, 부각하다
+accessibly	:	[부] 접근하기 쉽게
+inconvenient	:	[형] 불편한
+lessen	:	[동] 줄이다, 약화시키다
+demanding	:	[형] 힘든, 부담이 큰, 요구가 많은
+clumsy	:	[형] 서투른, 어색한
+trivial	:	[형] 사소한, 하찮은
+user-friendly	:	[형] 사용자 친화적인, 사용하기 쉬운
+regardless of ~	:	[전] ~에 상관없이
+discrimination	:	[명] 차별
+strategy	:	[명] 전략, 계획
+ease	:	[명] 쉬움, 용이함; [동] 완화하다
+optional	:	[형] 선택적인, 임의의
+barrier	:	[명] 장벽, 장애물
+essential	:	[형] 핵심적인, 본질적인
+simplicity	:	[명] 단순함, 간단함
+take advantage of ~	:	[숙] ~을 이용하다, 활용하다
+impaired	:	[형] 손상된, 장애가 있는
+hierarchical	:	[형] 계층적인, 위계적인
+accurately	:	[부] 정확하게
+equalize	:	[동] 균등하게 하다, 평등하게 하다
+auditory	:	[형] 청각의
+accompany	:	[동] 동반하다, 수반하다
+pose	:	[동] (문제·위협 등을) 제기하다, 야기하다
+assist	:	[동] 돕다, 지원하다
+audibly	:	[부] 들리게, 소리 내어
+display	:	[동] 보여주다, 전시하다; [명] 전시
+literal	:	[형] 글자 그대로의, 문자의
+summary	:	[명] 요약, 개요
+vocalize	:	[동] 소리 내어 말하다, 발성하다
+depiction	:	[명] 묘사, 서술
 
 [aio_oj1_2: AIO 선지 단어 2]
 # AIO 선지 단어를 추출 후 적당히 쪼갠 것
-obtain	/	[동] 얻다, 획득하다
-explanation	/	[명] 설명, 해명
-concealment	/	[명] 은폐, 숨김
-manipulation	/	[명] 조작, (교묘한) 조종
-acquire	/	[동] 습득하다, 얻다
-clarification	/	[명] 명확화, 해명
-interpret	/	[동] 해석하다, 이해하다
-concise	/	[형] 간결한, 축약된
-speculate	/	[동] 추측하다, 짐작하다
-employ	/	[동] 사용하다, 이용하다; 고용하다
-comprehend	/	[동] 이해하다, 파악하다; [동] 포괄하다
-playback	/	[명] 재생
-dialogue	/	[명] 대화
-entertaining	/	[형] 재미있는, 즐거운
-authentic	/	[형] 진짜의, 진정한
-educational	/	[형] 교육적인
-incomprehensible	/	[형] 이해할 수 없는
-exclude	/	[동] 제외하다, 배제하다
-unsuitable	/	[형] 부적합한, 적절하지 않은
-element	/	[명] 요소, 성분
-assistive	/	[형] 보조적인, 돕는
-separately	/	[부] 따로, 별도로
-obscure	/	[형] 모호한, 불분명한; [동] 가리다
-verbal	/	[형] 말의, 언어의
-adjustable	/	[형] 조절 가능한
-personalize	/	[동] 개인화하다, 개인에 맞추다
-impact	/	[명] 영향, 충격; [동] 충돌하다, 영향을 미치다
-blindness	/	[명] 실명, 맹목
-readability	/	[명] 가독성, 읽기 쉬움
-hard-of-hearing	/	[형] 난청의, 귀가 어두운
-deaf	/	[형] 청각 장애가 있는, 귀가 먼
-blurry	/	[형] 흐릿한, 모호한
-secure	/	[동] 확보하다, 얻다; [형] 안전한
-intuitive	/	[형] 직관적인
-confusing	/	[형] 혼란스러운
-enable	/	[동] 가능하게 하다
-permit	/	[동] 허용하다, 가능하게 하다
-familiarity	/	[명] 친숙함, 익숙함
-readable	/	[형] 읽기 쉬운, 가독성이 있는
-confusion	/	[명] 혼란, 혼동
-accommodate	/	[동] 수용하다, 편의를 도모하다, 맞추다
-preference	/	[명] 선호(도), 취향
-suffer from ~	/	[숙] ~로 고통받다, ~을 겪다
-mute	/	[동] 음소거하다, 소리를 죽이다
-interact	/	[동] 상호작용하다
-hinder	/	[동] 방해하다, 저해하다
-simplify	/	[동] 단순화하다, 간소화하다
-obstruct	/	[동] 방해하다, 막다
-short-term	/	[형] 단기적인, 일시적인
-mobility	/	[명] 이동성, 기동성
-accelerate	/	[동] 가속화하다, 촉진하다
-interactive	/	[형] 상호작용하는
-efficient	/	[형] 효율적인
-shortcut	/	[명] 단축키, 지름길
-address	/	[동] 다루다, 해결하려 하다; [동] 연설하다; [명] 주소
-solely	/	[부] 오로지, 단지, 단독으로
-problematic	/	[형] 문제가 있는, 곤란한
-differentiate	/	[동] 구별하다, 차별화하다
-needy	/	[형] 도움이 필요한, 궁핍한
-efficiency	/	[명] 효율성
+obtain	:	[동] 얻다, 획득하다
+explanation	:	[명] 설명, 해명
+concealment	:	[명] 은폐, 숨김
+manipulation	:	[명] 조작, (교묘한) 조종
+acquire	:	[동] 습득하다, 얻다
+clarification	:	[명] 명확화, 해명
+interpret	:	[동] 해석하다, 이해하다
+concise	:	[형] 간결한, 축약된
+speculate	:	[동] 추측하다, 짐작하다
+employ	:	[동] 사용하다, 이용하다; 고용하다
+comprehend	:	[동] 이해하다, 파악하다; [동] 포괄하다
+playback	:	[명] 재생
+dialogue	:	[명] 대화
+entertaining	:	[형] 재미있는, 즐거운
+authentic	:	[형] 진짜의, 진정한
+educational	:	[형] 교육적인
+incomprehensible	:	[형] 이해할 수 없는
+exclude	:	[동] 제외하다, 배제하다
+unsuitable	:	[형] 부적합한, 적절하지 않은
+element	:	[명] 요소, 성분
+assistive	:	[형] 보조적인, 돕는
+separately	:	[부] 따로, 별도로
+obscure	:	[형] 모호한, 불분명한; [동] 가리다
+verbal	:	[형] 말의, 언어의
+adjustable	:	[형] 조절 가능한
+personalize	:	[동] 개인화하다, 개인에 맞추다
+impact	:	[명] 영향, 충격; [동] 충돌하다, 영향을 미치다
+blindness	:	[명] 실명, 맹목
+readability	:	[명] 가독성, 읽기 쉬움
+hard-of-hearing	:	[형] 난청의, 귀가 어두운
+deaf	:	[형] 청각 장애가 있는, 귀가 먼
+blurry	:	[형] 흐릿한, 모호한
+secure	:	[동] 확보하다, 얻다; [형] 안전한
+intuitive	:	[형] 직관적인
+confusing	:	[형] 혼란스러운
+enable	:	[동] 가능하게 하다
+permit	:	[동] 허용하다, 가능하게 하다
+familiarity	:	[명] 친숙함, 익숙함
+readable	:	[형] 읽기 쉬운, 가독성이 있는
+confusion	:	[명] 혼란, 혼동
+accommodate	:	[동] 수용하다, 편의를 도모하다, 맞추다
+preference	:	[명] 선호(도), 취향
+suffer from ~	:	[숙] ~로 고통받다, ~을 겪다
+mute	:	[동] 음소거하다, 소리를 죽이다
+interact	:	[동] 상호작용하다
+hinder	:	[동] 방해하다, 저해하다
+simplify	:	[동] 단순화하다, 간소화하다
+obstruct	:	[동] 방해하다, 막다
+short-term	:	[형] 단기적인, 일시적인
+mobility	:	[명] 이동성, 기동성
+accelerate	:	[동] 가속화하다, 촉진하다
+interactive	:	[형] 상호작용하는
+efficient	:	[형] 효율적인
+shortcut	:	[명] 단축키, 지름길
+address	:	[동] 다루다, 해결하려 하다; [동] 연설하다; [명] 주소
+solely	:	[부] 오로지, 단지, 단독으로
+problematic	:	[형] 문제가 있는, 곤란한
+differentiate	:	[동] 구별하다, 차별화하다
+needy	:	[형] 도움이 필요한, 궁핍한
+efficiency	:	[명] 효율성
 
 [aio_oj1_3: AIO 선지 단어 3]
 # AIO 선지 단어를 추출 후 적당히 쪼갠 것
-user-centric	/	[형] 사용자 중심의
-differentiation	/	[명] 차별화, 구별
-marker	/	[명] 표시, 표식
-ambiguity	/	[명] 모호함, 불명확성
-compromise	/	[명] 타협(안), 절충(안); [동] 타협하다; [동] 악화시키다
-complicate	/	[동] 복잡하게 만들다
-usability	/	[명] 사용성, 이용 편의성
-standardize	/	[동] 표준화하다
-combination	/	[명] 조합, 결합
-rare	/	[형] 드문, 희귀한
-comprehensive	/	[형] 포괄적인, 종합적인
-selective	/	[형] 선택적인
-innate	/	[형] 타고난, 선천적인
-firm	/	[형] 단단한, 확고한; [명] 회사
-unity	/	[명] 통합, 단결, 일치
-interruption	/	[명] 방해, 중단
-continuous	/	[형] 연속적인, 끊임없는
-reliability	/	[명] 신뢰성, 믿음직함
-criticize	/	[동] 비판하다, 비난하다
-unrelated	/	[형] 관련이 없는, 무관한
-both-way	/	[형] 쌍방향의
-impressive	/	[형] 인상적인
-instructive	/	[형] 유익한, 교훈적인
-browse	/	[동] 둘러보다, 검색하다
-obstacle	/	[명] 장애물, 방해물
-pollution	/	[명] 오염
-gain	/	[명] 이익, 이득; [동] 얻다
-restore	/	[동] 되찾다, 회복하다, 복구하다
-employment	/	[명] 고용, 취업
-renewal	/	[명] 재개발, 갱신, 재생
-district	/	[명] 지구, 구역, 지역
-measure	/	[동] 측정하다; [명] 척도; [명] 조치, 대책
-residential	/	[형] 주거의, 거주의
-expense	/	[명] 비용, 지출
-unintended	/	[형] 의도치 않은
-municipal	/	[형] 지방 자치제의, 시의
-preserve	/	[동] 보존하다, 보호하다
-degraded	/	[형] 황폐해진, 악화된
-progression	/	[명] 진행, 발전, 추이
-inequality	/	[명] 불평등
-disparity	/	[명] 격차, 불균형
-contribution	/	[명] 기여, 공헌
-dweller	/	[명] 거주자, 주민
-trigger	/	[명] 계기, 유발 요인; [동] 유발하다
-escalate	/	[동] 급등하다, 확대되다
-metropolitan	/	[형] 대도시의
-minority	/	[명] 소수 집단, 소수
-frustrate	/	[동] 좌절시키다
-conventional	/	[형] 전통적인, 관습적인
-swift	/	[형] 빠른, 신속한
-transformation	/	[명] 변화, 변형, 전환
-evolutionary	/	[형] 진화의, 진화론적인
-artificial	/	[형] 인위적인, 인공의
-wisdom	/	[명] 지혜, 현명함
-nutritional	/	[형] 영양의, 영양학적인
-ethic	/	[명] 윤리, 도덕
-detrimental	/	[형] 해로운, 유해한
-distinctive	/	[형] 독특한, 특유의
-beneficial	/	[형] 유익한, 이로운
-morality	/	[명] 도덕성, 윤리
+user-centric	:	[형] 사용자 중심의
+differentiation	:	[명] 차별화, 구별
+marker	:	[명] 표시, 표식
+ambiguity	:	[명] 모호함, 불명확성
+compromise	:	[명] 타협(안), 절충(안); [동] 타협하다; [동] 악화시키다
+complicate	:	[동] 복잡하게 만들다
+usability	:	[명] 사용성, 이용 편의성
+standardize	:	[동] 표준화하다
+combination	:	[명] 조합, 결합
+rare	:	[형] 드문, 희귀한
+comprehensive	:	[형] 포괄적인, 종합적인
+selective	:	[형] 선택적인
+innate	:	[형] 타고난, 선천적인
+firm	:	[형] 단단한, 확고한; [명] 회사
+unity	:	[명] 통합, 단결, 일치
+interruption	:	[명] 방해, 중단
+continuous	:	[형] 연속적인, 끊임없는
+reliability	:	[명] 신뢰성, 믿음직함
+criticize	:	[동] 비판하다, 비난하다
+unrelated	:	[형] 관련이 없는, 무관한
+both-way	:	[형] 쌍방향의
+impressive	:	[형] 인상적인
+instructive	:	[형] 유익한, 교훈적인
+browse	:	[동] 둘러보다, 검색하다
+obstacle	:	[명] 장애물, 방해물
+pollution	:	[명] 오염
+gain	:	[명] 이익, 이득; [동] 얻다
+restore	:	[동] 되찾다, 회복하다, 복구하다
+employment	:	[명] 고용, 취업
+renewal	:	[명] 재개발, 갱신, 재생
+district	:	[명] 지구, 구역, 지역
+measure	:	[동] 측정하다; [명] 척도; [명] 조치, 대책
+residential	:	[형] 주거의, 거주의
+expense	:	[명] 비용, 지출
+unintended	:	[형] 의도치 않은
+municipal	:	[형] 지방 자치제의, 시의
+preserve	:	[동] 보존하다, 보호하다
+degraded	:	[형] 황폐해진, 악화된
+progression	:	[명] 진행, 발전, 추이
+inequality	:	[명] 불평등
+disparity	:	[명] 격차, 불균형
+contribution	:	[명] 기여, 공헌
+dweller	:	[명] 거주자, 주민
+trigger	:	[명] 계기, 유발 요인; [동] 유발하다
+escalate	:	[동] 급등하다, 확대되다
+metropolitan	:	[형] 대도시의
+minority	:	[명] 소수 집단, 소수
+frustrate	:	[동] 좌절시키다
+conventional	:	[형] 전통적인, 관습적인
+swift	:	[형] 빠른, 신속한
+transformation	:	[명] 변화, 변형, 전환
+evolutionary	:	[형] 진화의, 진화론적인
+artificial	:	[형] 인위적인, 인공의
+wisdom	:	[명] 지혜, 현명함
+nutritional	:	[형] 영양의, 영양학적인
+ethic	:	[명] 윤리, 도덕
+detrimental	:	[형] 해로운, 유해한
+distinctive	:	[형] 독특한, 특유의
+beneficial	:	[형] 유익한, 이로운
+morality	:	[명] 도덕성, 윤리
 
 [aio_oj1_4: AIO 선지 단어 4]
 # AIO 선지 단어를 추출 후 적당히 쪼갠 것
-distort	/	[동] 왜곡하다, 비틀다
-unbeatable	/	[형] 이길 수 없는, 최상의
-foster	/	[동] 조장하다, 육성하다; [형] 입양의
-profitable	/	[형] 수익성이 있는, 이득이 되는
-eco-friendly	/	[형] 친환경적인
-deepen	/	[동] 심화시키다, 깊어지다
-redevelopment	/	[명] 재개발
-paradoxical	/	[형] 역설적인, 모순되는
-ignorant	/	[형] 무지한, 모르는
-unintentionally	/	[부] 의도치 않게, 본의 아니게
-agreeable	/	[형] 쾌적한, 기분 좋은, 동의하는
-emergent	/	[형] 신생의, 새롭게 떠오르는
-revival	/	[명] 부활, 회복, 부흥
-vulnerable	/	[형] 취약한, 연약한, 상처받기 쉬운
-ironically	/	[부] 역설적으로, 얄궂게도
-relocation	/	[명] 이주, 이전
-unaffordable	/	[형] 감당할 수 없는(비싼)
-immigration	/	[명] 이민, 이주
-indifference	/	[명] 무관심
-insufficient	/	[형] 불충분한, 부족한
-reputation	/	[명] 평판, 명성
-density	/	[명] 밀도, 농도
-revitalization	/	[명] 활성화, 재활성화
-inadvertently	/	[부] 무심코, 본의 아니게, 우연히
-gentrification	/	[명] 젠트리피케이션(낙후 지역 고급화 및 원주민 이탈)
-illustrate	/	[동] 보여 주다, 설명하다; [동] 그리다, 삽화를 넣다
-diminish	/	[동] 줄이다, 감소시키다, 약화시키다
-sustain	/	[동] 유지하다, 지속하다
-flock	/	[동] 떼 지어 모이다, 몰려들다
-absorb	/	[동] 흡수하다, 받아들이다
-hostility	/	[명] 적대감, 적의
-neutrality	/	[명] 중립, 중립성
-integrate	/	[동] 통합하다, 포함시키다
-refuse	/	[동] 거부하다, 거절하다
-defensive	/	[형] 방어적인
-discriminatory	/	[형] 차별적인
-cosmopolitan	/	[형] 세계적인, 다문화적인
-incorporate	/	[동] 포함하다, 통합하다, 흡수하다
-reject	/	[동] 거부하다, 거절하다
-monocultural	/	[형] 단일 문화의
-embrace	/	[동] 받아들이다, 포용하다
-prosperity	/	[명] 번영, 성공
-instability	/	[명] 불안정
-spark	/	[동] 유발하다, 촉발하다; [명] 불꽃
-inclusiveness	/	[명] 포용성
-drawback	/	[명] 결점, 단점, 문제점
-enlarge	/	[동] 확대하다, 확장하다
-stability	/	[명] 안정(성)
-gradual	/	[형] 점진적인, 서서히 일어나는
-erosion	/	[명] 침식, 약화, 붕괴
-time-tested	/	[형] 오랜 세월 검증된
-optimism	/	[명] 낙관주의, 낙관론
-skepticism	/	[명] 회의론, 의심
-rethink	/	[동] 재고하다, 다시 생각하다
-revolutionize	/	[동] 혁명을 일으키다, 혁신하다
-alert	/	[형] 기민한, 경계하는, 주의 깊은
-legitimate	/	[형] 타당한, 정당한, 합법적인
-distress	/	[명] 고통, 괴로움
-absurd	/	[형] 터무니없는, 불합리한
-enthusiastic	/	[형] 열정적인, 열렬한
+distort	:	[동] 왜곡하다, 비틀다
+unbeatable	:	[형] 이길 수 없는, 최상의
+foster	:	[동] 조장하다, 육성하다; [형] 입양의
+profitable	:	[형] 수익성이 있는, 이득이 되는
+eco-friendly	:	[형] 친환경적인
+deepen	:	[동] 심화시키다, 깊어지다
+redevelopment	:	[명] 재개발
+paradoxical	:	[형] 역설적인, 모순되는
+ignorant	:	[형] 무지한, 모르는
+unintentionally	:	[부] 의도치 않게, 본의 아니게
+agreeable	:	[형] 쾌적한, 기분 좋은, 동의하는
+emergent	:	[형] 신생의, 새롭게 떠오르는
+revival	:	[명] 부활, 회복, 부흥
+vulnerable	:	[형] 취약한, 연약한, 상처받기 쉬운
+ironically	:	[부] 역설적으로, 얄궂게도
+relocation	:	[명] 이주, 이전
+unaffordable	:	[형] 감당할 수 없는(비싼)
+immigration	:	[명] 이민, 이주
+indifference	:	[명] 무관심
+insufficient	:	[형] 불충분한, 부족한
+reputation	:	[명] 평판, 명성
+density	:	[명] 밀도, 농도
+revitalization	:	[명] 활성화, 재활성화
+inadvertently	:	[부] 무심코, 본의 아니게, 우연히
+gentrification	:	[명] 젠트리피케이션(낙후 지역 고급화 및 원주민 이탈)
+illustrate	:	[동] 보여 주다, 설명하다; [동] 그리다, 삽화를 넣다
+diminish	:	[동] 줄이다, 감소시키다, 약화시키다
+sustain	:	[동] 유지하다, 지속하다
+flock	:	[동] 떼 지어 모이다, 몰려들다
+absorb	:	[동] 흡수하다, 받아들이다
+hostility	:	[명] 적대감, 적의
+neutrality	:	[명] 중립, 중립성
+integrate	:	[동] 통합하다, 포함시키다
+refuse	:	[동] 거부하다, 거절하다
+defensive	:	[형] 방어적인
+discriminatory	:	[형] 차별적인
+cosmopolitan	:	[형] 세계적인, 다문화적인
+incorporate	:	[동] 포함하다, 통합하다, 흡수하다
+reject	:	[동] 거부하다, 거절하다
+monocultural	:	[형] 단일 문화의
+embrace	:	[동] 받아들이다, 포용하다
+prosperity	:	[명] 번영, 성공
+instability	:	[명] 불안정
+spark	:	[동] 유발하다, 촉발하다; [명] 불꽃
+inclusiveness	:	[명] 포용성
+drawback	:	[명] 결점, 단점, 문제점
+enlarge	:	[동] 확대하다, 확장하다
+stability	:	[명] 안정(성)
+gradual	:	[형] 점진적인, 서서히 일어나는
+erosion	:	[명] 침식, 약화, 붕괴
+time-tested	:	[형] 오랜 세월 검증된
+optimism	:	[명] 낙관주의, 낙관론
+skepticism	:	[명] 회의론, 의심
+rethink	:	[동] 재고하다, 다시 생각하다
+revolutionize	:	[동] 혁명을 일으키다, 혁신하다
+alert	:	[형] 기민한, 경계하는, 주의 깊은
+legitimate	:	[형] 타당한, 정당한, 합법적인
+distress	:	[명] 고통, 괴로움
+absurd	:	[형] 터무니없는, 불합리한
+enthusiastic	:	[형] 열정적인, 열렬한
 
 [aio_oj1_5: AIO 선지 단어 5]
 # AIO 선지 단어를 추출 후 적당히 쪼갠 것
-impulsive	/	[형] 충동적인
-valid	/	[형] 유효한, 타당한
-optimal	/	[형] 최적의, 최선의
-intake	/	[명] 섭취, 섭취량
-refine	/	[동] 정제하다, 개선하다
-regimen	/	[명] 식이요법, 섭생, 규정
-acknowledge	/	[동] 인정하다, 시인하다
-revert	/	[동] 되돌아가다, 복귀하다
-ancestor	/	[명] 조상, 선조
-mirror	/	[동] 반영하다, 비추다; [명] 거울
-oppose	/	[동] 반대하다, 대항하다
-principle	/	[명] 원칙, 원리, 신념
-ignore	/	[동] 무시하다
-gravitate	/	[동] 끌리다, 기울다
-align	/	[동] 일치시키다, 나란히 하다
-unethical	/	[형] 비윤리적인
-booster	/	[명] 촉진제, 후원자
-solidify	/	[동] 굳히다, 확고히 하다
-disrupt	/	[동] 방해하다, 혼란에 빠뜨리다
-undermine	/	[동] 약화시키다, 훼손하다
-varied	/	[형] 다양한, 다채로운
-beverage	/	[명] 음료
-arise	/	[동] 생기다, 발생하다
-substantially	/	[부] 상당히, 크게
-pathway	/	[명] 경로, 통로
-presume	/	[동] 추정하다, 가정하다
-cross-sensory	/	[형] 감각 간의, 교차 감각의
-composition	/	[명] 구성, 성분, 작곡
-irrelevant	/	[형] 무관한, 상관없는
-negligible	/	[형] 무시해도 될 정도의, 하찮은
-recession	/	[명] 경기 침체, 불황
-interval	/	[명] 간격, 사이
-figuratively	/	[부] 비유적으로
-literate	/	[형] 읽고 쓸 줄 아는, 교양 있는
-authorized	/	[형] 권한을 부여받은, 공인된
-induce	/	[동] 유발하다, 유도하다, 일으키다
-restrain	/	[동] 억제하다, 제지하다
-in vogue	/	[숙] 유행하는, 인기 있는
-stimulate	/	[동] 자극하다, 활성화하다
-up-to-date	/	[형] 최신의, 현대식의
-durable	/	[형] 내구성이 있는, 오래가는
-cognitive	/	[형] 인지의, 인식의
-genuine	/	[형] 진짜의, 진정한
-psychological	/	[형] 심리적인, 정신의
-possess	/	[동] 소유하다, 지니다
-boost	/	[동] 신장시키다, 북돋우다
-neglect	/	[동] 방치하다, 소홀히 하다; [명] 태만
-updated	/	[형] 최신식의, 갱신된
-illusion	/	[명] 환상, 착각
-duration	/	[명] 지속 기간, 기간
-generous	/	[형] 관대한, 너그러운
-scarcity	/	[명] 희소성, 부족, 결핍
-insecurity	/	[명] 불안정, 불안감
-shortage	/	[명] 부족, 결핍
-bias	/	[명] 편향, 편견
-inquiry	/	[명] 탐구, 질문, 조사
-persuasion	/	[명] 설득
-intellectual	/	[형] 지적인, 지성의
-objective	/	[형] 객관적인; [명] 목표
-tendency	/	[명] 경향, 성향
+impulsive	:	[형] 충동적인
+valid	:	[형] 유효한, 타당한
+optimal	:	[형] 최적의, 최선의
+intake	:	[명] 섭취, 섭취량
+refine	:	[동] 정제하다, 개선하다
+regimen	:	[명] 식이요법, 섭생, 규정
+acknowledge	:	[동] 인정하다, 시인하다
+revert	:	[동] 되돌아가다, 복귀하다
+ancestor	:	[명] 조상, 선조
+mirror	:	[동] 반영하다, 비추다; [명] 거울
+oppose	:	[동] 반대하다, 대항하다
+principle	:	[명] 원칙, 원리, 신념
+ignore	:	[동] 무시하다
+gravitate	:	[동] 끌리다, 기울다
+align	:	[동] 일치시키다, 나란히 하다
+unethical	:	[형] 비윤리적인
+booster	:	[명] 촉진제, 후원자
+solidify	:	[동] 굳히다, 확고히 하다
+disrupt	:	[동] 방해하다, 혼란에 빠뜨리다
+undermine	:	[동] 약화시키다, 훼손하다
+varied	:	[형] 다양한, 다채로운
+beverage	:	[명] 음료
+arise	:	[동] 생기다, 발생하다
+substantially	:	[부] 상당히, 크게
+pathway	:	[명] 경로, 통로
+presume	:	[동] 추정하다, 가정하다
+cross-sensory	:	[형] 감각 간의, 교차 감각의
+composition	:	[명] 구성, 성분, 작곡
+irrelevant	:	[형] 무관한, 상관없는
+negligible	:	[형] 무시해도 될 정도의, 하찮은
+recession	:	[명] 경기 침체, 불황
+interval	:	[명] 간격, 사이
+figuratively	:	[부] 비유적으로
+literate	:	[형] 읽고 쓸 줄 아는, 교양 있는
+authorized	:	[형] 권한을 부여받은, 공인된
+induce	:	[동] 유발하다, 유도하다, 일으키다
+restrain	:	[동] 억제하다, 제지하다
+in vogue	:	[숙] 유행하는, 인기 있는
+stimulate	:	[동] 자극하다, 활성화하다
+up-to-date	:	[형] 최신의, 현대식의
+durable	:	[형] 내구성이 있는, 오래가는
+cognitive	:	[형] 인지의, 인식의
+genuine	:	[형] 진짜의, 진정한
+psychological	:	[형] 심리적인, 정신의
+possess	:	[동] 소유하다, 지니다
+boost	:	[동] 신장시키다, 북돋우다
+neglect	:	[동] 방치하다, 소홀히 하다; [명] 태만
+updated	:	[형] 최신식의, 갱신된
+illusion	:	[명] 환상, 착각
+duration	:	[명] 지속 기간, 기간
+generous	:	[형] 관대한, 너그러운
+scarcity	:	[명] 희소성, 부족, 결핍
+insecurity	:	[명] 불안정, 불안감
+shortage	:	[명] 부족, 결핍
+bias	:	[명] 편향, 편견
+inquiry	:	[명] 탐구, 질문, 조사
+persuasion	:	[명] 설득
+intellectual	:	[형] 지적인, 지성의
+objective	:	[형] 객관적인; [명] 목표
+tendency	:	[명] 경향, 성향
 
 [aio_oj1_6: AIO 선지 단어 6]
 # AIO 선지 단어를 추출 후 적당히 쪼갠 것
-prior	/	[형] 이전의, 사전의
-superiority	/	[명] 우월성, 우수성
-abandon	/	[동] 버리다, 포기하다
-reasoning	/	[명] 추론, 사고
-dismiss	/	[동] 묵살하다, 해고하다
-rationalize	/	[동] 합리화하다
-mature	/	[동] 성숙하다; [형] 성숙한
-eliminate	/	[동] 제거하다, 없애다
-resign	/	[동] 사임하다, 사직하다, 체념하다
-substitute	/	[동] 대체하다; [명] 대체물
-spike	/	[명] 급등, 급증; [동] 급등하다
-detox	/	[명] 해독, 디톡스
-addiction	/	[명] 중독
-prompt	/	[동] 촉발하다, 유도하다; [형] 즉각적인
-paradoxically	/	[부] 역설적으로
-empathy	/	[명] 공감, 감정이입
-literary	/	[형] 문학의, 문학적인
-advancement	/	[명] 발전, 진보
-everlasting	/	[형] 영원한, 변치 않는
-consistency	/	[명] 일관성
-exposure	/	[명] 노출, 접함
-tailor	/	[동] 맞추다, 조정하다; [명] 재단사
-mechanism	/	[명] 기제, 작동 구조, 메커니즘
-hardship	/	[명] 고난, 어려움
-modify	/	[동] 수정하다, 변경하다
-correlation	/	[명] 상관관계
-atmospheric	/	[형] 대기의, 대기권의
-accumulation	/	[명] 축적, 누적
-amplify	/	[동] 증폭시키다, 확대하다
-elevated	/	[형] 높아진, 상승한
-inconsistent	/	[형] 일관성 없는, 변덕스러운
-inconsistency	/	[명] 불일치, 비일관성
-athletic	/	[형] 운동의, 체육의
-unpredictability	/	[명] 예측 불가능성
-intervention	/	[명] 개입, 조치, 중재
-variable	/	[명] 변수; [형] 변동이 심한
-impartial	/	[형] 공정한, 편견 없는
-influx	/	[명] 유입, 쇄도
-cohesion	/	[명] 결속, 화합
-intrinsic	/	[형] 고유한, 본질적인
-consolidate	/	[동] 강화하다, 통합하다
-prone	/	[형] ~하기 쉬운, 경향이 있는
+prior	:	[형] 이전의, 사전의
+superiority	:	[명] 우월성, 우수성
+abandon	:	[동] 버리다, 포기하다
+reasoning	:	[명] 추론, 사고
+dismiss	:	[동] 묵살하다, 해고하다
+rationalize	:	[동] 합리화하다
+mature	:	[동] 성숙하다; [형] 성숙한
+eliminate	:	[동] 제거하다, 없애다
+resign	:	[동] 사임하다, 사직하다, 체념하다
+substitute	:	[동] 대체하다; [명] 대체물
+spike	:	[명] 급등, 급증; [동] 급등하다
+detox	:	[명] 해독, 디톡스
+addiction	:	[명] 중독
+prompt	:	[동] 촉발하다, 유도하다; [형] 즉각적인
+paradoxically	:	[부] 역설적으로
+empathy	:	[명] 공감, 감정이입
+literary	:	[형] 문학의, 문학적인
+advancement	:	[명] 발전, 진보
+everlasting	:	[형] 영원한, 변치 않는
+consistency	:	[명] 일관성
+exposure	:	[명] 노출, 접함
+tailor	:	[동] 맞추다, 조정하다; [명] 재단사
+mechanism	:	[명] 기제, 작동 구조, 메커니즘
+hardship	:	[명] 고난, 어려움
+modify	:	[동] 수정하다, 변경하다
+correlation	:	[명] 상관관계
+atmospheric	:	[형] 대기의, 대기권의
+accumulation	:	[명] 축적, 누적
+amplify	:	[동] 증폭시키다, 확대하다
+elevated	:	[형] 높아진, 상승한
+inconsistent	:	[형] 일관성 없는, 변덕스러운
+inconsistency	:	[명] 불일치, 비일관성
+athletic	:	[형] 운동의, 체육의
+unpredictability	:	[명] 예측 불가능성
+intervention	:	[명] 개입, 조치, 중재
+variable	:	[명] 변수; [형] 변동이 심한
+impartial	:	[형] 공정한, 편견 없는
+influx	:	[명] 유입, 쇄도
+cohesion	:	[명] 결속, 화합
+intrinsic	:	[형] 고유한, 본질적인
+consolidate	:	[동] 강화하다, 통합하다
+prone	:	[형] ~하기 쉬운, 경향이 있는
+
 
 
 [passage_CE_L4: 4과 지문]
