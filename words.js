@@ -1552,6 +1552,531 @@ consolidate	:	[동] 강화하다, 통합하다
 prone	:	[형] ~하기 쉬운, 경향이 있는
 
 
+[net_1: 동의어 테스트 / 반의어 테스트]
+increase, expand, enlarge, extend : [동] 증가하다, 확장하다
+<=>
+reduce, diminish, lessen, minimize : [동] 줄이다, 감소시키다
+
+rise, escalate, surge, spike : [동] 오르다, 급등하다, 급증하다
+<=>
+drop, fall, decline, plunge : [동] 떨어지다, 하락하다, 급락하다
+
+boost, enhance, improve, elevate : [동] 향상시키다, 높이다
+<=>
+degrade, undermine, weaken, impair : [동] 저하시키다, 약화시키다, 손상시키다
+
+strengthen, reinforce, consolidate, solidify : [동] 강화하다, 굳히다
+<=>
+corrode, erode, weaken, undermine : [동] 부식시키다, 약화시키다
+
+accelerate, facilitate, promote, foster : [동] 촉진하다, 가속하다
+<=>
+hinder, obstruct, disrupt, impede : [동] 방해하다, 저해하다
+
+stimulate, inspire, motivate, encourage : [동] 자극하다, 고무하다, 동기를 부여하다
+<=>
+discourage, deter, demotivate, inhibit : [동] 의욕을 꺾다, 저해하다, 억제하다
+
+lead to, result in, induce, trigger : [동] 유발하다, 촉발하다, 초래하다
+
+allow, permit, enable, authorize : [동] 허용하다, 가능하게 하다
+<=>
+prevent, restrain, restrict, prohibit : [동] 막다, 억제하다, 제한하다, 금지하다
+
+include, incorporate, integrate, encompass : [동] 포함하다, 통합하다
+<=>
+exclude, isolate, omit, leave out : [동] 배제하다, 고립시키다, 제외하다
+
+eliminate, remove, eradicate, abolish : [동] 제거하다, 없애다, 근절하다
+
+accept, embrace, adopt, welcome : [동] 받아들이다, 포용하다, 채택하다
+<=>
+refuse, reject, dismiss, decline : [동] 거부하다, 거절하다, 묵살하다
+
+acknowledge, recognize, admit, concede : [동] 인정하다, 시인하다
+<=>
+ignore, overlook, disregard, neglect : [동] 무시하다, 간과하다, 방치하다
+
+retain, sustain, preserve, maintain : [동] 유지하다, 지속하다, 보존하다
+<=>
+abandon, quit, resign, forsake : [동] 버리다, 포기하다, 그만두다
+
+accomplish, achieve, complete, fulfill : [동] 성취하다, 달성하다, 완수하다
+
+obtain, acquire, secure, gain : [동] 얻다, 습득하다, 확보하다
+<=>
+give, donate, contribute, bestow : [동] 주다, 기부하다, 기증하다
+
+absorb, consume, take in, assimilate : [동] 흡수하다, 섭취하다
+<=>
+release, let out, emit, discharge : [동] 방출하다, 내보내다
+
+connect, link, associate, relate : [동] 연결하다, 연관짓다
+<=>
+isolate, separate, detach, disconnect : [동] 분리하다, 고립시키다
+
+blend, fuse, merge, combine : [동] 섞이다, 융합하다, 결합하다
+<=>
+divide, split, separate, partition : [동] 나누다, 분리하다
+
+differentiate, distinguish, tell apart, discern : [동] 구별하다, 식별하다
+<=>
+confuse, mix up, conflate, lump together : [동] 혼동하다, 뒤섞다
+
+balance, counterbalance, offset, neutralize : [동] 균형을 맞추다, 상쇄하다
+
+adjust, adapt, modify, fine-tune : [동] 조절하다, 수정하다, 맞추다
+
+correct, refine, rectify, amend : [동] 수정하다, 개선하다, 바로잡다
+<=>
+distort, twist, falsify, misrepresent : [동] 왜곡하다, 비틀다
+
+assist, support, aid, back up : [동] 돕다, 지원하다, 뒷받침하다
+<=>
+oppose, resist, object to, defy : [동] 반대하다, 저항하다
+
+praise, compliment, commend, applaud : [동] 칭찬하다, 찬양하다
+<=>
+criticize, condemn, blame, censure : [동] 비판하다, 비난하다
+
+perceive, detect, sense, identify : [동] 인식하다, 감지하다, 식별하다
+<=>
+overlook, ignore, miss, disregard : [동] 간과하다, 무시하다, 놓치다
+
+comprehend, figure out, make sense of, grasp : [동] 이해하다, 파악하다
+<=>
+misunderstand, misinterpret, misconstrue, mistake : [동] 오해하다, 잘못 해석하다
+
+assume, presume, speculate, suppose : [동] 추정하다, 가정하다, 추측하다
+<=>
+prove, verify, confirm, substantiate : [동] 증명하다, 입증하다, 확인하다
+
+describe, illustrate, convey, reveal : [동] 묘사하다, 설명하다, 보여주다
+<=>
+obscure, conceal, hide, mask : [동] 가리다, 숨기다, 모호하게 하다
+
+conduct, perform, implement, execute : [동] 수행하다, 시행하다, 실행하다
+
+handle, address, solve, resolve : [동] 다루다, 처리하다, 해결하다
+<=>
+neglect, avoid, evade, shun : [동] 방치하다, 피하다, 회피하다
+
+employ, make use of, take advantage of, utilize : [동] 사용하다, 이용하다, 활용하다
+
+assess, evaluate, measure, appraise : [동] 평가하다, 측정하다
+
+consider, rethink, take into consideration, contemplate : [동] 고려하다, 숙고하다
+
+depend on, rely on, count on, lean on : [동] 의존하다, 의지하다
+
+occur, arise, take place, happen : [동] 일어나다, 발생하다
+
+recall, remember, recollect, call to mind : [동] 기억하다, 회상하다
+<=>
+forget, draw a blank, put out of mind, overlook : [동] 잊다, 까먹다
+
+offer, provide, present, supply : [동] 제공하다, 제시하다, 공급하다
+
+replace, substitute, supplant, displace : [동] 대체하다, 대신하다
+
+create, generate, produce, invent : [동] 창조하다, 생성하다, 만들어내다
+
+search, explore, browse, navigate : [동] 탐색하다, 탐구하다, 둘러보다
+
+respond, reply, answer, react : [동] 응답하다, 대답하다, 반응하다
+
+focus, concentrate, center, zero in : [동] 집중하다, 모으다
+<=>
+wander, drift, lose focus, digress : [동] 산만해지다, 집중력을 잃다
+
+evolve, develop, progress, advance : [동] 진화하다, 발전하다
+<=>
+regress, degenerate, decline, deteriorate : [동] 퇴보하다, 쇠퇴하다
+
+align, match, correspond, coincide : [동] 일치하다, 부합하다
+<=>
+conflict, clash, diverge, differ : [동] 충돌하다, 어긋나다, 다르다
+
+reflect, mirror, echo, represent : [동] 반영하다, 비추다, 나타내다
+
+form, shape, mold, forge : [동] 형성하다, 만들다
+
+compensate, make amends, reimburse, repay : [동] 보상하다, 배상하다
+
+store, encode, save, retain : [동] 저장하다, 기억하다, 보관하다
+
+assert, claim, contend, maintain : [동] 주장하다, 단언하다
+
+simplify, streamline, clarify, boil down : [동] 단순화하다, 간소화하다
+<=>
+complicate, entangle, confuse, muddle : [동] 복잡하게 만들다
+
+crucial, essential, vital, central : [형] 결정적인, 필수적인, 핵심적인
+<=>
+trivial, minor, negligible, unnecessary : [형] 사소한, 하찮은, 불필요한
+
+valuable, valued, desirable, beneficial : [형] 가치 있는, 바람직한, 유익한
+<=>
+harmful, detrimental, destructive, damaging : [형] 해로운, 유해한, 파괴적인
+
+clear, explicit, evident, obvious : [형] 명확한, 명시적인, 분명한
+<=>
+obscure, blurry, vague, ambiguous : [형] 모호한, 흐릿한, 불분명한
+
+accurate, exact, factual, precise : [형] 정확한, 사실에 근거한
+<=>
+imprecise, distorted, inaccurate, erroneous : [형] 부정확한, 왜곡된, 잘못된
+
+valid, legitimate, rational, reasonable : [형] 타당한, 정당한, 이성적인
+<=>
+absurd, contradictory, irrational, illogical : [형] 터무니없는, 모순되는, 비합리적인
+
+authentic, genuine, real, true : [형] 진짜의, 진정한
+<=>
+artificial, illusory, fake, counterfeit : [형] 인위적인, 가짜의, 허상의
+
+accessible, available, functionable, usable : [형] 접근 가능한, 이용 가능한
+<=>
+inaccessible, unreachable, unusable, impossible : [형] 접근할 수 없는, 사용할 수 없는, 불가능한
+
+affordable, inexpensive, reasonably priced, economical : [형] 감당할 수 있는, 가격이 알맞은, 저렴한
+<=>
+unaffordable, expensive, costly, exorbitant : [형] 감당할 수 없는, 비싼
+
+comfortable, easy, user-friendly, convenient : [형] 편안한, 쉬운, 편리한, 사용하기 쉬운
+<=>
+uncomfortable, inconvenient, unwieldy, cumbersome : [형] 불편한, 다루기 힘든, 번거로운
+
+challenging, demanding, tough, arduous : [형] 힘든, 어려운, 부담이 큰
+<=>
+easy, simple, effortless, straightforward : [형] 쉬운, 편한, 수월한
+
+appropriate, fit, suitable, proper : [형] 적절한, 알맞은
+<=>
+unsuitable, inappropriate, improper, unfit : [형] 부적합한, 적절하지 않은
+
+related, relevant, connected, associated : [형] 관련된, 연관된
+<=>
+irrelevant, unrelated, independent, unconnected : [형] 무관한, 관련이 없는
+
+inclusive, open-minded, tolerant, broad-minded : [형] 포용적인, 개방적인, 관용적인
+<=>
+exclusive, discriminatory, narrow-minded, prejudiced : [형] 배타적인, 차별적인, 편협한
+
+contemporary, up-to-date, updated, modern : [형] 현대의, 최신식의
+<=>
+ancient, classical, conventional, outdated : [형] 고대의, 전통적인, 관습적인, 구식의
+
+enduring, everlasting, permanent, perpetual : [형] 지속적인, 영원한, 영구적인
+<=>
+temporary, short-term, transient, fleeting : [형] 일시적인, 단기적인, 순간적인
+
+continuous, constant, solid, incessant : [형] 연속적인, 끊임없는, 일정한
+<=>
+periodic, variable, intermittent, sporadic : [형] 주기적인, 변동이 심한, 간헐적인
+
+ever-changing, variable, adjustable, fluid : [형] 끊임없이 변화하는, 변동이 심한, 유연한
+<=>
+static, firm, predetermined, standardized : [형] 정적인, 확고한, 고정된
+
+diverse, varied, multiple, various : [형] 다양한, 다수의
+<=>
+identical, uniform, homogeneous, indistinguishable : [형] 동일한, 획일적인
+
+multicultural, cosmopolitan, cross-cultural, pluralistic : [형] 다문화적인, 세계적인, 다원적인
+<=>
+monocultural, homogeneous, insular, parochial : [형] 단일 문화의, 폐쇄적인
+
+deliberate, intended, intentional, planned : [형] 의도적인, 계획된
+<=>
+unintended, unconscious, spontaneous, accidental : [형] 의도치 않은, 무의식적인, 우발적인
+
+aware, alert, conscious, mindful : [형] 인식하는, 주의 깊은, 의식하는
+<=>
+ignorant, indifferent, unaware, oblivious : [형] 무지한, 무관심한, 알아차리지 못하는
+
+enthusiastic, inclined, eager, willing : [형] 열정적인, 마음이 내키는, 기꺼이 하는
+<=>
+reluctant, hesitant, skeptical, unwilling : [형] 꺼리는, 주저하는, 회의적인
+
+pleased, delighted, satisfied, content : [형] 기쁜, 즐거운, 만족해하는
+<=>
+frustrated, disappointed, dissatisfied, discontented : [형] 좌절한, 실망한, 불만족스러운
+
+confident, assured, self-assured, poised : [형] 자신감 있는, 확신하는
+<=>
+anxious, nervous, uneasy, apprehensive : [형] 불안한, 초조한, 염려하는
+
+supportive, generous, kind, considerate : [형] 지지하는, 관대한, 친절한, 배려하는
+<=>
+self-centered, selfish, egoistic, inconsiderate : [형] 자기중심적인, 이기적인
+
+ethical, moral, principled, virtuous : [형] 윤리적인, 도덕적인
+<=>
+unethical, immoral, unprincipled, corrupt : [형] 비윤리적인, 부도덕한
+
+positive, optimistic, constructive, favorable : [형] 긍정적인, 낙관적인
+<=>
+negative, pessimistic, unfavorable, adverse : [형] 부정적인, 비관적인
+
+superior to, optimal, unbeatable, unmatched : [형] 우수한, 최적의, 최상의
+<=>
+inferior, degraded, poor, substandard : [형] 열등한, 퇴화한, 좋지 않은
+
+wealthy, rich, affluent, prosperous : [형] 부유한, 유복한
+<=>
+poor, needy, broke, low-income : [형] 가난한, 궁핍한, 저소득의
+
+rapid, swift, immediate, prompt : [형] 빠른, 신속한, 즉각적인
+<=>
+gradual, slow, progressive, incremental : [형] 점진적인, 느린, 서서히 일어나는
+
+normal, ordinary, regular, common : [형] 정상적인, 평범한, 흔한
+<=>
+odd, rare, distinctive, unusual : [형] 이상한, 드문, 독특한
+
+countless, numerous, abundant, plentiful : [형] 무수한, 수많은, 풍부한
+<=>
+insufficient, scarce, deficient, inadequate : [형] 불충분한, 부족한, 결핍된
+
+complicated, intricate, complex, elaborate : [형] 복잡한, 난해한, 정교한
+<=>
+concise, brief, simple, straightforward : [형] 간결한, 간단한, 단순한
+
+foreseen, predetermined, predictable, expected : [형] 예견된, 미리 결정된, 예측 가능한
+<=>
+unexpected, unpredictable, uncertain, unforeseen : [형] 예기치 않은, 예측할 수 없는, 불확실한
+
+able toR, capable of, competent toR, qualified toR : [형] ~할 수 있는, 유능한
+<=>
+unable toR, incapable of, incompetent toR, powerless toR : [형] ~할 수 없는, 무능력한
+
+appealing, attractive, impressive, captivating : [형] 매력적인, 인상적인
+<=>
+unappealing, unattractive, dull, forgettable : [형] 매력 없는, 지루한, 인상 깊지 않은
+
+awkward, clumsy, uncoordinated, graceless : [형] 어색한, 서투른
+<=>
+graceful, skillful, deft, nimble : [형] 우아한, 능숙한, 재빠른
+
+effective, efficient, productive, efficacious : [형] 효과적인, 효율적인, 생산적인
+<=>
+ineffective, inefficient, unproductive, futile : [형] 비효과적인, 비효율적인, 헛된
+
+innate, intrinsic, inborn, inherent : [형] 타고난, 고유한, 본질적인
+<=>
+acquired, learned, extrinsic, external : [형] 후천적인, 학습된, 외부의
+
+entertaining, exhilarating, amusing, enjoyable : [형] 재미있는, 신나는, 즐거운
+<=>
+boring, tedious, monotonous, tiresome : [형] 지루한, 따분한, 단조로운
+
+basic, primary, fundamental, elementary : [형] 기본적인, 근본적인, 기초적인
+<=>
+advanced, secondary, peripheral, derivative : [형] 고급의, 부차적인, 파생적인
+
+deaf, hard-of-hearing, hearing-impaired, unhearing : [형] 청각 장애가 있는, 난청의
+
+cognitive, intellectual, mental, cerebral : [형] 인지의, 지적인, 정신의
+
+audio, auditory, acoustic, sonic : [형] 소리의, 청각의, 음향의
+
+metropolitan, urban, municipal, civic : [형] 대도시의, 도시의
+<=>
+rural, rustic, pastoral, suburban : [형] 시골의, 농촌의, 교외의
+
+corporate, commercial, business, mercantile : [형] 기업의, 상업적인
+
+merit, strength, benefit, gain : [명] 장점, 이득, 이익
+<=>
+demerit, drawback, disadvantage, shortcoming : [명] 단점, 결점, 불이익
+
+barrier, obstacle, difficulty, hardship : [명] 장벽, 장애물, 어려움
+
+clarity, transparency, certainty, lucidity : [명] 명료함, 투명성, 확실성
+<=>
+ambiguity, confusion, illusion, obscurity : [명] 모호함, 혼란, 착각
+
+scarcity, shortage, lack, deficiency : [명] 희소성, 부족, 결핍
+<=>
+abundance, plenty, surplus, excess : [명] 풍부함, 과잉, 잉여
+
+advancement, evolution, improvement, progress : [명] 발전, 진화, 개선, 진보
+<=>
+degradation, erosion, recession, decline : [명] 저하, 침식, 침체, 쇠퇴
+
+revival, renewal, revitalization, regeneration : [명] 부활, 갱신, 활성화, 재생
+
+stability, steadiness, equilibrium, constancy : [명] 안정성, 불변성, 균형
+<=>
+instability, insecurity, volatility, fluctuation : [명] 불안정, 불안감, 변동성
+
+consistency, uniformity, coherence, regularity : [명] 일관성, 획일성, 규칙성
+<=>
+inconsistency, discrepancy, contradiction, irregularity : [명] 불일치, 비일관성, 모순
+
+predictability, foreseeability, certainty, regularity : [명] 예측 가능성, 확실성
+<=>
+unpredictability, uncertainty, randomness, volatility : [명] 예측 불가능성, 불확실성
+
+justice, fairness, equity, impartiality : [명] 정의, 공정, 공평
+<=>
+inequality, injustice, disparity, unfairness : [명] 불평등, 불공정, 격차
+
+neutrality, nondiscrimination, impartiality, objectivity : [명] 중립성, 무차별, 공정성
+<=>
+bias, discrimination, prejudice, partiality : [명] 편향, 차별, 편견
+
+cohesion, unity, solidarity, harmony : [명] 결속, 통합, 단결
+<=>
+separation, division, fragmentation, disunity : [명] 분리, 나눔, 분열
+
+bond, connection, association, correlation : [명] 유대, 연결, 연관성, 상관관계
+
+convenience, ease, comfort, utility : [명] 편리함, 용이함
+<=>
+inconvenience, discomfort, trouble, nuisance : [명] 불편, 불편함, 성가심
+
+empathy, sympathy, compassion, fellow feeling : [명] 공감, 동정, 연민
+<=>
+indifference, apathy, detachment, unconcern : [명] 무관심, 냉담
+
+prosperity, triumph, success, affluence : [명] 번영, 승리, 성공
+<=>
+recession, hardship, distress, adversity : [명] 불황, 고난, 고통, 역경
+
+majority, bulk, mass, preponderance : [명] 대다수, 대부분
+<=>
+minority, handful, fraction, small number : [명] 소수, 소수 집단, 극소수
+
+simplicity, easiness, plainness, straightforwardness : [명] 단순함, 간단함, 명쾌함
+<=>
+complexity, intricacy, complication, convolution : [명] 복잡성, 난해함
+
+fame, reputation, renown, prestige : [명] 명성, 평판, 위신
+<=>
+obscurity, anonymity, infamy, disgrace : [명] 무명, 불명예, 오명
+
+cost, expense, fee, charge : [명] 비용, 지출, 요금
+
+outcome, consequence, result, effect : [명] 결과, 영향
+
+characteristic, feature, trait, attribute : [명] 특징, 특성, 자질
+
+area, district, region, neighbourhood : [명] 지역, 구역
+
+dweller, resident, inhabitant, occupant : [명] 거주자, 주민
+
+audience, spectator, viewer, onlooker : [명] 청중, 관중, 시청자
+
+competition, contest, tournament, match : [명] 경쟁, 대회, 시합
+
+cue, signal, indicator, marker : [명] 단서, 신호, 지표
+
+device, tool, utensil, instrument : [명] 기기, 도구, 기구
+
+circumstance, context, condition, environment : [명] 상황, 맥락, 조건, 환경
+
+evidence, testament, proof, verification : [명] 증거, 증명
+
+limitation, boundary, limit, restriction : [명] 한계, 경계, 제한
+
+transformation, transition, change, shift : [명] 변화, 전환, 변형
+
+basis, foundation, groundwork, cornerstone : [명] 기초, 토대, 기반
+
+explanation, description, depiction, account : [명] 설명, 묘사, 서술
+
+clarification, explanation, elucidation, exposition : [명] 명확화, 해명, 설명
+
+ethic, morality, moral code, principle : [명] 윤리, 도덕, 원칙
+
+disability, handicap, impairment, incapacity : [명] 장애, 불리한 조건
+
+experiment, trial, test, investigation : [명] 실험, 시도, 시험
+
+motive, intention, purpose, aim : [명] 동기, 의도, 목적
+
+approach, strategy, technique, method : [명] 접근법, 전략, 기법, 방법
+
+guideline, instruction, direction, manual : [명] 지침, 설명, 규정
+
+belief, trust, faith, conviction : [명] 믿음, 신뢰, 신념
+<=>
+doubt, distrust, skepticism, suspicion : [명] 의심, 불신, 회의론
+
+anxiety, insecurity, unease, apprehension : [명] 불안, 불안감, 걱정
+<=>
+relief, peace of mind, tranquility, assurance : [명] 안도, 평온, 안심
+
+conservation, protection, preservation, safeguarding : [명] 보호, 보존, 유지
+<=>
+destruction, exploitation, neglect, devastation : [명] 파괴, 남용, 방치
+
+firm, corporation, company, enterprise : [명] 회사, 기업
+
+format, form, layout, structure : [명] 형식, 형태, 배치, 구조
+
+factor, element, component, constituent : [명] 요인, 요소, 성분
+
+mechanism, process, system, procedure : [명] 기제, 작동 구조, 과정
+
+awareness, consciousness, realization, perception : [명] 인식, 의식, 자각
+<=>
+ignorance, obliviousness, unawareness, unconsciousness : [명] 무지, 무의식, 자각 없음
+
+consciously, intentionally, deliberately, purposefully : [부] 의식적으로, 의도적으로
+<=>
+inadvertently, unintentionally, accidentally, unwittingly : [부] 무심코, 본의 아니게, 우연히
+
+automatically, spontaneously, instinctively, involuntarily : [부] 자동적으로, 저절로, 본능적으로
+
+normally, generally, usually, typically : [부] 정상적으로, 일반적으로, 보통
+<=>
+abnormally, unusually, extraordinarily, atypically : [부] 비정상적으로, 특이하게
+
+substantially, highly, a great deal, considerably : [부] 상당히, 매우, 엄청나게
+<=>
+a little, slightly, somewhat, marginally : [부] 다소, 약간, 미미하게
+
+clearly, obviously, transparently, evidently : [부] 분명히, 명확히, 투명하게
+<=>
+imperceptibly, vaguely, obscurely, ambiguously : [부] 감지할 수 없을 정도로, 모호하게
+
+correctly, rightly, accurately, properly : [부] 올바르게, 정확하게, 적절히
+<=>
+poorly, unfairly, incorrectly, inaccurately : [부] 형편없이, 불공정하게, 잘못되게
+
+immediately, overnight, instantly, promptly : [부] 즉시, 갑자기, 곧바로
+<=>
+progressively, over time, step by step, gradually : [부] 점진적으로, 시간이 지나면서, 단계적으로
+
+indefinitely, permanently, endlessly, perpetually : [부] 무기한으로, 영구적으로, 끝없이
+<=>
+temporarily, briefly, momentarily, provisionally : [부] 일시적으로, 잠시 동안
+
+thus, hence, accordingly, consequently : [부] 따라서, 그러므로, 결과적으로
+
+moreover, furthermore, in addition, besides : [부] 게다가, 더욱이, 덧붙여
+
+by contrast, in contrast, on the contrary, on the other hand : [부] 대조적으로, 반대로, 반면에
+<=>
+similarly, likewise, in the same way, correspondingly : [부] 마찬가지로, 유사하게
+
+in fact, as a matter of fact, in reality, actually : [부] 사실은, 실제로
+
+perhaps, probably, chances are, maybe : [부] 아마도, 어쩌면
+
+approximately, nearly, roughly, about : [부] 대략, 거의
+
+literally, word for word, verbatim, strictly : [부] 말 그대로, 문자 그대로
+<=>
+figuratively, metaphorically, symbolically, allegorically : [부] 비유적으로, 상징적으로
+
+despite, in spite of, regardless of, notwithstanding : [전] ~에도 불구하고, ~에 상관없이
+<=>
+because of, due to, owing to, on account of : [전] ~ 때문에
+
 
 [passage_CE_L4: 4과 지문]
 # 글을 보며 뜻을 떠올려보는 연습
